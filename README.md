@@ -11,11 +11,17 @@
 
 ## Compound Design
 
-### Fragmenstein
+ - *SeeSAR / manual* `hippo/seesar_designs.ipynb`
+ - *Fragmenstein* `hippo/load_rahman_merges.ipynb`
+ - *Fragmenstein* `hippo/load_frag_pair_merges.ipynb`
+ - *Fragmenstein* `hippo/load_selected_pures.ipynb`
+ - *Fragmenstein* `hippo/load_Arg144_pures.ipynb`
+ - *FragmentKnitwork* `hippo/load_knitwork.ipynb`
 
+## Compound Curation
 
-
-## Compound Filtering
+ - Catalogue `hippo/curation_catalogue.ipynb`
+ - Bases `hippo/curation_bases.ipynb`
 
 ## FFF Production Run
 
