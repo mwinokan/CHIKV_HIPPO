@@ -1,0 +1,1496 @@
+{
+  "_fragment_atomgroup": null,
+  "_protein": "protein.pdb",
+  "_fragment_mesh": null,
+  "_protein_hull": {
+    "name": "protein hull",
+    "geometry": "_protein_hull.ply",
+    "material": {
+      "absorption_color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "absorption_distance": 1.0,
+      "albedo_img": null,
+      "anisotropy_img": null,
+      "ao_img": null,
+      "ao_rough_metal_img": null,
+      "aspect_ratio": 0.0,
+      "base_anisotropy": 0.0,
+      "base_clearcoat": 0.0,
+      "base_clearcoat_roughness": 0.0,
+      "base_color": [
+        0.8392156958580017,
+        0.15294118225574493,
+        0.1568627506494522,
+        1.0
+      ],
+      "base_metallic": 0.0,
+      "base_reflectance": 0.5,
+      "base_roughness": 1.0,
+      "clearcoat_img": null,
+      "clearcoat_roughness_img": null,
+      "emissive_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "generic_imgs": {},
+      "generic_params": {},
+      "gradient": null,
+      "ground_plane_axis": 0.0,
+      "has_alpha": false,
+      "line_width": 1.0,
+      "metallic_img": null,
+      "normal_img": null,
+      "point_size": 3.0,
+      "reflectance_img": null,
+      "roughness_img": null,
+      "sRGB_color": false,
+      "scalar_max": 1.0,
+      "scalar_min": 0.0,
+      "shader": "defaultLit",
+      "thickness": 1.0,
+      "transmission": 1.0
+    }
+  },
+  "_protein_mesh": {
+    "name": "protein",
+    "geometry": "_protein_mesh.ply",
+    "material": {
+      "absorption_color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "absorption_distance": 1.0,
+      "albedo_img": null,
+      "anisotropy_img": null,
+      "ao_img": null,
+      "ao_rough_metal_img": null,
+      "aspect_ratio": 0.0,
+      "base_anisotropy": 0.0,
+      "base_clearcoat": 0.0,
+      "base_clearcoat_roughness": 0.0,
+      "base_color": [
+        0.8392156958580017,
+        0.15294118225574493,
+        0.1568627506494522,
+        1.0
+      ],
+      "base_metallic": 0.0,
+      "base_reflectance": 0.5,
+      "base_roughness": 1.0,
+      "clearcoat_img": null,
+      "clearcoat_roughness_img": null,
+      "emissive_color": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "generic_imgs": {},
+      "generic_params": {},
+      "gradient": null,
+      "ground_plane_axis": 0.0,
+      "has_alpha": false,
+      "line_width": 1.0,
+      "metallic_img": null,
+      "normal_img": null,
+      "point_size": 3.0,
+      "reflectance_img": null,
+      "roughness_img": null,
+      "sRGB_color": false,
+      "scalar_max": 1.0,
+      "scalar_min": 0.0,
+      "shader": "defaultLit",
+      "thickness": 1.0,
+      "transmission": 1.0
+    }
+  },
+  "_pocket_definitions": {
+    "adenine (A)": {
+      "type": "sphere",
+      "atoms": [
+        "ARG 144 CG A",
+        "VAL 33 CG2 A"
+      ],
+      "radius": 4.5
+    },
+    "ribose (A)": {
+      "type": "sphere",
+      "atoms": [
+        "TYR 114 CZ A",
+        "ASP 31 CA A",
+        "TYR 114 CG A",
+        "GLY 30 C A"
+      ],
+      "radius": 4
+    },
+    "phosphate (A)": {
+      "type": "sphere",
+      "atoms": [
+        "SER 110 N A",
+        "GLY 32 N A",
+        "THR 111 N A"
+      ],
+      "radius": 4
+    },
+    "oxyanion (A)": {
+      "type": "sphere",
+      "atoms": [
+        "THR 111 OG1 A",
+        "ASP 145 N A"
+      ],
+      "radius": 4
+    },
+    "arginine (A)": {
+      "type": "sphere",
+      "atoms": [
+        "ARG 144 NE A",
+        "ASP 10 N A",
+        "LYS 13 NZ A"
+      ],
+      "radius": 4
+    },
+    "adenine (B)": {
+      "type": "sphere",
+      "atoms": [
+        "ARG 144 CG B",
+        "VAL 33 CG2 B"
+      ],
+      "radius": 4.5
+    },
+    "ribose (B)": {
+      "type": "sphere",
+      "atoms": [
+        "TYR 114 CZ B",
+        "ASP 31 CA B",
+        "TYR 114 CG B",
+        "GLY 30 C B"
+      ],
+      "radius": 4
+    },
+    "phosphate (B)": {
+      "type": "sphere",
+      "atoms": [
+        "SER 110 N B",
+        "GLY 32 N B",
+        "THR 111 N B"
+      ],
+      "radius": 4
+    },
+    "oxyanion (B)": {
+      "type": "sphere",
+      "atoms": [
+        "THR 111 OG1 B",
+        "ASP 145 N B"
+      ],
+      "radius": 4
+    },
+    "arginine (B)": {
+      "type": "sphere",
+      "atoms": [
+        "ARG 144 NE B",
+        "ASP 10 N B",
+        "LYS 13 NZ B"
+      ],
+      "radius": 4
+    },
+    "adenine (C)": {
+      "type": "sphere",
+      "atoms": [
+        "ARG 144 CG C",
+        "VAL 33 CG2 C"
+      ],
+      "radius": 4.5
+    },
+    "ribose (C)": {
+      "type": "sphere",
+      "atoms": [
+        "TYR 114 CZ C",
+        "ASP 31 CA C",
+        "TYR 114 CG C",
+        "GLY 30 C C"
+      ],
+      "radius": 4
+    },
+    "phosphate (C)": {
+      "type": "sphere",
+      "atoms": [
+        "SER 110 N C",
+        "GLY 32 N C",
+        "THR 111 N C"
+      ],
+      "radius": 4
+    },
+    "oxyanion (C)": {
+      "type": "sphere",
+      "atoms": [
+        "THR 111 OG1 C",
+        "ASP 145 N C"
+      ],
+      "radius": 4
+    },
+    "arginine (C)": {
+      "type": "sphere",
+      "atoms": [
+        "ARG 144 NE C",
+        "ASP 10 N C",
+        "LYS 13 NZ C"
+      ],
+      "radius": 4
+    },
+    "adenine (D)": {
+      "type": "sphere",
+      "atoms": [
+        "ARG 144 CG D",
+        "VAL 33 CG2 D"
+      ],
+      "radius": 4.5
+    },
+    "ribose (D)": {
+      "type": "sphere",
+      "atoms": [
+        "TYR 114 CZ D",
+        "ASP 31 CA D",
+        "TYR 114 CG D",
+        "GLY 30 C D"
+      ],
+      "radius": 4
+    },
+    "phosphate (D)": {
+      "type": "sphere",
+      "atoms": [
+        "SER 110 N D",
+        "GLY 32 N D",
+        "THR 111 N D"
+      ],
+      "radius": 4
+    },
+    "oxyanion (D)": {
+      "type": "sphere",
+      "atoms": [
+        "THR 111 OG1 D",
+        "ASP 145 N D"
+      ],
+      "radius": 4
+    },
+    "arginine (D)": {
+      "type": "sphere",
+      "atoms": [
+        "ARG 144 NE D",
+        "ASP 10 N D",
+        "LYS 13 NZ D"
+      ],
+      "radius": 4
+    }
+  },
+  "_pockets": {
+    "adenine (A)": {
+      "name": "adenine (A)",
+      "geometry": "pocket_adenine (A).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.5,
+      "center": [
+        15.893,
+        9.036999999999999,
+        12.61
+      ]
+    },
+    "ribose (A)": {
+      "name": "ribose (A)",
+      "geometry": "pocket_ribose (A).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        5.996,
+        8.0755,
+        18.559250000000002
+      ]
+    },
+    "phosphate (A)": {
+      "name": "phosphate (A)",
+      "geometry": "pocket_phosphate (A).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        9.613999999999999,
+        4.655,
+        14.734666666666667
+      ]
+    },
+    "oxyanion (A)": {
+      "name": "oxyanion (A)",
+      "geometry": "pocket_oxyanion (A).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        16.8245,
+        3.7775,
+        11.993500000000001
+      ]
+    },
+    "arginine (A)": {
+      "name": "arginine (A)",
+      "geometry": "pocket_arginine (A).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        19.69666666666667,
+        14.451666666666668,
+        10.541666666666666
+      ]
+    },
+    "adenine (B)": {
+      "name": "adenine (B)",
+      "geometry": "pocket_adenine (B).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.5,
+      "center": [
+        28.1425,
+        33.684,
+        4.8580000000000005
+      ]
+    },
+    "ribose (B)": {
+      "name": "ribose (B)",
+      "geometry": "pocket_ribose (B).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        33.8095,
+        27.012,
+        11.74825
+      ]
+    },
+    "phosphate (B)": {
+      "name": "phosphate (B)",
+      "geometry": "pocket_phosphate (B).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        34.925333333333334,
+        31.74266666666667,
+        7.945666666666665
+      ]
+    },
+    "oxyanion (B)": {
+      "name": "oxyanion (B)",
+      "geometry": "pocket_oxyanion (B).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        31.83,
+        38.146,
+        5.2615
+      ]
+    },
+    "arginine (B)": {
+      "name": "arginine (B)",
+      "geometry": "pocket_arginine (B).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        21.783,
+        33.516333333333336,
+        2.9866666666666664
+      ]
+    },
+    "adenine (C)": {
+      "name": "adenine (C)",
+      "geometry": "pocket_adenine (C).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5803921818733215,
+          0.40392157435417175,
+          0.7411764860153198,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.5,
+      "center": [
+        15.1435,
+        57.9515,
+        -4.0105
+      ]
+    },
+    "ribose (C)": {
+      "name": "ribose (C)",
+      "geometry": "pocket_ribose (C).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        9.47325,
+        51.107000000000006,
+        -9.767000000000001
+      ]
+    },
+    "phosphate (C)": {
+      "name": "phosphate (C)",
+      "geometry": "pocket_phosphate (C).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.8901960849761963,
+          0.46666666865348816,
+          0.7607843279838562,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        8.456999999999999,
+        56.123999999999995,
+        -6.181666666666666
+      ]
+    },
+    "oxyanion (C)": {
+      "name": "oxyanion (C)",
+      "geometry": "pocket_oxyanion (C).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.7372549176216125,
+          0.7411764860153198,
+          0.13333334028720856,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        11.6695,
+        62.72,
+        -4.007
+      ]
+    },
+    "arginine (C)": {
+      "name": "arginine (C)",
+      "geometry": "pocket_arginine (C).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.09019608050584793,
+          0.7450980544090271,
+          0.8117647171020508,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        22.60633333333333,
+        58.006,
+        -2.101666666666667
+      ]
+    },
+    "adenine (D)": {
+      "name": "adenine (D)",
+      "geometry": "pocket_adenine (D).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.5,
+      "center": [
+        -18.29,
+        30.9435,
+        13.881499999999999
+      ]
+    },
+    "ribose (D)": {
+      "name": "ribose (D)",
+      "geometry": "pocket_ribose (D).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        -12.28,
+        33.71175,
+        4.799
+      ]
+    },
+    "phosphate (D)": {
+      "name": "phosphate (D)",
+      "geometry": "pocket_phosphate (D).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        -13.121333333333332,
+        35.839666666666666,
+        10.672333333333333
+      ]
+    },
+    "oxyanion (D)": {
+      "name": "oxyanion (D)",
+      "geometry": "pocket_oxyanion (D).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        -14.890999999999998,
+        33.5055,
+        18.0425
+      ]
+    },
+    "arginine (D)": {
+      "name": "arginine (D)",
+      "geometry": "pocket_arginine (D).ply",
+      "material": {
+        "absorption_color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "absorption_distance": 1.0,
+        "albedo_img": null,
+        "anisotropy_img": null,
+        "ao_img": null,
+        "ao_rough_metal_img": null,
+        "aspect_ratio": 0.0,
+        "base_anisotropy": 0.0,
+        "base_clearcoat": 0.0,
+        "base_clearcoat_roughness": 0.0,
+        "base_color": [
+          0.5490196347236633,
+          0.33725491166114807,
+          0.29411765933036804,
+          0.699999988079071
+        ],
+        "base_metallic": 0.0,
+        "base_reflectance": 0.5,
+        "base_roughness": 1.0,
+        "clearcoat_img": null,
+        "clearcoat_roughness_img": null,
+        "emissive_color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "generic_imgs": {},
+        "generic_params": {},
+        "gradient": null,
+        "ground_plane_axis": 0.0,
+        "has_alpha": true,
+        "line_width": 1.0,
+        "metallic_img": null,
+        "normal_img": null,
+        "point_size": 3.0,
+        "reflectance_img": null,
+        "roughness_img": null,
+        "sRGB_color": false,
+        "scalar_max": 1.0,
+        "scalar_min": 0.0,
+        "shader": "defaultLitTransparency",
+        "thickness": 1.0,
+        "transmission": 1.0
+      },
+      "radius": 4.0,
+      "center": [
+        -23.476,
+        26.108666666666664,
+        15.679666666666668
+      ]
+    }
+  },
+  "_pocket_clip": true,
+  "_pocket_clip_protein": false,
+  "_pocket_clip_hull": false
+}

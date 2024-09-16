@@ -1,9 +1,19 @@
 
 # CHIKV_Mac HIPPO
 
-## Load Fragments
+## Load substrate & fragments
+
+`hippo/hippo.ipynb`
+
+ - Load native substrate
+ - Add Fragalysis hits
+ - PoseButcher tagging
 
 ## Compound Design
+
+### Fragmenstein
+
+
 
 ## Compound Filtering
 
