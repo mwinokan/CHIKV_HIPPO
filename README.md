@@ -1,7 +1,9 @@
 
 # CHIKV_Mac HIPPO
 
-## Load substrate & fragments
+## Prep
+
+### Load substrate & fragments
 
 `hippo/hippo.ipynb`
 
@@ -9,7 +11,7 @@
  - Add Fragalysis hits
  - PoseButcher tagging
 
-## Compound Design
+### Compound Design
 
  - *SeeSAR / manual* `hippo/seesar_designs.ipynb`
  - *Fragmenstein* `hippo/load_rahman_merges.ipynb`
@@ -18,7 +20,7 @@
  - *Fragmenstein* `hippo/load_Arg144_pures.ipynb`
  - *FragmentKnitwork* `hippo/load_knitwork.ipynb`
 
-## Compound Curation
+### Compound Curation
 
  - Catalogue `hippo/curation_catalogue.ipynb`
  - Bases `hippo/curation_bases.ipynb`
