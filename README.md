@@ -27,7 +27,13 @@
 
 ## FFF Production Run
 
+### *Surgery*: deprecate old hits and load newly aligned hits
+
+`hippo_prod/prod0_surgery.ipynb`
+
 ### Load base compounds
+
+`hippo_prod/prod1_bases.ipynb`
 
 ### Load Elaborations
 
