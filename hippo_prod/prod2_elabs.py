@@ -43,3 +43,5 @@ for i, (to_hippo, template) in enumerate(ref_lookup.items()):
     df = animal.add_syndirella_elabs(to_hippo, inspiration_map=obs_mapper, reference=animal.poses[template])
 
 animal.db.close()
+
+# sb.sh --job-name CHIKV_Mac_prod2 $HOME2/slurm/run_python.sh prod2_elabs.py
