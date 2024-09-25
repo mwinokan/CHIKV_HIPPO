@@ -53,6 +53,8 @@
 
 ### Starting recipe
 
+`hippo_prod/prod6_starting_recipe.ipynb`
+
 ### Solve product pool
 
 ### Solve routes
