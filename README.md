@@ -37,7 +37,19 @@
 
 ### Load Elaborations
 
+`hippo_prod/prod2_elabs.py`
+
 ### Enamine BB quote
+
+`hippo_prod/prod3_bb_order.ipynb`
+
+### Interactions
+
+`hippo_prod/prod4_interactions.py`
+
+### Load BB quote
+
+`hippo_prod/prod5_load_quote.py`
 
 ### Starting recipe
 
@@ -47,12 +59,7 @@
 
 ### Create RRG
 
-### Fingerprinting
-
-### Interactions
-
 ### Sampling
 
 ### Scoring / Selection
-
 
