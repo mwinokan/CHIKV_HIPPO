@@ -2,27 +2,27 @@ ver_1.2
      RDKit          3D
 
  21 22  0  0  0  0  0  0  0  0999 V2000
-   -5.3676    1.6867   -1.4700 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.3195    2.2032   -0.1815 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.3512    1.1213    0.7153 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.1866    0.2221    0.4869 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.4292   -0.6500    1.3873 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.2659    0.5380   -0.5201 N   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.1383   -0.2925   -0.7735 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.2438   -1.3245   -1.6833 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.2047   -2.1763   -1.9895 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.0163   -2.0243   -1.3795 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.1534   -1.0006   -0.4641 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.4156   -0.7350    0.2578 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.6132    0.1733    1.0999 O   0  0  0  0  0  0  0  0  0  0  0  0
-    2.4975   -1.5842   -0.0293 N   0  0  0  0  0  0  0  0  0  0  0  0
-    3.7850   -1.4570    0.5862 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.4466   -0.1472    0.3440 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.3185    0.7855    1.0379 C   0  0  0  0  0  0  0  0  0  0  0  0
-    4.8789    2.0198    0.9009 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.6561    2.2454   -0.0998 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.6323    0.5599   -0.9847 S   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.9068   -0.1635   -0.1786 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8360    1.4721    0.4540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3828    1.0855    1.6900 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0174    1.1402    1.8259 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3159    0.2530    0.8416 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5050   -0.5451   -0.0877 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8920    0.3279    1.0039 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9968   -0.4210    0.1892 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3560   -1.2833   -0.8232 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4285   -1.9731   -1.5681 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.1090   -1.7746   -1.2689 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2840   -0.9276   -0.2723 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.7225   -0.7467    0.0131 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.0622    0.0526    0.9519 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.6807   -1.4432   -0.7380 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1183   -1.3457   -0.5488 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.6625    0.0000   -0.7301 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1345    0.7308   -1.6413 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5567    1.9908   -1.4089 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5142    2.5331   -0.2768 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7624    1.1144    0.7343 S   0  0  0  0  0  0  0  0  0  0  0  0
+    0.6588   -0.2400    0.4692 C   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0
   2  3  1  0
   3  4  1  0
@@ -63,6 +63,9 @@ DLS
 
 >  <method>  (1) 
 Accessible FFF Scaffolds
+
+>  <exports>  (1) 
+exports
 
 >  <smiles>  (1) 
 smiles
@@ -128,6 +131,9 @@ c0270a
 >  <tags>  (1) 
 ['Syndirella base']
 
+>  <exports>  (1) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (1) 
 None
 
@@ -138,7 +144,7 @@ COCC(=O)Nc1cccc(C(=O)NCc2cccs2)c1
 QVSYFXSEJNFZKD-UHFFFAOYSA-N
 
 >  <ref_mols>  (1) 
-cx0692a,c0692a,c0892a
+c0692a,c0892a
 
 >  <method>  (1) 
 None
@@ -206,6 +212,9 @@ c0270a
 >  <tags>  (2) 
 ['Syndirella base']
 
+>  <exports>  (2) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (2) 
 None
 
@@ -216,7 +225,7 @@ Cc1cccc(O)c1Nc1ccc(O)cc1
 JXRCCCJCUJURBQ-UHFFFAOYSA-N
 
 >  <ref_mols>  (2) 
-cx0935a,c0935a,c1116c,c1116a
+c0935a,c1116c,c1116a
 
 >  <method>  (2) 
 None
@@ -282,6 +291,9 @@ c0300a
 >  <tags>  (3) 
 ['Syndirella base']
 
+>  <exports>  (3) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (3) 
 None
 
@@ -292,7 +304,7 @@ O=c1ccncn1C[C@H]1CCS(=O)(=O)C1
 UGYMLSSIEIESGU-MRVPVSSYSA-N
 
 >  <ref_mols>  (3) 
-cx0314a,cx1182a,c0314a,c1182a
+c0314a,c1182a
 
 >  <method>  (3) 
 None
@@ -358,6 +370,9 @@ c0300a
 >  <tags>  (4) 
 ['Syndirella base']
 
+>  <exports>  (4) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (4) 
 None
 
@@ -368,7 +383,7 @@ O=c1ccncn1C[C@H]1CCS(=O)(=O)C1
 UGYMLSSIEIESGU-MRVPVSSYSA-N
 
 >  <ref_mols>  (4) 
-cx0314a,cx1182a,c0314a,c1182a
+c0314a,c1182a
 
 >  <method>  (4) 
 None
@@ -435,6 +450,9 @@ c0300a
 
 >  <tags>  (5) 
 ['Syndirella base']
+
+>  <exports>  (5) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
 
 >  <ref_url>  (5) 
 None
@@ -509,6 +527,9 @@ c0270a
 >  <tags>  (6) 
 ['Syndirella base']
 
+>  <exports>  (6) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (6) 
 None
 
@@ -519,7 +540,7 @@ COCC(=O)Nc1ccc(O)cc1N
 XMHJIXAUMMKGLT-UHFFFAOYSA-N
 
 >  <ref_mols>  (6) 
-cx0935a,c0935a,c1353a
+c0935a,c1353a
 
 >  <method>  (6) 
 None
@@ -586,6 +607,9 @@ c0300a
 >  <tags>  (7) 
 ['Syndirella base']
 
+>  <exports>  (7) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (7) 
 None
 
@@ -596,7 +620,7 @@ Nc1cc(-c2cc[nH]n2)cc2c1OCO2
 RGWZNWCCBDMABV-UHFFFAOYSA-N
 
 >  <ref_mols>  (7) 
-cx1338a,cx0864a,c0864a,c1338a
+c0864a,c1338a
 
 >  <method>  (7) 
 None
@@ -663,6 +687,9 @@ c0300a
 >  <tags>  (8) 
 ['Syndirella base']
 
+>  <exports>  (8) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (8) 
 None
 
@@ -673,7 +700,7 @@ Nc1cc(-c2cc[nH]n2)cc2c1OCO2
 RGWZNWCCBDMABV-UHFFFAOYSA-N
 
 >  <ref_mols>  (8) 
-cx0864a,c0864a,c1203a
+c0864a,c1203a
 
 >  <method>  (8) 
 None
@@ -739,6 +766,9 @@ c0270a
 >  <tags>  (9) 
 ['Syndirella base']
 
+>  <exports>  (9) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (9) 
 None
 
@@ -749,7 +779,7 @@ Oc1ccc(Nc2ccncc2O)cc1
 MIMRXPBJLOWRMN-UHFFFAOYSA-N
 
 >  <ref_mols>  (9) 
-cx0935a,c0935a,c1132a,c1132f
+c0935a,c1132a,c1132f
 
 >  <method>  (9) 
 None
@@ -812,6 +842,9 @@ c0300a
 
 >  <tags>  (10) 
 ['Syndirella base']
+
+>  <exports>  (10) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
 
 >  <ref_url>  (10) 
 None
@@ -896,6 +929,9 @@ c1454a
 >  <tags>  (11) 
 ['Syndirella base']
 
+>  <exports>  (11) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (11) 
 None
 
@@ -969,6 +1005,9 @@ c0270a
 >  <tags>  (12) 
 ['Syndirella base']
 
+>  <exports>  (12) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (12) 
 None
 
@@ -979,7 +1018,7 @@ COCC(=O)Nc1ccc(O)cc1N
 XMHJIXAUMMKGLT-UHFFFAOYSA-N
 
 >  <ref_mols>  (12) 
-cx0935a,cx1116a,c0935a,c1116a
+c0935a,c1116a
 
 >  <method>  (12) 
 None
@@ -1060,6 +1099,9 @@ c0300a
 >  <tags>  (13) 
 ['Syndirella base']
 
+>  <exports>  (13) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (13) 
 None
 
@@ -1136,6 +1178,9 @@ c0270a
 >  <tags>  (14) 
 ['Syndirella base']
 
+>  <exports>  (14) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
+
 >  <ref_url>  (14) 
 None
 
@@ -1146,7 +1191,7 @@ Cc1cccc(O)c1Nc1ccccc1
 XQWKZXHQRAAZAF-UHFFFAOYSA-N
 
 >  <ref_mols>  (14) 
-cx0692a,c0692a,c1116c,c1116a
+c0692a,c1116c,c1116a
 
 >  <method>  (14) 
 None
@@ -1213,6 +1258,9 @@ c0270a
 
 >  <tags>  (15) 
 []
+
+>  <exports>  (15) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_44from15.sdf']
 
 >  <ref_url>  (15) 
 None
