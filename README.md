@@ -55,11 +55,13 @@
 
 `hippo_prod/prod6_starting_recipe.ipynb`
 
-### Solve product pool
-
 ### Solve routes
 
+`hippo_prod/prod7_routes.py`
+
 ### Create RRG
+
+`hippo_prod/prod8_rgen.ipynb`
 
 ### Sampling
 
