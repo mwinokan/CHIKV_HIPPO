@@ -5,9 +5,10 @@ import os
 import numpy as np
 
 from mlog import setup_logger
-logger = setup_logger('CHIKV_prod2')
 
-logger.var('hippo', hippo.__file__)
+logger = setup_logger("CHIKV_prod2")
+
+logger.var("hippo", hippo.__file__)
 
 os.system("cp -v CHIKV_prod1.sqlite CHIKV_prod2.sqlite")
 
@@ -28,19 +29,23 @@ for i, row in df.iterrows():
 from hippo.fragalysis import parse_observation_longcode
 import functools
 
+
 @functools.cache
 def obs_mapper(longcode):
     result = parse_observation_longcode(longcode)
     return animal.poses[f'c{result["crystal"]}a']
 
+
 for i, (to_hippo, template) in enumerate(ref_lookup.items()):
 
     # if i < 75:
     #     continue
-    
+
     logger.title(i)
     logger.reading(to_hippo)
-    df = animal.add_syndirella_elabs(to_hippo, inspiration_map=obs_mapper, reference=animal.poses[template])
+    df = animal.add_syndirella_elabs(
+        to_hippo, inspiration_map=obs_mapper, reference=animal.poses[template]
+    )
 
 animal.db.close()
 
