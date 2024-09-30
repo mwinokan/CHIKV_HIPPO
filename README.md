@@ -61,7 +61,8 @@
 
 ### Create RRG
 
-`hippo_prod/prod8_rgen.ipynb`
+`hippo_prod/prod8_rgen_prep.ipynb`
+`hippo_prod/prod9_rgen.ipynb`
 
 ### Sampling
 
