@@ -15,7 +15,7 @@ Performance:
 
 - inspiration_sets ~3mins
 - recipe.product_poses w/ temp table optimisation ~7mins
-- interaction_count w/o optimisation ~20mins
+- interaction_count w/o optimisation ~19mins
 
 ## num_products (ok)
 
