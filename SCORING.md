@@ -5,11 +5,15 @@
 - 50% ~€10k
 - 50% <€30k
 
-Best criteria for selection:
+Best criteria for selection?
 
 - num_products
 - risk_diversity
 - elaboration_balance
+
+Issues:
+
+- Any scoring criteria reliant on product poses needs a separate SQL query for the poses, takes around 50mins for the 500 recipes... Maybe can optimise by creating a smaller table containing only a subset of poses to query?
 
 ## num_products (ok)
 
@@ -31,7 +35,7 @@ The number of Syndirella base compounds in this selection
 
 ![num_bases_elaborated](https://github.com/user-attachments/assets/6a5c03cd-26ec-401b-849f-b6723bd26b36)
 
-## elaboration_balance (ok, bimodal)
+## elaboration_balance (bimodal? bad performance?)
 
 A measure for how evenly base compounds have been elaborated
 
@@ -59,13 +63,13 @@ A measure of how evenly spread the risk of elaborations are for each base compou
 
 ![risk_diversity](https://github.com/user-attachments/assets/c90b3d29-54d0-42bb-8378-b6188eb16d9c)
 
-## interaction_count (bad performance > 30mins)
+## interaction_count (bad performance?)
 
 **Needs performance review / optimisation**
 
 The number of protein features that are being interacted with in this selection
 
-## interaction_balance (bad performance)
+## interaction_balance (bad performance?)
 
 **Needs performance review / optimisation**
 
