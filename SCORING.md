@@ -1,5 +1,10 @@
 # CHIKV_HIPPO Scoring Criteria
 
+510 recipes
+
+- 50% ~€10k
+- 50% <€30k
+
 ## num_products (ok)
 
 The number of product compounds in this selection
