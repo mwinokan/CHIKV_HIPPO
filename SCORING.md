@@ -16,7 +16,13 @@
 
 ![num_bases_elaborated](https://github.com/user-attachments/assets/6a5c03cd-26ec-401b-849f-b6723bd26b36)
 
-## elaboration_balance
+## elaboration_balance (ok, bimodal)
+
+**Bimodal distribution, better as a filter?**
+
+**What does elaboration_balance measure?**
+
+![elaboration_balance](https://github.com/user-attachments/assets/652992d7-ed44-4123-a3c6-6eb6cb4f34fd)
 
 ## num_inspirations
 
