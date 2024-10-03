@@ -19,6 +19,12 @@ Performance:
 - inspiration_balance ~3mins
 - Scorer.scores ~16mins
 
+# Scored scatter plots:
+
+![num_prods_v_risk](https://github.com/user-attachments/assets/5e90159b-f611-4fbc-b92e-880e540dfea7)
+
+# Individual attribute histograms:
+
 ## num_products (ok)
 
 The number of product compounds in this selection
