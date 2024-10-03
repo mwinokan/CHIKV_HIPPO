@@ -5,6 +5,12 @@
 - 50% ~€10k
 - 50% <€30k
 
+Best criteria for selection:
+
+- num_products
+- risk_diversity
+- elaboration_balance
+
 ## num_products (ok)
 
 The number of product compounds in this selection
