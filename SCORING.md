@@ -53,22 +53,26 @@ A measure of how evenly spread the risk of elaborations are for each base compou
 
 ![risk_diversity](https://github.com/user-attachments/assets/c90b3d29-54d0-42bb-8378-b6188eb16d9c)
 
-## interaction_count (bad performance, skip)
+## interaction_count (bad performance > 30mins)
 
-**shame to be missing this but subsites should help select**
+**Needs performance review / optimisation**
 
 The number of protein features that are being interacted with in this selection
 
-## interaction_balance (bad performance, skip)
+## interaction_balance (bad performance)
 
-**shame to be missing this but subsites should help select**
+**Needs performance review / optimisation**
 
 A measure for how evenly protein features are being interacted with in this selection
 
 ## num_subsites (review performance)
 
+**Needs performance review / optimisation**
+
 Count the number of subsites that poses in this set come into contact with
 
 ## subsite_balance (review performance)
+
+**Needs performance review / optimisation**
 
 Count the number of subsites that poses in this set come into contact with
