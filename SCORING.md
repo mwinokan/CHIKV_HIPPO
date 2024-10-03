@@ -13,9 +13,11 @@ Best criteria for selection?
 
 Performance:
 
-- inspiration_sets ~3mins
 - recipe.product_poses w/ temp table optimisation ~7mins
+- inspiration_sets ~3mins
 - interaction_count w/o optimisation ~19mins
+- inspiration_balance ~3mins
+- Scorer.scores ~16mins
 
 ## num_products (ok)
 
