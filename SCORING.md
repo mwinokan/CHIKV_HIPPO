@@ -35,19 +35,27 @@ A measure for how evenly base compounds have been elaborated
 
 ## num_inspirations (flat, ignore)
 
+**All sets have good number of inspirations**
+
 The number of unique fragment compounds that inspired poses for product compounds in this selection
 
 ![num_inspirations](https://github.com/user-attachments/assets/561ffe6e-df20-4124-9b31-e068c66ace69)
 
 ## num_inspiration_sets (bad performance, skip)
 
+**safe to ignore because of num_inspirations**
+
 The number of unique fragment combinations that inspired poses for product compounds in this selection
 
-## risk_diversity (slow ~5mins)
+## risk_diversity (ok, slow ~4mins)
 
 A measure of how evenly spread the risk of elaborations are for each base compound. Risk in this case refers to the number of atoms added
 
-## interaction_count
+![risk_diversity](https://github.com/user-attachments/assets/c90b3d29-54d0-42bb-8378-b6188eb16d9c)
+
+## interaction_count (bad performance, skip)
+
+**shame to be missing this but subsites should help select**
 
 The number of protein features that are being interacted with in this selection
 
