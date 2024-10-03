@@ -1,27 +1,28 @@
 # CHIKV_HIPPO Scoring Criteria
 
-510 recipes
+514 recipes
 
 - 50% ~€10k
 - 50% <€30k
 
-Best criteria for selection?
+# Proposal 1G8PPKY
 
-- num_products
-- risk_diversity
-- elaboration_balance
+## Method
 
-Performance:
+- Take best €10k recipe
+- Loop over all available products and see what else can be made at no additional cost (consider reactant overhead)
+- Best score under €12k
 
-- recipe.product_poses w/ temp table optimisation ~7mins
-- inspiration_sets ~3mins
-- interaction_count w/o optimisation ~19mins
-- inspiration_balance ~3mins
-- Scorer.scores ~16mins
+Price: €10008
+num_products: 425
+num_bases_elaborated: 13
+num_inspirations: 20
+num_inspiration_sets: 14
+num_subsites: 5
 
 # Scored scatter plots:
 
-![num_prods_v_risk](https://github.com/user-attachments/assets/5e90159b-f611-4fbc-b92e-880e540dfea7)
+![newplot-66](https://github.com/user-attachments/assets/960895e4-0693-4ee7-b92f-2e8a12de000b)
 
 # Individual attribute histograms:
 
@@ -107,3 +108,11 @@ Count the number of subsites that poses in this set come into contact with
 A measure of how evenly subsites are populated
 
 ![newplot-65](https://github.com/user-attachments/assets/579a79a1-c163-48b7-a246-094698f5dff6)
+
+Performance:
+
+- recipe.product_poses w/ temp table optimisation ~7mins
+- inspiration_sets ~3mins
+- interaction_count w/o optimisation ~19mins
+- inspiration_balance ~3mins
+- Scorer.scores ~16mins
