@@ -66,5 +66,15 @@
 
 ### Sampling
 
+`hippo_prod/`
+
 ### Scoring / Selection
+
+*Add missing interactions*
+
+`hippo_prod/prod10_interactions.py`
+
+*Scoring*
+
+`hippo_prod/prod10_scoring.ipynb`
 
