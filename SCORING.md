@@ -11,9 +11,11 @@ Best criteria for selection?
 - risk_diversity
 - elaboration_balance
 
-Issues:
+Performance:
 
-- Any scoring criteria reliant on product poses needs a separate SQL query for the poses, takes around 50mins for the 500 recipes... Maybe can optimise by creating a smaller table containing only a subset of poses to query?
+- inspiration_sets ~3mins
+- recipe.product_poses w/ temp table optimisation ~7mins
+- interaction_count w/o optimisation ~20mins
 
 ## num_products (ok)
 
