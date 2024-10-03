@@ -1,7 +1,3 @@
-import os
-
-os.system("cp -v CHIKV_prod6.sqlite CHIKV_prod7.sqlite")
-
 import hippo
 
 from sqlite3 import DatabaseError
@@ -10,13 +6,17 @@ from mlog import setup_logger
 
 logger = setup_logger("CHIKV_prod7")
 
-animal = hippo.HIPPO("CHIKV_prod7", "CHIKV_prod7.sqlite")
+animal = hippo.HIPPO("CHIKV_prod7", "CHIKV_prod7.sqlite", copy_from="CHIKV_prod6.sqlite", overwrite_existing=True)
 
 from tqdm import tqdm
 
-products = animal.compounds(tag="Syndirella base").elabs
+recipe = hippo.Recipe.from_json(animal.db, 'CHIKV_starting_recipe_yields.json', allow_db_mismatch=True)
 
-for i, c in tqdm(enumerate(products)):
+products = recipe.products.elabs
+
+logger.var("products", products)
+
+for i, c in tqdm(enumerate(products), total=len(products)):
 
     try:
         reactions = c.reactions
@@ -38,7 +38,7 @@ for i, c in tqdm(enumerate(products)):
 
             logger.info(f"registered {route=}")
 
-    if i % 100 == 0:
+    if i % 100 == 99:
         logger.success("Committing...")
         animal.db.commit()
 
