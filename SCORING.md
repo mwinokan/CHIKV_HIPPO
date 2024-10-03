@@ -59,14 +59,16 @@ A measure of how evenly spread the risk of elaborations are for each base compou
 
 The number of protein features that are being interacted with in this selection
 
-## interaction_balance
+## interaction_balance (bad performance, skip)
+
+**shame to be missing this but subsites should help select**
 
 A measure for how evenly protein features are being interacted with in this selection
 
-## num_subsites
+## num_subsites (review performance)
 
 Count the number of subsites that poses in this set come into contact with
 
-## subsite_balance
+## subsite_balance (review performance)
 
 Count the number of subsites that poses in this set come into contact with
