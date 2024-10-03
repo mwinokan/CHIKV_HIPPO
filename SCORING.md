@@ -31,19 +31,20 @@ The number of product compounds in this selection
 
 **suggests undersampling?**
 
-![num_products](https://github.com/user-attachments/assets/a655bdbd-6ae2-4c51-8b08-d947bbf3a5a7)
+![newplot-55](https://github.com/user-attachments/assets/d1af1e2c-2619-4178-9f5d-d12f22afdb6b)
 
-## num_bases (bug?)
+## num_bases (bug?, SKIP)
 
 The number of Syndirella base compounds in this selection
 
-![num_bases](https://github.com/user-attachments/assets/3c01c403-eff4-4145-b590-711323ba6ecf)
+![newplot-56](https://github.com/user-attachments/assets/ddd61ba4-dc94-4f93-b1b1-5d7cdb2b5a52)
 
 ## num_bases_elaborated (ok)
 
 **Most recipes have lots of series which is good**
 
-![num_bases_elaborated](https://github.com/user-attachments/assets/6a5c03cd-26ec-401b-849f-b6723bd26b36)
+![newplot-57](https://github.com/user-attachments/assets/3ee81660-8c5b-44e5-8f46-c294df786296)
+
 
 ## elaboration_balance (bimodal? bad performance?)
 
@@ -51,7 +52,7 @@ A measure for how evenly base compounds have been elaborated
 
 **Bimodal distribution, better as a filter?**
 
-![elaboration_balance](https://github.com/user-attachments/assets/652992d7-ed44-4123-a3c6-6eb6cb4f34fd)
+![newplot-58](https://github.com/user-attachments/assets/36c8ed02-3c97-4d66-a483-d13b51d49c2b)
 
 ## num_inspirations (flat, ignore)
 
@@ -59,7 +60,7 @@ A measure for how evenly base compounds have been elaborated
 
 The number of unique fragment compounds that inspired poses for product compounds in this selection
 
-![num_inspirations](https://github.com/user-attachments/assets/561ffe6e-df20-4124-9b31-e068c66ace69)
+![newplot-59](https://github.com/user-attachments/assets/fef80714-e8e8-4f04-91ac-95926f454241)
 
 ## num_inspiration_sets (bad performance, skip)
 
@@ -67,11 +68,13 @@ The number of unique fragment compounds that inspired poses for product compound
 
 The number of unique fragment combinations that inspired poses for product compounds in this selection
 
+![newplot-60](https://github.com/user-attachments/assets/992df1f0-b2fc-4229-906a-abb0881031d6)
+
 ## risk_diversity (ok, slow ~4mins)
 
 A measure of how evenly spread the risk of elaborations are for each base compound. Risk in this case refers to the number of atoms added
 
-![risk_diversity](https://github.com/user-attachments/assets/c90b3d29-54d0-42bb-8378-b6188eb16d9c)
+![newplot-61](https://github.com/user-attachments/assets/295934c4-0e80-427a-b460-e82ecc1936ab)
 
 ## interaction_count (bad performance?)
 
@@ -79,11 +82,15 @@ A measure of how evenly spread the risk of elaborations are for each base compou
 
 The number of protein features that are being interacted with in this selection
 
+![newplot-62](https://github.com/user-attachments/assets/cf22b3dc-54c7-46ed-a3db-d62a7c9374da)
+
 ## interaction_balance (bad performance?)
 
 **Needs performance review / optimisation**
 
 A measure for how evenly protein features are being interacted with in this selection
+
+![newplot-63](https://github.com/user-attachments/assets/6d52b387-2f65-4086-baed-384388d160a9)
 
 ## num_subsites (review performance)
 
@@ -91,8 +98,12 @@ A measure for how evenly protein features are being interacted with in this sele
 
 Count the number of subsites that poses in this set come into contact with
 
+![newplot-64](https://github.com/user-attachments/assets/4386a5e6-56ed-41d8-b27c-4c1399f77bc2)
+
 ## subsite_balance (review performance)
 
 **Needs performance review / optimisation**
 
-Count the number of subsites that poses in this set come into contact with
+A measure of how evenly subsites are populated
+
+![newplot-65](https://github.com/user-attachments/assets/579a79a1-c163-48b7-a246-094698f5dff6)
