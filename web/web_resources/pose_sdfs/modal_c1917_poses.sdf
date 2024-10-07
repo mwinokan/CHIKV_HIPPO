@@ -1,0 +1,69 @@
+QQERROZMPKKQER-UHFFFAOYSA-N
+     RDKit          3D
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+   13.9020    8.9383    9.0983 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6703    8.3405   10.2557 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.4865    6.8874   10.4794 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2881    6.0778   11.1361 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7503    4.8440   10.8572 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4574    3.5660   11.1690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1233    3.5930   12.4794 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5405    2.9290   13.5427 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1190    2.8649   14.7442 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3720    3.5306   14.9626 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.1084    3.4454   16.6687 Br  0  0  0  0  0  0  0  0  0  0  0  0
+   17.9714    4.1819   13.9599 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3781    4.1783   12.5981 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0274    4.6782   11.6786 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6192    4.8813   10.1346 N   0  0  0  0  0  0  0  0  0  0  0  0
+   13.4358    6.2469    9.8918 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 10 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+  5 15  2  0
+ 15 16  1  0
+ 16  3  1  0
+ 13  7  1  0
+M  END
+>  <id>  (1) 
+6251
+
+>  <inchikey>  (1) 
+QQERROZMPKKQER-UHFFFAOYSA-N
+
+>  <alias>  (1) 
+None
+
+>  <smiles>  (1) 
+CCc1nc(Cn2ccc(Br)cc2=O)no1
+
+>  <path>  (1) 
+/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac/QQERROZMPKKQER-UHFFFAOYSA-N/output/QQERROZMPKKQER-UHFFFAOYSA-N-eaAXaE-scaffold-A/QQERROZMPKKQER-UHFFFAOYSA-N-eaAXaE-scaffold-A.minimised.mol
+
+>  <compound>  (1) 
+QQERROZMPKKQER-UHFFFAOYSA-N
+
+>  <target>  (1) 
+CHIKV_Mac
+
+>  <tags>  (1) 
+['Syndirella base']
+
+>  <reference>  (1) 
+P5809
+
+>  <exports>  (1) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/CHIKV_prod11_recipes/Recipe_1G8PPKY_poses.sdf']
+
+$$$$

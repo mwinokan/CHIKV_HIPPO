@@ -1,0 +1,74 @@
+DGASNXVGKHJXGC-UHFFFAOYSA-N
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+   14.7841    9.7548    9.7323 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6592   10.3981   11.0202 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5044   11.7444   11.2343 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0753   12.6131   10.3082 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.7656   12.0878   12.4576 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9443   10.9101   13.1132 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2667   10.7414   14.4568 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5118    9.4498   14.8943 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.3512    8.3589   14.0533 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9109    8.4799   12.7306 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6766    7.3573   11.9523 N   0  0  0  0  0  0  0  0  0  0  0  0
+   14.2493    6.1058   12.5867 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.7939    6.0142   12.9477 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8175    5.3080   12.2752 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5408    5.4154   12.8926 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5781    6.2007   14.0212 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1548    6.7775   14.3449 S   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8138    9.8077   12.2624 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  3  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 10 18  2  0
+ 18  2  1  0
+ 18  6  1  0
+ 17 13  1  0
+M  END
+>  <id>  (1) 
+6278
+
+>  <inchikey>  (1) 
+DGASNXVGKHJXGC-UHFFFAOYSA-N
+
+>  <alias>  (1) 
+None
+
+>  <smiles>  (1) 
+Cn1c(N)nc2cccc(NCc3cccs3)c21
+
+>  <path>  (1) 
+/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac/DGASNXVGKHJXGC-UHFFFAOYSA-N/output/DGASNXVGKHJXGC-UHFFFAOYSA-N-P8QupC-scaffold-A/DGASNXVGKHJXGC-UHFFFAOYSA-N-P8QupC-scaffold-A.minimised.mol
+
+>  <compound>  (1) 
+DGASNXVGKHJXGC-UHFFFAOYSA-N
+
+>  <target>  (1) 
+CHIKV_Mac
+
+>  <tags>  (1) 
+['Syndirella base']
+
+>  <reference>  (1) 
+P6166
+
+>  <exports>  (1) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/CHIKV_prod11_recipes/Recipe_1G8PPKY_poses.sdf']
+
+$$$$

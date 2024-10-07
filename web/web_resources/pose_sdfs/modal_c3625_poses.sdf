@@ -1,0 +1,69 @@
+JXRCCCJCUJURBQ-UHFFFAOYSA-N
+     RDKit          3D
+
+ 16 17  0  0  0  0  0  0  0  0999 V2000
+   15.8571   10.8075   13.4262 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6572    9.8467   12.2935 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9492    8.6565   12.5395 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.5724    7.8137   11.4959 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8933    8.1550   10.1941 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.6655    9.2848    9.9519 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.9555    9.5167    8.6430 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0790   10.1442   10.9862 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7840   11.3403   10.6723 N   0  0  0  0  0  0  0  0  0  0  0  0
+   18.0970   11.6969   11.0792 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.1989   11.0509   10.5177 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.5050   11.4291   10.8253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   20.7143   12.4684   11.7131 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.0012   12.7449   12.0545 O   0  0  0  0  0  0  0  0  0  0  0  0
+   19.6374   13.1708   12.2497 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3264   12.7852   11.9278 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  6  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 13 15  1  0
+ 15 16  2  0
+  8  2  1  0
+ 16 10  1  0
+M  END
+>  <id>  (1) 
+104911
+
+>  <inchikey>  (1) 
+JXRCCCJCUJURBQ-UHFFFAOYSA-N
+
+>  <alias>  (1) 
+None
+
+>  <smiles>  (1) 
+Cc1cccc(O)c1Nc1ccc(O)cc1
+
+>  <path>  (1) 
+/opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac/XQWKZXHQRAAZAF-UHFFFAOYSA-N/output/XQWKZXHQRAAZAF-UHFFFAOYSA-N-UwZThX-122-A/XQWKZXHQRAAZAF-UHFFFAOYSA-N-UwZThX-122-A.minimised.mol
+
+>  <compound>  (1) 
+JXRCCCJCUJURBQ-UHFFFAOYSA-N
+
+>  <target>  (1) 
+CHIKV_Mac
+
+>  <tags>  (1) 
+[]
+
+>  <reference>  (1) 
+P5802
+
+>  <exports>  (1) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/CHIKV_prod11_recipes/Recipe_1G8PPKY_poses.sdf']
+
+$$$$
