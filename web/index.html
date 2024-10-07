@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://3Dmol.org/build/3Dmol-min.js"></script>
+    <script src="https://3Dmol.org/build/3Dmol.ui-min.js"></script>
     <style>h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}body {font-family: "Open Sans"}</style>
   </head>
   <body class="w3-content" style="max-width:none">
@@ -60,15 +62,6 @@
             </p>
             <img src="web_resources/mol_images/C93.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">WXVLITNXXROEMR-UHFFFAOYSA-N<br>CCc1nc(NC(=O)c2ccnc(NC3CC=CC3)c2)no1</p>
-            <button class="w3-btn w3-teal" onclick="document.getElementById('modal_c93_poses').style.display='block'">view 1 poses</button>
-            <div id="modal_c93_poses" class="w3-modal">
-              <div class="w3-modal-content">
-                <div class="w3-container">
-                  <span onclick="document.getElementById('modal_c93_poses').style.display='none'" class="w3-button w3-display-topright">&times</span>
-                  <p>TEXT TEXT TEXT</p>
-                </div>
-              </div>
-            </div>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -76,7 +69,6 @@
             </p>
             <img src="web_resources/mol_images/C95.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">UGYMLSSIEIESGU-UHFFFAOYSA-N<br>O=c1ccncn1CC1CCS(=O)(=O)C1</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c95_poses').style.display='block'">view 0 poses</button>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -84,15 +76,6 @@
             </p>
             <img src="web_resources/mol_images/C104.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">DGASNXVGKHJXGC-UHFFFAOYSA-N<br>Cn1c(N)nc2cccc(NCc3cccs3)c21</p>
-            <button class="w3-btn w3-teal" onclick="document.getElementById('modal_c104_poses').style.display='block'">view 1 poses</button>
-            <div id="modal_c104_poses" class="w3-modal">
-              <div class="w3-modal-content">
-                <div class="w3-container">
-                  <span onclick="document.getElementById('modal_c104_poses').style.display='none'" class="w3-button w3-display-topright">&times</span>
-                  <p>TEXT TEXT TEXT</p>
-                </div>
-              </div>
-            </div>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -100,7 +83,6 @@
             </p>
             <img src="web_resources/mol_images/C796.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">RGWZNWCCBDMABV-UHFFFAOYSA-N<br>Nc1cc(-c2cc[nH]n2)cc2c1OCO2</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c796_poses').style.display='block'">view 0 poses</button>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -108,7 +90,6 @@
             </p>
             <img src="web_resources/mol_images/C1001.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">QZVYQICELPCZOV-UHFFFAOYSA-N<br>COC(=O)c1cnc2[nH]cc(C)cc1-2</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c1001_poses').style.display='block'">view 0 poses</button>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -116,7 +97,6 @@
             </p>
             <img src="web_resources/mol_images/C1128.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">DZVXXHSUENHLJH-UHFFFAOYSA-N<br>CC(C)c1cccc2[nH]cnc12</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c1128_poses').style.display='block'">view 0 poses</button>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -124,7 +104,6 @@
             </p>
             <img src="web_resources/mol_images/C1316.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">GEKAQEZWMKZGCA-UHFFFAOYSA-N<br>CC1CN(C(=O)c2cccc(F)c2)CCN1</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c1316_poses').style.display='block'">view 0 poses</button>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -132,15 +111,6 @@
             </p>
             <img src="web_resources/mol_images/C1473.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">MMXSHBZOILNLPJ-UHFFFAOYSA-N<br>CC(C)(C)c1cnc2ccccc2n1</p>
-            <button class="w3-btn w3-teal" onclick="document.getElementById('modal_c1473_poses').style.display='block'">view 1 poses</button>
-            <div id="modal_c1473_poses" class="w3-modal">
-              <div class="w3-modal-content">
-                <div class="w3-container">
-                  <span onclick="document.getElementById('modal_c1473_poses').style.display='none'" class="w3-button w3-display-topright">&times</span>
-                  <p>TEXT TEXT TEXT</p>
-                </div>
-              </div>
-            </div>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -148,15 +118,6 @@
             </p>
             <img src="web_resources/mol_images/C1917.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">QQERROZMPKKQER-UHFFFAOYSA-N<br>CCc1nc(Cn2ccc(Br)cc2=O)no1</p>
-            <button class="w3-btn w3-teal" onclick="document.getElementById('modal_c1917_poses').style.display='block'">view 1 poses</button>
-            <div id="modal_c1917_poses" class="w3-modal">
-              <div class="w3-modal-content">
-                <div class="w3-container">
-                  <span onclick="document.getElementById('modal_c1917_poses').style.display='none'" class="w3-button w3-display-topright">&times</span>
-                  <p>TEXT TEXT TEXT</p>
-                </div>
-              </div>
-            </div>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -164,7 +125,6 @@
             </p>
             <img src="web_resources/mol_images/C2916.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">QVSYFXSEJNFZKD-UHFFFAOYSA-N<br>COCC(=O)Nc1cccc(C(=O)NCc2cccs2)c1</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c2916_poses').style.display='block'">view 0 poses</button>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -172,7 +132,6 @@
             </p>
             <img src="web_resources/mol_images/C2925.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">XQWKZXHQRAAZAF-UHFFFAOYSA-N<br>Cc1cccc(O)c1Nc1ccccc1</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c2925_poses').style.display='block'">view 0 poses</button>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -180,7 +139,6 @@
             </p>
             <img src="web_resources/mol_images/C3284.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">DETJXFSIQJPJAJ-UHFFFAOYSA-N<br>Oc1cc2c(cc1-c1ccn[nH]1)OCO2</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c3284_poses').style.display='block'">view 0 poses</button>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -188,7 +146,6 @@
             </p>
             <img src="web_resources/mol_images/C3624.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">XMHJIXAUMMKGLT-UHFFFAOYSA-N<br>COCC(=O)Nc1ccc(O)cc1N</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c3624_poses').style.display='block'">view 0 poses</button>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -196,15 +153,6 @@
             </p>
             <img src="web_resources/mol_images/C3625.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">JXRCCCJCUJURBQ-UHFFFAOYSA-N<br>Cc1cccc(O)c1Nc1ccc(O)cc1</p>
-            <button class="w3-btn w3-teal" onclick="document.getElementById('modal_c3625_poses').style.display='block'">view 1 poses</button>
-            <div id="modal_c3625_poses" class="w3-modal">
-              <div class="w3-modal-content">
-                <div class="w3-container">
-                  <span onclick="document.getElementById('modal_c3625_poses').style.display='none'" class="w3-button w3-display-topright">&times</span>
-                  <p>TEXT TEXT TEXT</p>
-                </div>
-              </div>
-            </div>
           </div>
           <div class="w3-col s12 m6 l4 w3-center">
             <p>
@@ -212,7 +160,6 @@
             </p>
             <img src="web_resources/mol_images/C3628.png" style="max-height:250px" />
             <p class="w3-small w3-monospace">MIMRXPBJLOWRMN-UHFFFAOYSA-N<br>Oc1ccc(Nc2ccncc2O)cc1</p>
-            <button class="w3-btn w3-teal w3-disabled" onclick="document.getElementById('modal_c3628_poses').style.display='block'">view 0 poses</button>
           </div>
         </div>
         <h3>Downloads</h3>
@@ -235,6 +182,12 @@
           </tbody>
         </table>
         <br>
+      </div>
+      <div class="w3-panel w3-border w3-white">
+        <h2>Elaborations</h2>
+        <div>
+          <iframe src="web_resources/reaction_funnel.html" width="100%" height="500" style="border:none"></iframe>
+        </div>
       </div>
     </div>
     <div class="w3-container w3-teal w3-padding">
