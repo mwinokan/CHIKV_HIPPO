@@ -6,13 +6,27 @@ from mlog import setup_logger
 
 logger = setup_logger("CHIKV_prod7")
 
-animal = hippo.HIPPO("CHIKV_prod7", "CHIKV_prod7.sqlite", copy_from="CHIKV_prod6.sqlite", overwrite_existing=True)
+# animal = hippo.HIPPO("CHIKV_prod7", "CHIKV_prod7.sqlite", copy_from="CHIKV_prod6.sqlite", overwrite_existing=True)
+animal = hippo.HIPPO("CHIKV_prod7", "CHIKV_prod7.sqlite", copy_from="CHIKV_prod10.sqlite", overwrite_existing=True)
 
 from tqdm import tqdm
 
-recipe = hippo.Recipe.from_json(animal.db, 'CHIKV_starting_recipe_yields.json', allow_db_mismatch=True)
+# recipe = hippo.Recipe.from_json(animal.db, 'CHIKV_starting_recipe_yields_fix.json', allow_db_mismatch=True)
+# products = recipe.products.elabs
 
-products = recipe.products.elabs
+bases = animal.compounds(tag="Syndirella base")
+elabs = bases.elabs
+products = bases + elabs
+
+animal.reactions.set_product_yields(type="Buchwald-Hartwig_amination", product_yield=0.1)
+animal.reactions.set_product_yields(type="Buchwald-Hartwig_amidation_with_amide-like_nucleophile", product_yield=0.1)
+animal.reactions.set_product_yields(type="Steglich_esterification", product_yield=0.1)
+
+animal.db.execute('DROP TABLE route')
+animal.db.execute('DROP TABLE component')
+
+animal.db.create_table_route()
+animal.db.create_table_component()
 
 logger.var("products", products)
 
