@@ -2,26 +2,26 @@ ver_1.2
      RDKit          3D
 
  20 21  0  0  0  0  0  0  0  0999 V2000
-    5.8335    1.2651   -1.5113 N   0  0  0  0  0  0  0  0  0  0  0  0
-    5.1693    0.0413   -1.2210 C   0  0  0  0  0  0  0  0  0  0  0  0
-    5.7517   -1.0665   -1.3181 O   0  0  0  0  0  0  0  0  0  0  0  0
-    3.7759    0.1618   -0.8056 C   0  0  0  0  0  0  0  0  0  0  0  0
-    3.1023    1.3731   -0.6908 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7778    1.4075   -0.2890 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.1158    0.2100    0.0028 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.2903    0.3953    0.4195 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -0.8711    0.9827    1.3653 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -1.3502   -0.1570   -0.3142 N   0  0  0  0  0  0  0  0  0  0  0  0
-   -2.7441   -0.0649   -0.0393 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.1231    0.7075    1.1775 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.4146    0.0944    1.7194 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.4148   -0.0476    0.6025 C   0  0  0  0  0  0  0  0  0  0  0  0
-   -5.8532    1.1206    0.8461 O   0  0  0  0  0  0  0  0  0  0  0  0
-   -4.6851   -1.2775    0.6224 N   0  0  0  0  0  0  0  0  0  0  0  0
-   -3.5109   -1.3549   -0.2265 C   0  0  0  0  0  0  0  0  0  0  0  0
-    1.7743   -0.9992   -0.1076 C   0  0  0  0  0  0  0  0  0  0  0  0
-    0.8585   -2.4316    0.2789 Cl  0  0  0  0  0  0  0  0  0  0  0  0
-    3.0983   -1.0112   -0.5109 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1650    0.1633    1.1439 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8179    0.1367    1.5631 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.8664   -0.0774    2.8031 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6037    0.3120    0.7796 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5997    0.5479   -0.5989 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.3735    0.6994   -1.2420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2033    0.6148   -0.5159 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1472    0.7553   -1.0690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6731    1.7268   -1.6507 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.0043   -0.3802   -0.9306 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.3654   -0.3637   -1.4385 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0006   -1.6824   -1.1460 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.5005   -1.6693   -1.1253 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.9849   -0.5800   -0.2084 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.0952   -0.6199    0.3723 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.1465    0.5473    0.0107 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.0927    0.8279   -0.9157 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2088    0.3808    0.8507 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.2616    0.2645    1.8198 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    2.4337    0.2285    1.4981 C   0  0  0  0  0  0  0  0  0  0  0  0
   1  2  1  0
   2  3  2  0
   2  4  1  0
@@ -61,6 +61,9 @@ DLS
 
 >  <method>  (1) 
 Various
+
+>  <exports>  (1) 
+exports
 
 >  <smiles>  (1) 
 smiles
@@ -123,6 +126,9 @@ None
 
 >  <original ID>  (1) 
 SMVDAYWKXWVCAN-MRVPVSSYSA-N
+
+>  <exports>  (1) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (1) 
 None
@@ -212,6 +218,9 @@ None
 >  <original ID>  (2) 
 MNLAWAQYKQVGLK-UHFFFAOYSA-N
 
+>  <exports>  (2) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (2) 
 None
 
@@ -300,6 +309,9 @@ None
 >  <original ID>  (3) 
 FCGOSHSMTQLVEX-UHFFFAOYSA-N
 
+>  <exports>  (3) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (3) 
 None
 
@@ -382,6 +394,9 @@ None
 
 >  <original ID>  (4) 
 WHLDZOYDHAHKLT-IUCAKERBSA-N
+
+>  <exports>  (4) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (4) 
 None
@@ -466,6 +481,9 @@ None
 >  <original ID>  (5) 
 WHLDZOYDHAHKLT-BDAKNGLRSA-N
 
+>  <exports>  (5) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (5) 
 None
 
@@ -548,6 +566,9 @@ None
 
 >  <original ID>  (6) 
 WHLDZOYDHAHKLT-DTWKUNHWSA-N
+
+>  <exports>  (6) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (6) 
 None
@@ -632,6 +653,9 @@ None
 >  <original ID>  (7) 
 WHLDZOYDHAHKLT-RKDXNWHRSA-N
 
+>  <exports>  (7) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (7) 
 None
 
@@ -709,6 +733,9 @@ None
 
 >  <original ID>  (8) 
 IMTCTUMLWQUKFC-UHFFFAOYSA-N
+
+>  <exports>  (8) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (8) 
 None
@@ -791,6 +818,9 @@ None
 
 >  <original ID>  (9) 
 YIIMVUSFSKUYCA-UHFFFAOYSA-N
+
+>  <exports>  (9) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (9) 
 None
@@ -876,6 +906,9 @@ None
 >  <original ID>  (10) 
 QQBWHKPVEOERHW-UHFFFAOYSA-N
 
+>  <exports>  (10) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (10) 
 None
 
@@ -949,6 +982,9 @@ None
 
 >  <original ID>  (11) 
 RZIGAYKJCIITOG-UHFFFAOYSA-N
+
+>  <exports>  (11) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (11) 
 None
@@ -1038,6 +1074,9 @@ None
 >  <original ID>  (12) 
 QVSYFXSEJNFZKD-UHFFFAOYSA-N
 
+>  <exports>  (12) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (12) 
 None
 
@@ -1115,6 +1154,9 @@ None
 
 >  <original ID>  (13) 
 JXRCCCJCUJURBQ-UHFFFAOYSA-N
+
+>  <exports>  (13) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (13) 
 None
@@ -1202,6 +1244,9 @@ None
 
 >  <original ID>  (14) 
 WZOLBARQWWYVFM-UHFFFAOYSA-N
+
+>  <exports>  (14) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (14) 
 None
@@ -1298,6 +1343,9 @@ None
 >  <original ID>  (15) 
 WLFMTZKZYACXSW-UHFFFAOYSA-N
 
+>  <exports>  (15) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (15) 
 None
 
@@ -1385,6 +1433,9 @@ None
 >  <original ID>  (16) 
 WRQXFZOITXUYML-UHFFFAOYSA-N
 
+>  <exports>  (16) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (16) 
 None
 
@@ -1460,6 +1511,9 @@ None
 
 >  <original ID>  (17) 
 GNFBAQJUTMHLTB-UHFFFAOYSA-N
+
+>  <exports>  (17) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (17) 
 None
@@ -1559,6 +1613,9 @@ None
 >  <original ID>  (18) 
 OYAFCPFGSBONSE-UHFFFAOYSA-N
 
+>  <exports>  (18) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (18) 
 None
 
@@ -1635,6 +1692,9 @@ None
 >  <original ID>  (19) 
 UGYMLSSIEIESGU-MRVPVSSYSA-N
 
+>  <exports>  (19) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (19) 
 None
 
@@ -1710,6 +1770,9 @@ None
 
 >  <original ID>  (20) 
 UGYMLSSIEIESGU-MRVPVSSYSA-N
+
+>  <exports>  (20) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (20) 
 None
@@ -1797,6 +1860,9 @@ None
 >  <original ID>  (21) 
 CTECJTBKOFPTMY-SNVBAGLBSA-N
 
+>  <exports>  (21) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (21) 
 None
 
@@ -1882,6 +1948,9 @@ None
 
 >  <original ID>  (22) 
 CTECJTBKOFPTMY-JTQLQIEISA-N
+
+>  <exports>  (22) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (22) 
 None
@@ -1975,6 +2044,9 @@ None
 >  <original ID>  (23) 
 SCMCRGMETQKMMQ-DTWKUNHWSA-N
 
+>  <exports>  (23) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (23) 
 None
 
@@ -2066,6 +2138,9 @@ None
 
 >  <original ID>  (24) 
 SCMCRGMETQKMMQ-IUCAKERBSA-N
+
+>  <exports>  (24) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (24) 
 None
@@ -2159,6 +2234,9 @@ None
 >  <original ID>  (25) 
 SCMCRGMETQKMMQ-RKDXNWHRSA-N
 
+>  <exports>  (25) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (25) 
 None
 
@@ -2251,6 +2329,9 @@ None
 >  <original ID>  (26) 
 SCMCRGMETQKMMQ-BDAKNGLRSA-N
 
+>  <exports>  (26) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (26) 
 None
 
@@ -2328,6 +2409,9 @@ None
 
 >  <original ID>  (27) 
 QQERROZMPKKQER-UHFFFAOYSA-N
+
+>  <exports>  (27) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (27) 
 None
@@ -2418,6 +2502,9 @@ None
 >  <original ID>  (28) 
 LKDGGWMXOHPRMI-OAHLLOKOSA-N
 
+>  <exports>  (28) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (28) 
 None
 
@@ -2506,6 +2593,9 @@ None
 
 >  <original ID>  (29) 
 LKDGGWMXOHPRMI-OAHLLOKOSA-N
+
+>  <exports>  (29) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (29) 
 None
@@ -2610,6 +2700,9 @@ None
 >  <original ID>  (30) 
 TYBDSUPMDPIPBB-UHFFFAOYSA-N
 
+>  <exports>  (30) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (30) 
 None
 
@@ -2682,6 +2775,9 @@ None
 
 >  <original ID>  (31) 
 XMHJIXAUMMKGLT-UHFFFAOYSA-N
+
+>  <exports>  (31) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (31) 
 None
@@ -2765,6 +2861,9 @@ None
 >  <original ID>  (32) 
 KIULBMGWDSJTMM-UHFFFAOYSA-N
 
+>  <exports>  (32) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (32) 
 None
 
@@ -2841,6 +2940,9 @@ None
 
 >  <original ID>  (33) 
 RGWZNWCCBDMABV-UHFFFAOYSA-N
+
+>  <exports>  (33) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (33) 
 None
@@ -2925,6 +3027,9 @@ None
 >  <original ID>  (34) 
 FCNMMRVSBYHGGR-UHFFFAOYSA-N
 
+>  <exports>  (34) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (34) 
 None
 
@@ -3002,6 +3107,9 @@ None
 >  <original ID>  (35) 
 RGWZNWCCBDMABV-UHFFFAOYSA-N
 
+>  <exports>  (35) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (35) 
 None
 
@@ -3077,6 +3185,9 @@ None
 
 >  <original ID>  (36) 
 MIMRXPBJLOWRMN-UHFFFAOYSA-N
+
+>  <exports>  (36) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (36) 
 None
@@ -3162,6 +3273,9 @@ None
 
 >  <original ID>  (37) 
 FXMHNJCWYFUXEW-UHFFFAOYSA-N
+
+>  <exports>  (37) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (37) 
 None
@@ -3266,6 +3380,9 @@ None
 >  <original ID>  (38) 
 SBEBTLKTHHBVAY-LLVKDONJSA-N
 
+>  <exports>  (38) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (38) 
 None
 
@@ -3369,6 +3486,9 @@ None
 >  <original ID>  (39) 
 SBEBTLKTHHBVAY-NSHDSACASA-N
 
+>  <exports>  (39) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (39) 
 None
 
@@ -3455,6 +3575,9 @@ None
 
 >  <original ID>  (40) 
 XXPRWRCNORVHSY-UHFFFAOYSA-N
+
+>  <exports>  (40) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (40) 
 None
@@ -3547,6 +3670,9 @@ None
 >  <original ID>  (41) 
 OULBTDXTVHQBAE-SECBINFHSA-N
 
+>  <exports>  (41) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (41) 
 None
 
@@ -3637,6 +3763,9 @@ None
 
 >  <original ID>  (42) 
 OULBTDXTVHQBAE-VIFPVBQESA-N
+
+>  <exports>  (42) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (42) 
 None
@@ -3732,6 +3861,9 @@ None
 >  <original ID>  (43) 
 JAHJLJNEYRGXQB-QLFBSQMISA-N
 
+>  <exports>  (43) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (43) 
 None
 
@@ -3825,6 +3957,9 @@ None
 
 >  <original ID>  (44) 
 JAHJLJNEYRGXQB-ILXRZTDVSA-N
+
+>  <exports>  (44) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (44) 
 None
@@ -3920,6 +4055,9 @@ None
 >  <original ID>  (45) 
 JAHJLJNEYRGXQB-RBSFLKMASA-N
 
+>  <exports>  (45) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (45) 
 None
 
@@ -4013,6 +4151,9 @@ None
 
 >  <original ID>  (46) 
 JAHJLJNEYRGXQB-KFWWJZLASA-N
+
+>  <exports>  (46) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (46) 
 None
@@ -4108,6 +4249,9 @@ None
 >  <original ID>  (47) 
 JAHJLJNEYRGXQB-KKUMJFAQSA-N
 
+>  <exports>  (47) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (47) 
 None
 
@@ -4201,6 +4345,9 @@ None
 
 >  <original ID>  (48) 
 JAHJLJNEYRGXQB-KKUMJFAQSA-N
+
+>  <exports>  (48) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (48) 
 None
@@ -4296,6 +4443,9 @@ None
 >  <original ID>  (49) 
 JAHJLJNEYRGXQB-RRFJBIMHSA-N
 
+>  <exports>  (49) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (49) 
 None
 
@@ -4390,6 +4540,9 @@ None
 >  <original ID>  (50) 
 JAHJLJNEYRGXQB-ZNMIVQPWSA-N
 
+>  <exports>  (50) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (50) 
 None
 
@@ -4474,6 +4627,9 @@ None
 >  <original ID>  (51) 
 XDUHPRMEDNEUSF-UHFFFAOYSA-N
 
+>  <exports>  (51) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (51) 
 None
 
@@ -4547,6 +4703,9 @@ None
 
 >  <original ID>  (52) 
 MMXSHBZOILNLPJ-UHFFFAOYSA-N
+
+>  <exports>  (52) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (52) 
 None
@@ -4637,6 +4796,9 @@ None
 >  <original ID>  (53) 
 RRJMGDPCLBVSAU-UHFFFAOYSA-N
 
+>  <exports>  (53) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (53) 
 None
 
@@ -4720,6 +4882,9 @@ None
 >  <original ID>  (54) 
 DGASNXVGKHJXGC-UHFFFAOYSA-N
 
+>  <exports>  (54) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (54) 
 None
 
@@ -4793,6 +4958,9 @@ None
 
 >  <original ID>  (55) 
 NEMWMYMPRDCSAZ-UHFFFAOYSA-N
+
+>  <exports>  (55) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (55) 
 None
@@ -4872,6 +5040,9 @@ None
 
 >  <original ID>  (56) 
 OLQDFRKRSFBPML-UHFFFAOYSA-N
+
+>  <exports>  (56) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (56) 
 None
@@ -4966,6 +5137,9 @@ None
 >  <original ID>  (57) 
 KRUZICJRZZZCFH-UHFFFAOYSA-N
 
+>  <exports>  (57) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (57) 
 None
 
@@ -5041,6 +5215,9 @@ None
 
 >  <original ID>  (58) 
 GXJARPZGKFADOS-UHFFFAOYSA-N
+
+>  <exports>  (58) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (58) 
 None
@@ -5138,6 +5315,9 @@ None
 >  <original ID>  (59) 
 KFMQBLWKRFIPBE-UHFFFAOYSA-N
 
+>  <exports>  (59) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (59) 
 None
 
@@ -5230,6 +5410,9 @@ None
 >  <original ID>  (60) 
 LKSJOAHCUYUSRB-UHFFFAOYSA-N
 
+>  <exports>  (60) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (60) 
 None
 
@@ -5302,6 +5485,9 @@ None
 
 >  <original ID>  (61) 
 XMHJIXAUMMKGLT-UHFFFAOYSA-N
+
+>  <exports>  (61) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (61) 
 None
@@ -5388,6 +5574,9 @@ None
 >  <original ID>  (62) 
 IMOYJNKITCRRFB-UHFFFAOYSA-N
 
+>  <exports>  (62) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (62) 
 None
 
@@ -5469,6 +5658,9 @@ None
 
 >  <original ID>  (63) 
 LXNXWBLKTWRVII-UHFFFAOYSA-N
+
+>  <exports>  (63) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (63) 
 None
@@ -5559,6 +5751,9 @@ None
 >  <original ID>  (64) 
 YHGCJJWAPVTIRQ-RVBZMBCESA-N
 
+>  <exports>  (64) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (64) 
 None
 
@@ -5647,6 +5842,9 @@ None
 
 >  <original ID>  (65) 
 YHGCJJWAPVTIRQ-ZDMBXUJBSA-N
+
+>  <exports>  (65) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (65) 
 None
@@ -5737,6 +5935,9 @@ None
 >  <original ID>  (66) 
 YHGCJJWAPVTIRQ-RWEMILLDSA-N
 
+>  <exports>  (66) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (66) 
 None
 
@@ -5825,6 +6026,9 @@ None
 
 >  <original ID>  (67) 
 YHGCJJWAPVTIRQ-KKFJDGPESA-N
+
+>  <exports>  (67) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (67) 
 None
@@ -5915,6 +6119,9 @@ None
 >  <original ID>  (68) 
 YHGCJJWAPVTIRQ-MWODSPESSA-N
 
+>  <exports>  (68) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (68) 
 None
 
@@ -6003,6 +6210,9 @@ None
 
 >  <original ID>  (69) 
 YHGCJJWAPVTIRQ-VYUIOLGVSA-N
+
+>  <exports>  (69) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (69) 
 None
@@ -6093,6 +6303,9 @@ None
 >  <original ID>  (70) 
 YHGCJJWAPVTIRQ-IGJMFERPSA-N
 
+>  <exports>  (70) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (70) 
 None
 
@@ -6182,6 +6395,9 @@ None
 >  <original ID>  (71) 
 YHGCJJWAPVTIRQ-JRKPZEMJSA-N
 
+>  <exports>  (71) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (71) 
 None
 
@@ -6268,6 +6484,9 @@ None
 
 >  <original ID>  (72) 
 OHSGHNZPVAYZHL-UHFFFAOYSA-N
+
+>  <exports>  (72) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (72) 
 None
@@ -6360,6 +6579,9 @@ None
 >  <original ID>  (73) 
 WXVLITNXXROEMR-UHFFFAOYSA-N
 
+>  <exports>  (73) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (73) 
 None
 
@@ -6442,6 +6664,9 @@ None
 >  <original ID>  (74) 
 KIULBMGWDSJTMM-UHFFFAOYSA-N
 
+>  <exports>  (74) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (74) 
 None
 
@@ -6514,6 +6739,9 @@ None
 
 >  <original ID>  (75) 
 GLWBHHUWZUOZOL-UHFFFAOYSA-N
+
+>  <exports>  (75) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (75) 
 None
@@ -6591,6 +6819,9 @@ None
 >  <original ID>  (76) 
 XQWKZXHQRAAZAF-UHFFFAOYSA-N
 
+>  <exports>  (76) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
+
 >  <ref_url>  (76) 
 None
 
@@ -6667,6 +6898,9 @@ None
 
 >  <original ID>  (77) 
 KKYCNGMNUUPLTM-UHFFFAOYSA-N
+
+>  <exports>  (77) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (77) 
 None
@@ -6747,6 +6981,9 @@ None
 
 >  <original ID>  (78) 
 ZJENMQHSGLZNHL-UHFFFAOYSA-N
+
+>  <exports>  (78) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (78) 
 None
@@ -6835,6 +7072,9 @@ None
 
 >  <original ID>  (79) 
 GQXYNJMUNPQGML-UHFFFAOYSA-N
+
+>  <exports>  (79) 
+['/opt/xchem-fragalysis-2/maxwin/CHIKV_HIPPO/hippo_prod/syndirella_scaffolds_79.sdf']
 
 >  <ref_url>  (79) 
 None
