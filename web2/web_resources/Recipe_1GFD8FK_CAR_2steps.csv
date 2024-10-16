@@ -1,0 +1,2 @@
+target-names,no-steps,concentration-required-mM,amount-required-uL,batch-tag,reactant-1-1,reactant-2-1,reaction-product-smiles-1,reaction-name-1,reaction-recipe-1,reaction-groupby-column-1,reactant-1-2,reactant-2-2,reaction-product-smiles-2,reaction-name-2,reaction-recipe-2,reaction-groupby-column-2
+C48282,2,,,,N#Cc1c(O)ccc(N)c1F,COC(=O)C(=O)O,COC(=O)C(=O)Nc1ccc(O)c(C#N)c1F,Amidation,,,COC(=O)C(=O)Nc1ccc(O)c(C#N)c1F,O=C1CNC(=O)N1,COC(=O)C(=O)Nc1ccc(O)c(C#N)c1N1C(=O)CNC1=O,N-nucleophilic_aromatic_substitution,,

@@ -303,7 +303,7 @@ XQDNBMXUZGAWSZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (4) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (4) 
 None
@@ -534,7 +534,7 @@ XQDNBMXUZGAWSZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (7) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (7) 
 None
@@ -611,7 +611,7 @@ XQDNBMXUZGAWSZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (8) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (8) 
 None
@@ -713,7 +713,7 @@ MLFBKVSUVBBPBQ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (9) 
-['hits', '[Other] Oxyanion site', '[Other] New', '[Other] Trp148 site', '[Series] catalogue compound']
+['[Other] Trp148 site', '[Series] catalogue compound', 'hits', '[Other] New', '[Other] Oxyanion site']
 
 >  <reference>  (9) 
 None
@@ -790,7 +790,7 @@ ZYGHJZDHTFUPRJ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (10) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (10) 
 None
@@ -860,7 +860,7 @@ BAQKUNMKVAPWGU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (11) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (11) 
 None
@@ -930,7 +930,7 @@ BAQKUNMKVAPWGU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (12) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (12) 
 None
@@ -1000,7 +1000,7 @@ BAQKUNMKVAPWGU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (13) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (13) 
 None
@@ -1158,7 +1158,7 @@ WFEGFRJBAYCOHP-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (15) 
-['hits', '[Other] Ribose site', '[Other] Phosphate site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (15) 
 None
@@ -1247,7 +1247,7 @@ GECHUMIMRBOMGK-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (16) 
-['[Other] Adenine site', 'hits', '[Other] Arg144 pocket', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] Arg144 pocket', '[Other] fragment screen', 'hits']
 
 >  <reference>  (16) 
 None
@@ -1657,7 +1657,7 @@ MTDCJLXPYPQTPX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (21) 
-['[Other] Oxyanion site', 'hits', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Oxyanion site']
 
 >  <reference>  (21) 
 None
@@ -1742,7 +1742,7 @@ MTDCJLXPYPQTPX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (22) 
-['[Other] Oxyanion site', 'hits', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Oxyanion site']
 
 >  <reference>  (22) 
 None
@@ -1903,7 +1903,7 @@ AOLISVCNSODKGB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (24) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (24) 
 None
@@ -1988,7 +1988,7 @@ AOLISVCNSODKGB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (25) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (25) 
 None
@@ -2147,7 +2147,7 @@ HFZYCRPBIIVEAW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (27) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (27) 
 None
@@ -2221,7 +2221,7 @@ HFZYCRPBIIVEAW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (28) 
-['hits', '[Other] Ribose site', '[Other] Phosphate site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (28) 
 None
@@ -2295,7 +2295,7 @@ HFZYCRPBIIVEAW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (29) 
-['hits', '[Other] Ribose site', '[Other] Phosphate site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (29) 
 None
@@ -2380,7 +2380,7 @@ LLAHWSDSLKVDNQ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (30) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (30) 
 None
@@ -2463,7 +2463,7 @@ STARWXDKVTUOKH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (31) 
-['hits', '[Other] external', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] external', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (31) 
 None
@@ -2546,7 +2546,7 @@ STARWXDKVTUOKH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (32) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (32) 
 None
@@ -2629,7 +2629,7 @@ STARWXDKVTUOKH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (33) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (33) 
 None
@@ -2712,7 +2712,7 @@ STARWXDKVTUOKH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (34) 
-['hits', '[Other] external', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] external', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (34) 
 None
@@ -2786,7 +2786,7 @@ DJBJHPDVWKRAJB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (35) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (35) 
 None
@@ -2865,7 +2865,7 @@ BILUZSWZYDFPMN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (36) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (36) 
 None
@@ -2944,7 +2944,7 @@ BILUZSWZYDFPMN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (37) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (37) 
 None
@@ -3022,7 +3022,7 @@ XNXCINUKGNQCEZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (38) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (38) 
 None
@@ -3188,7 +3188,7 @@ OKVUYVXDTGOYRU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (40) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (40) 
 None
@@ -3350,7 +3350,7 @@ OKVUYVXDTGOYRU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (42) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (42) 
 None
@@ -3593,7 +3593,7 @@ OKVUYVXDTGOYRU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (45) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (45) 
 None
@@ -3674,7 +3674,7 @@ OKVUYVXDTGOYRU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (46) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (46) 
 None
@@ -3750,7 +3750,7 @@ XJISISZPFKFZEU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (47) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (47) 
 None
@@ -3826,7 +3826,7 @@ XJISISZPFKFZEU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (48) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (48) 
 None
@@ -3909,7 +3909,7 @@ QUKZXHGECCPEIZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (49) 
-['[Other] Adenine site', 'hits', '[Other] Phosphate site', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] Phosphate site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (49) 
 None
@@ -3992,7 +3992,7 @@ QUKZXHGECCPEIZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (50) 
-['[Other] Adenine site', 'hits', '[Other] Phosphate site', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] Phosphate site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (50) 
 None
@@ -4243,7 +4243,7 @@ NDEZMUYBKJXUGJ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (53) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (53) 
 None
@@ -4319,7 +4319,7 @@ LHYHSUSQLBMWFV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (54) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (54) 
 None
@@ -4395,7 +4395,7 @@ LHYHSUSQLBMWFV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (55) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (55) 
 None
@@ -4465,7 +4465,7 @@ SSLMGOKTIUIZLY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (56) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (56) 
 None
@@ -5222,7 +5222,7 @@ TWRIXENNPDTMSQ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (65) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (65) 
 None
@@ -5309,7 +5309,7 @@ TWRIXENNPDTMSQ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (66) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (66) 
 None
@@ -5391,7 +5391,7 @@ GVNXANNAMKHSRF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (67) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (67) 
 None
@@ -5473,7 +5473,7 @@ BCFQGXBWVPWHCV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (68) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (68) 
 None
@@ -5555,7 +5555,7 @@ BCFQGXBWVPWHCV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (69) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (69) 
 None
@@ -6225,7 +6225,7 @@ VISCEWOYYMVEGD-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (77) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (77) 
 None
@@ -6457,7 +6457,7 @@ DIJNPLGAABOOQW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (80) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (80) 
 None
@@ -6536,7 +6536,7 @@ DIJNPLGAABOOQW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (81) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (81) 
 None
@@ -6615,7 +6615,7 @@ DIJNPLGAABOOQW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (82) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (82) 
 None
@@ -7183,7 +7183,7 @@ ILHBRNLXKVETML-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (89) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (89) 
 None
@@ -7262,7 +7262,7 @@ ILHBRNLXKVETML-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (90) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (90) 
 None
@@ -7341,7 +7341,7 @@ ILHBRNLXKVETML-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (91) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (91) 
 None
@@ -7499,7 +7499,7 @@ ILHBRNLXKVETML-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (93) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (93) 
 None
@@ -7575,7 +7575,7 @@ GQPBXJHZWYTNFM-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (94) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (94) 
 None
@@ -7651,7 +7651,7 @@ GQPBXJHZWYTNFM-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (95) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (95) 
 None
@@ -8075,7 +8075,7 @@ LOPAFWMOCZGHFX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (100) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (100) 
 None
@@ -8243,7 +8243,7 @@ LOPAFWMOCZGHFX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (102) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (102) 
 None
@@ -8327,7 +8327,7 @@ LOPAFWMOCZGHFX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (103) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (103) 
 None
@@ -8654,7 +8654,7 @@ KZOMSPKSWBGZMC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (107) 
-['[Other] Adenine site', 'hits', '[Other] Phosphate site', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] Phosphate site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (107) 
 None
@@ -8739,7 +8739,7 @@ KZOMSPKSWBGZMC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (108) 
-['[Other] Adenine site', 'hits', '[Other] Phosphate site', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] Phosphate site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (108) 
 None
@@ -8814,7 +8814,7 @@ RPYPMOKNVPZWKZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (109) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (109) 
 None
@@ -9114,7 +9114,7 @@ RPYPMOKNVPZWKZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (113) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (113) 
 None
@@ -9189,7 +9189,7 @@ RPYPMOKNVPZWKZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (114) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (114) 
 None
@@ -10477,7 +10477,7 @@ QWENRTYMTSOGBR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (130) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (130) 
 None
@@ -10541,7 +10541,7 @@ QWENRTYMTSOGBR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (131) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (131) 
 None
@@ -10609,7 +10609,7 @@ FVLAYJRLBLHIPV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (132) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (132) 
 None
@@ -10677,7 +10677,7 @@ FVLAYJRLBLHIPV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (133) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (133) 
 None
@@ -10813,7 +10813,7 @@ FVLAYJRLBLHIPV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (135) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (135) 
 None
@@ -10881,7 +10881,7 @@ FVLAYJRLBLHIPV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (136) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (136) 
 None
@@ -10949,7 +10949,7 @@ KZNICNPSHKQLFF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (137) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (137) 
 None
@@ -11017,7 +11017,7 @@ KZNICNPSHKQLFF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (138) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (138) 
 None
@@ -11085,7 +11085,7 @@ KZNICNPSHKQLFF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (139) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (139) 
 None
@@ -11153,7 +11153,7 @@ KZNICNPSHKQLFF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (140) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (140) 
 None
@@ -11221,7 +11221,7 @@ KZNICNPSHKQLFF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (141) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (141) 
 None
@@ -11289,7 +11289,7 @@ KZNICNPSHKQLFF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (142) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (142) 
 None
@@ -11357,7 +11357,7 @@ KZNICNPSHKQLFF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (143) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (143) 
 None
@@ -11423,7 +11423,7 @@ HNJBEVLQSNELDL-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (144) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (144) 
 None
@@ -11555,7 +11555,7 @@ HNJBEVLQSNELDL-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (146) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (146) 
 None
@@ -11621,7 +11621,7 @@ HNJBEVLQSNELDL-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (147) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (147) 
 None
@@ -11687,7 +11687,7 @@ HNJBEVLQSNELDL-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (148) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (148) 
 None
@@ -11891,7 +11891,7 @@ ICSNLGPSRYBMBD-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (151) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (151) 
 None
@@ -11959,7 +11959,7 @@ ICSNLGPSRYBMBD-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (152) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (152) 
 None
@@ -12027,7 +12027,7 @@ ICSNLGPSRYBMBD-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (153) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (153) 
 None
@@ -12095,7 +12095,7 @@ UBQKCCHYAOITMY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (154) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (154) 
 None
@@ -12163,7 +12163,7 @@ UBQKCCHYAOITMY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (155) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (155) 
 None
@@ -12231,7 +12231,7 @@ UBQKCCHYAOITMY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (156) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (156) 
 None
@@ -12299,7 +12299,7 @@ UBQKCCHYAOITMY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (157) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (157) 
 None
@@ -12367,7 +12367,7 @@ UBQKCCHYAOITMY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (158) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (158) 
 None
@@ -12571,7 +12571,7 @@ UBQKCCHYAOITMY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (161) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (161) 
 None
@@ -12639,7 +12639,7 @@ UBQKCCHYAOITMY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (162) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (162) 
 None
@@ -12775,7 +12775,7 @@ UIEABCXJWANXFS-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (164) 
-['hits', '[Other] Ribose site', '[Other] Phosphate site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (164) 
 None
@@ -12843,7 +12843,7 @@ UIEABCXJWANXFS-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (165) 
-['hits', '[Other] Ribose site', '[Other] Phosphate site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (165) 
 None
@@ -12918,7 +12918,7 @@ NCZQAIFOXJOCFI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (166) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (166) 
 None
@@ -12993,7 +12993,7 @@ NCZQAIFOXJOCFI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (167) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (167) 
 None
@@ -13068,7 +13068,7 @@ NCZQAIFOXJOCFI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (168) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (168) 
 None
@@ -13143,7 +13143,7 @@ NCZQAIFOXJOCFI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (169) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (169) 
 None
@@ -13209,7 +13209,7 @@ KLSJWNVTNUYHDU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (170) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (170) 
 None
@@ -13275,7 +13275,7 @@ KLSJWNVTNUYHDU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (171) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (171) 
 None
@@ -13341,7 +13341,7 @@ KLSJWNVTNUYHDU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (172) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (172) 
 None
@@ -13407,7 +13407,7 @@ KLSJWNVTNUYHDU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (173) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (173) 
 None
@@ -13473,7 +13473,7 @@ KLSJWNVTNUYHDU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (174) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (174) 
 None
@@ -13539,7 +13539,7 @@ KLSJWNVTNUYHDU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (175) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (175) 
 None
@@ -13935,7 +13935,7 @@ KLSJWNVTNUYHDU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (181) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (181) 
 None
@@ -14130,7 +14130,7 @@ DGJMPUGMZIKDRO-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (184) 
-['[Other] Oxyanion site', 'hits', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Oxyanion site']
 
 >  <reference>  (184) 
 None
@@ -14195,7 +14195,7 @@ DGJMPUGMZIKDRO-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (185) 
-['[Other] Oxyanion site', 'hits', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Oxyanion site']
 
 >  <reference>  (185) 
 None
@@ -14263,7 +14263,7 @@ IWELDVXSEVIIGI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (186) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (186) 
 None
@@ -14331,7 +14331,7 @@ IWELDVXSEVIIGI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (187) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (187) 
 None
@@ -14399,7 +14399,7 @@ IWELDVXSEVIIGI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (188) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (188) 
 None
@@ -14467,7 +14467,7 @@ IWELDVXSEVIIGI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (189) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (189) 
 None
@@ -14535,7 +14535,7 @@ IWELDVXSEVIIGI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (190) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (190) 
 None
@@ -14603,7 +14603,7 @@ IWELDVXSEVIIGI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (191) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (191) 
 None
@@ -14671,7 +14671,7 @@ IWELDVXSEVIIGI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (192) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (192) 
 None
@@ -14739,7 +14739,7 @@ LJXQPZWIHJMPQQ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (193) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (193) 
 None
@@ -14807,7 +14807,7 @@ LJXQPZWIHJMPQQ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (194) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (194) 
 None
@@ -14875,7 +14875,7 @@ LJXQPZWIHJMPQQ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (195) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (195) 
 None
@@ -15147,7 +15147,7 @@ LJXQPZWIHJMPQQ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (199) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (199) 
 None
@@ -15415,7 +15415,7 @@ JHRDEHLFNLLCQS-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (203) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (203) 
 None
@@ -15482,7 +15482,7 @@ JHRDEHLFNLLCQS-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (204) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (204) 
 None
@@ -15549,7 +15549,7 @@ JHRDEHLFNLLCQS-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (205) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (205) 
 None
@@ -15617,7 +15617,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (206) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (206) 
 None
@@ -15685,7 +15685,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (207) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (207) 
 None
@@ -15753,7 +15753,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (208) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (208) 
 None
@@ -15821,7 +15821,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (209) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] New', '[Other] Ribose site']
 
 >  <reference>  (209) 
 None
@@ -15889,7 +15889,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (210) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (210) 
 None
@@ -15957,7 +15957,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (211) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] New', '[Other] Ribose site']
 
 >  <reference>  (211) 
 None
@@ -16093,7 +16093,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (213) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (213) 
 None
@@ -16161,7 +16161,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (214) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] New', '[Other] Ribose site']
 
 >  <reference>  (214) 
 None
@@ -16297,7 +16297,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (216) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (216) 
 None
@@ -16365,7 +16365,7 @@ AAILEWXSEQLMNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (217) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (217) 
 None
@@ -16497,7 +16497,7 @@ JVVRJMXHNUAPHW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (219) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (219) 
 None
@@ -16563,7 +16563,7 @@ JVVRJMXHNUAPHW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (220) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (220) 
 None
@@ -16827,7 +16827,7 @@ JVVRJMXHNUAPHW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (224) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (224) 
 None
@@ -16959,7 +16959,7 @@ YAMHXTCMCPHKLN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (226) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (226) 
 None
@@ -17025,7 +17025,7 @@ YAMHXTCMCPHKLN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (227) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (227) 
 None
@@ -17157,7 +17157,7 @@ YAMHXTCMCPHKLN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (229) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (229) 
 None
@@ -17223,7 +17223,7 @@ YAMHXTCMCPHKLN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (230) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (230) 
 None
@@ -17289,7 +17289,7 @@ YAMHXTCMCPHKLN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (231) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (231) 
 None
@@ -17421,7 +17421,7 @@ YAMHXTCMCPHKLN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (233) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (233) 
 None
@@ -17553,7 +17553,7 @@ YAMHXTCMCPHKLN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (235) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (235) 
 None
@@ -17791,7 +17791,7 @@ CHNZCZASRHSRAC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (238) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (238) 
 None
@@ -17863,7 +17863,7 @@ CHNZCZASRHSRAC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (239) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (239) 
 None
@@ -17935,7 +17935,7 @@ CHNZCZASRHSRAC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (240) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (240) 
 None
@@ -18014,7 +18014,7 @@ SQRSIOZFPSFABI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (241) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (241) 
 None
@@ -18599,7 +18599,7 @@ XQCLUVVQJMLNAW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (248) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (248) 
 None
@@ -18680,7 +18680,7 @@ XQCLUVVQJMLNAW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (249) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (249) 
 None
@@ -18763,7 +18763,7 @@ RYYVLZVUVIJVGH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (250) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (250) 
 None
@@ -18846,7 +18846,7 @@ RYYVLZVUVIJVGH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (251) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (251) 
 None
@@ -18923,7 +18923,7 @@ XDFZKQJLNGNJAN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (252) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (252) 
 None
@@ -19308,7 +19308,7 @@ XDFZKQJLNGNJAN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (257) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (257) 
 None
@@ -19385,7 +19385,7 @@ XDFZKQJLNGNJAN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (258) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (258) 
 None
@@ -19462,7 +19462,7 @@ XDFZKQJLNGNJAN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (259) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (259) 
 None
@@ -19537,7 +19537,7 @@ OALXTMWCXNPUKJ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (260) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (260) 
 None
@@ -19687,7 +19687,7 @@ OALXTMWCXNPUKJ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (262) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (262) 
 None
@@ -19762,7 +19762,7 @@ OALXTMWCXNPUKJ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (263) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (263) 
 None
@@ -19837,7 +19837,7 @@ OALXTMWCXNPUKJ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (264) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (264) 
 None
@@ -19909,7 +19909,7 @@ IPEHBUMCGVEMRF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (265) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (265) 
 None
@@ -19981,7 +19981,7 @@ IPEHBUMCGVEMRF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (266) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (266) 
 None
@@ -20053,7 +20053,7 @@ IPEHBUMCGVEMRF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (267) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (267) 
 None
@@ -20125,7 +20125,7 @@ IPEHBUMCGVEMRF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (268) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (268) 
 None
@@ -20202,7 +20202,7 @@ RJSRSRITMWVIQT-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (269) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (269) 
 None
@@ -20279,7 +20279,7 @@ RJSRSRITMWVIQT-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (270) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (270) 
 None
@@ -20428,7 +20428,7 @@ PMTLRCDQMKXMRZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (272) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (272) 
 None
@@ -20500,7 +20500,7 @@ PMTLRCDQMKXMRZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (273) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (273) 
 None
@@ -20572,7 +20572,7 @@ PMTLRCDQMKXMRZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (274) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (274) 
 None
@@ -20647,7 +20647,7 @@ UHGULLIUJBCTEF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (275) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (275) 
 None
@@ -20722,7 +20722,7 @@ UHGULLIUJBCTEF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (276) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (276) 
 None
@@ -20797,7 +20797,7 @@ UHGULLIUJBCTEF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (277) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (277) 
 None
@@ -21022,7 +21022,7 @@ UHGULLIUJBCTEF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (280) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (280) 
 None
@@ -21103,7 +21103,7 @@ XYRUNIAHPKBUJT-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (281) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (281) 
 None
@@ -21178,7 +21178,7 @@ NLMVYUBGWZWUGB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (282) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (282) 
 None
@@ -21328,7 +21328,7 @@ NLMVYUBGWZWUGB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (284) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (284) 
 None
@@ -21403,7 +21403,7 @@ NLMVYUBGWZWUGB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (285) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (285) 
 None
@@ -21630,7 +21630,7 @@ QWZSAEUNIBEKIZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (288) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (288) 
 None
@@ -21792,7 +21792,7 @@ UDJSHISPNDRJNE-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (290) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (290) 
 None
@@ -21873,7 +21873,7 @@ UDJSHISPNDRJNE-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (291) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (291) 
 None
@@ -21948,7 +21948,7 @@ LUSZGTFNYDARNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (292) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (292) 
 None
@@ -22098,7 +22098,7 @@ LUSZGTFNYDARNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (294) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (294) 
 None
@@ -22173,7 +22173,7 @@ LUSZGTFNYDARNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (295) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (295) 
 None
@@ -22248,7 +22248,7 @@ LUSZGTFNYDARNI-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (296) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (296) 
 None
@@ -22560,7 +22560,7 @@ LXCFILQKKLGQFO-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (300) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (300) 
 None
@@ -22636,7 +22636,7 @@ LXCFILQKKLGQFO-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (301) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (301) 
 None
@@ -22790,7 +22790,7 @@ JXDYKVIHCLTXOP-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (303) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (303) 
 None
@@ -22867,7 +22867,7 @@ JXDYKVIHCLTXOP-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (304) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (304) 
 None
@@ -22944,7 +22944,7 @@ JXDYKVIHCLTXOP-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (305) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (305) 
 None
@@ -23021,7 +23021,7 @@ JXDYKVIHCLTXOP-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (306) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (306) 
 None
@@ -23557,7 +23557,7 @@ GCMNJUJAKQGROZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (313) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (313) 
 None
@@ -23634,7 +23634,7 @@ GCMNJUJAKQGROZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (314) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (314) 
 None
@@ -23909,7 +23909,7 @@ RAIPHJJURHTUIC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (318) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (318) 
 None
@@ -23979,7 +23979,7 @@ ISAKRJDGNUQOIC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (319) 
-['hits', '[Other] Ribose site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Ribose site']
 
 >  <reference>  (319) 
 None
@@ -24049,7 +24049,7 @@ ISAKRJDGNUQOIC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (320) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (320) 
 None
@@ -24119,7 +24119,7 @@ ISAKRJDGNUQOIC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (321) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (321) 
 None
@@ -24267,7 +24267,7 @@ MJTGQALMWUUPQM-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (323) 
-['[Other] Oxyanion site', 'hits', '[Other] Trp148 site', '[Other] fragment screen']
+['hits', '[Other] fragment screen', '[Other] Trp148 site', '[Other] Oxyanion site']
 
 >  <reference>  (323) 
 None
@@ -24341,7 +24341,7 @@ MJTGQALMWUUPQM-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (324) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (324) 
 None
@@ -24417,7 +24417,7 @@ DNRVZOZGQHHDAT-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (325) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (325) 
 None
@@ -24493,7 +24493,7 @@ DNRVZOZGQHHDAT-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (326) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (326) 
 None
@@ -24569,7 +24569,7 @@ DNRVZOZGQHHDAT-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (327) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (327) 
 None
@@ -24645,7 +24645,7 @@ DNRVZOZGQHHDAT-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (328) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (328) 
 None
@@ -24724,7 +24724,7 @@ WATIARBIFSKYKC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (329) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (329) 
 None
@@ -24961,7 +24961,7 @@ WATIARBIFSKYKC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (332) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (332) 
 None
@@ -25119,7 +25119,7 @@ WATIARBIFSKYKC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (334) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (334) 
 None
@@ -25198,7 +25198,7 @@ WATIARBIFSKYKC-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (335) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (335) 
 None
@@ -25417,7 +25417,7 @@ MVXVYAKCVDQRLW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (338) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (338) 
 None
@@ -25563,7 +25563,7 @@ MVXVYAKCVDQRLW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (340) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (340) 
 None
@@ -25782,7 +25782,7 @@ MVXVYAKCVDQRLW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (343) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (343) 
 None
@@ -25855,7 +25855,7 @@ MVXVYAKCVDQRLW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (344) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (344) 
 None
@@ -25925,7 +25925,7 @@ CMBSSVKZOPZBKW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (345) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (345) 
 None
@@ -25995,7 +25995,7 @@ CMBSSVKZOPZBKW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (346) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (346) 
 None
@@ -26072,7 +26072,7 @@ CJLUXPZQUXVJNF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (347) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (347) 
 None
@@ -26149,7 +26149,7 @@ CJLUXPZQUXVJNF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (348) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (348) 
 None
@@ -26226,7 +26226,7 @@ CJLUXPZQUXVJNF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (349) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (349) 
 None
@@ -26303,7 +26303,7 @@ CJLUXPZQUXVJNF-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (350) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (350) 
 None
@@ -26381,7 +26381,7 @@ BCKARVLFIJPHQU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (351) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (351) 
 None
@@ -26459,7 +26459,7 @@ BCKARVLFIJPHQU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (352) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (352) 
 None
@@ -26537,7 +26537,7 @@ BCKARVLFIJPHQU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (353) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (353) 
 None
@@ -26615,7 +26615,7 @@ BCKARVLFIJPHQU-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (354) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (354) 
 None
@@ -26862,7 +26862,7 @@ SVNCRRZKBNSMIV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (357) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (357) 
 None
@@ -27016,7 +27016,7 @@ SVNCRRZKBNSMIV-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (359) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (359) 
 None
@@ -27249,7 +27249,7 @@ OSILBMSORKFRTB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (362) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (362) 
 None
@@ -27403,7 +27403,7 @@ OSILBMSORKFRTB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (364) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (364) 
 None
@@ -27634,7 +27634,7 @@ OSILBMSORKFRTB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (367) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (367) 
 None
@@ -27711,7 +27711,7 @@ OSILBMSORKFRTB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (368) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (368) 
 None
@@ -27786,7 +27786,7 @@ LDZYRENCLPUXAX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (369) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (369) 
 None
@@ -27861,7 +27861,7 @@ LDZYRENCLPUXAX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (370) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (370) 
 None
@@ -27936,7 +27936,7 @@ LDZYRENCLPUXAX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (371) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (371) 
 None
@@ -28010,7 +28010,7 @@ SKZKKFZAGNVIMN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (372) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (372) 
 None
@@ -28158,7 +28158,7 @@ SKZKKFZAGNVIMN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (374) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (374) 
 None
@@ -28306,7 +28306,7 @@ SKZKKFZAGNVIMN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (376) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (376) 
 None
@@ -28380,7 +28380,7 @@ SKZKKFZAGNVIMN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (377) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (377) 
 None
@@ -28452,7 +28452,7 @@ SEOZHXRTVJPQPZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (378) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (378) 
 None
@@ -28524,7 +28524,7 @@ SEOZHXRTVJPQPZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (379) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (379) 
 None
@@ -28596,7 +28596,7 @@ SEOZHXRTVJPQPZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (380) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (380) 
 None
@@ -28668,7 +28668,7 @@ SEOZHXRTVJPQPZ-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (381) 
-['[Other] Adenine site', 'hits', '[Other] fragment screen']
+['[Other] Adenine site', '[Other] fragment screen', 'hits']
 
 >  <reference>  (381) 
 None
@@ -28854,7 +28854,7 @@ ZAZXYKHEXHZITN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (383) 
-['[Other] New', 'hits', '[Other] Trp148 site']
+['hits', '[Other] New', '[Other] Trp148 site']
 
 >  <reference>  (383) 
 None
@@ -28947,7 +28947,7 @@ ZAZXYKHEXHZITN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (384) 
-['[Other] New', 'hits', '[Other] Trp148 site']
+['hits', '[Other] New', '[Other] Trp148 site']
 
 >  <reference>  (384) 
 None
@@ -29040,7 +29040,7 @@ ZAZXYKHEXHZITN-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (385) 
-['[Other] New', 'hits', '[Other] Trp148 site']
+['hits', '[Other] New', '[Other] Trp148 site']
 
 >  <reference>  (385) 
 None
@@ -29146,7 +29146,7 @@ BBYUVETWVSEHPK-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (386) 
-['hits', '[Other] Oxyanion site', '[Other] Phosphate site', '[Other] Adenine site', '[Series] ASAP toolbox']
+['[Series] ASAP toolbox', '[Other] Adenine site', '[Other] Phosphate site', 'hits', '[Other] Oxyanion site']
 
 >  <reference>  (386) 
 None
@@ -29252,7 +29252,7 @@ BBYUVETWVSEHPK-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (387) 
-['hits', '[Other] Oxyanion site', '[Other] New', '[Other] Phosphate site', '[Other] Adenine site', '[Series] ASAP toolbox']
+['[Series] ASAP toolbox', '[Other] Adenine site', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Oxyanion site']
 
 >  <reference>  (387) 
 None
@@ -29358,7 +29358,7 @@ BBYUVETWVSEHPK-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (388) 
-['hits', '[Other] Oxyanion site', '[Other] New', '[Other] Phosphate site', '[Other] Adenine site', '[Series] ASAP toolbox']
+['[Series] ASAP toolbox', '[Other] Adenine site', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Oxyanion site']
 
 >  <reference>  (388) 
 None
@@ -29464,7 +29464,7 @@ BBYUVETWVSEHPK-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (389) 
-['hits', '[Other] Oxyanion site', '[Other] New', '[Other] Phosphate site', '[Other] Adenine site', '[Series] ASAP toolbox']
+['[Series] ASAP toolbox', '[Other] Adenine site', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Oxyanion site']
 
 >  <reference>  (389) 
 None
@@ -29575,7 +29575,7 @@ DMABAHOUGOIDPW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (390) 
-['hits', '[Other] Oxyanion site', '[Other] Phosphate site', '[Other] Adenine site', '[Series] ASAP toolbox']
+['[Series] ASAP toolbox', '[Other] Adenine site', '[Other] Phosphate site', 'hits', '[Other] Oxyanion site']
 
 >  <reference>  (390) 
 None
@@ -29686,7 +29686,7 @@ DMABAHOUGOIDPW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (391) 
-['hits', '[Other] Oxyanion site', '[Other] New', '[Other] Phosphate site', '[Other] Adenine site', '[Series] ASAP toolbox']
+['[Series] ASAP toolbox', '[Other] Adenine site', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Oxyanion site']
 
 >  <reference>  (391) 
 None
@@ -29797,7 +29797,7 @@ DMABAHOUGOIDPW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (392) 
-['hits', '[Other] Oxyanion site', '[Other] New', '[Other] Phosphate site', '[Other] Adenine site', '[Series] ASAP toolbox']
+['[Series] ASAP toolbox', '[Other] Adenine site', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Oxyanion site']
 
 >  <reference>  (392) 
 None
@@ -29908,7 +29908,7 @@ DMABAHOUGOIDPW-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (393) 
-['hits', '[Other] Oxyanion site', '[Other] New', '[Other] Phosphate site', '[Other] Adenine site', '[Series] ASAP toolbox']
+['[Series] ASAP toolbox', '[Other] Adenine site', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Oxyanion site']
 
 >  <reference>  (393) 
 None
@@ -30006,7 +30006,7 @@ FNZVWTMSQIJAJD-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (394) 
-['[Other] New', 'hits', '[Series] catalogue compound']
+['hits', '[Other] New', '[Series] catalogue compound']
 
 >  <reference>  (394) 
 None
@@ -30106,7 +30106,7 @@ ZJPFAOUKTOHHJM-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (395) 
-['hits', '[Other] Oxyanion site', '[Other] New', '[Other] Trp148 site', '[Series] catalogue compound']
+['[Other] Trp148 site', '[Series] catalogue compound', 'hits', '[Other] New', '[Other] Oxyanion site']
 
 >  <reference>  (395) 
 None
@@ -30191,7 +30191,7 @@ QZITWTJGIMOGOA-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (396) 
-['hits', '[Series] catalogue compound', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] Phosphate site', '[Other] Ribose site', '[Series] catalogue compound']
 
 >  <reference>  (396) 
 None
@@ -30276,7 +30276,7 @@ QZITWTJGIMOGOA-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (397) 
-['hits', '[Other] Ribose site', '[Other] New', '[Series] catalogue compound', '[Other] Phosphate site']
+['[Series] catalogue compound', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Ribose site']
 
 >  <reference>  (397) 
 None
@@ -30361,7 +30361,7 @@ QZITWTJGIMOGOA-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (398) 
-['hits', '[Other] Ribose site', '[Other] New', '[Series] catalogue compound', '[Other] Phosphate site']
+['[Series] catalogue compound', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Ribose site']
 
 >  <reference>  (398) 
 None
@@ -30459,7 +30459,7 @@ LGBAWSHDCWXQBT-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (399) 
-['[Other] New', 'hits', '[Other] Trp148 site', '[Series] catalogue compound']
+['hits', '[Other] New', '[Other] Trp148 site', '[Series] catalogue compound']
 
 >  <reference>  (399) 
 None
@@ -30544,7 +30544,7 @@ KPMWYHPSMHMGDR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (400) 
-['hits', '[Series] catalogue compound', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] Phosphate site', '[Other] Ribose site', '[Series] catalogue compound']
 
 >  <reference>  (400) 
 None
@@ -30629,7 +30629,7 @@ KPMWYHPSMHMGDR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (401) 
-['hits', '[Other] Ribose site', '[Other] New', '[Series] catalogue compound', '[Other] Phosphate site']
+['[Series] catalogue compound', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Ribose site']
 
 >  <reference>  (401) 
 None
@@ -30714,7 +30714,7 @@ KPMWYHPSMHMGDR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (402) 
-['hits', '[Other] Ribose site', '[Other] New', '[Series] catalogue compound', '[Other] Phosphate site']
+['[Series] catalogue compound', '[Other] Phosphate site', 'hits', '[Other] New', '[Other] Ribose site']
 
 >  <reference>  (402) 
 None
@@ -30810,7 +30810,7 @@ HRUIIOCTLVUJFH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (403) 
-['[Other] New', 'hits', '[Other] Trp148 site', '[Series] catalogue compound']
+['hits', '[Other] New', '[Other] Trp148 site', '[Series] catalogue compound']
 
 >  <reference>  (403) 
 None
@@ -30908,7 +30908,7 @@ PXJNDDSPBMJTHG-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (404) 
-['[Other] New', 'hits', '[Series] catalogue compound']
+['hits', '[Other] New', '[Series] catalogue compound']
 
 >  <reference>  (404) 
 None
@@ -30993,7 +30993,7 @@ LUWXFZYTFMIZSY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (405) 
-['hits', '[Other] external', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] external', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (405) 
 None
@@ -31078,7 +31078,7 @@ LUWXFZYTFMIZSY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (406) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (406) 
 None
@@ -31163,7 +31163,7 @@ LUWXFZYTFMIZSY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (407) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (407) 
 None
@@ -31248,7 +31248,7 @@ LUWXFZYTFMIZSY-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (408) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (408) 
 None
@@ -31324,7 +31324,7 @@ BJFHABUKRPPLGH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (409) 
-['hits', '[Other] external', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] external', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (409) 
 None
@@ -31400,7 +31400,7 @@ BJFHABUKRPPLGH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (410) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (410) 
 None
@@ -31476,7 +31476,7 @@ BJFHABUKRPPLGH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (411) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (411) 
 None
@@ -31552,7 +31552,7 @@ BJFHABUKRPPLGH-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (412) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (412) 
 None
@@ -31634,7 +31634,7 @@ WDIFSCKLWBVBLR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (413) 
-['hits', '[Other] external', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] external', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (413) 
 None
@@ -31716,7 +31716,7 @@ WDIFSCKLWBVBLR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (414) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (414) 
 None
@@ -31798,7 +31798,7 @@ WDIFSCKLWBVBLR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (415) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (415) 
 None
@@ -31880,7 +31880,7 @@ WDIFSCKLWBVBLR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (416) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (416) 
 None
@@ -31958,7 +31958,7 @@ ZXECTTZQEACQGR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (417) 
-['hits', '[Other] external', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] external', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (417) 
 None
@@ -32036,7 +32036,7 @@ ZXECTTZQEACQGR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (418) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (418) 
 None
@@ -32114,7 +32114,7 @@ ZXECTTZQEACQGR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (419) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (419) 
 None
@@ -32192,7 +32192,7 @@ ZXECTTZQEACQGR-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (420) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (420) 
 None
@@ -32275,7 +32275,7 @@ JMRRYHBZGAQICA-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (421) 
-['hits', '[Other] external', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] external', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (421) 
 None
@@ -32358,7 +32358,7 @@ JMRRYHBZGAQICA-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (422) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (422) 
 None
@@ -32441,7 +32441,7 @@ JMRRYHBZGAQICA-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (423) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (423) 
 None
@@ -32524,7 +32524,7 @@ JMRRYHBZGAQICA-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (424) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (424) 
 None
@@ -32598,7 +32598,7 @@ OEPPJKDEBZBNNG-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (425) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (425) 
 None
@@ -32672,7 +32672,7 @@ OEPPJKDEBZBNNG-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (426) 
-['hits', '[Other] external', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] external', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (426) 
 None
@@ -32746,7 +32746,7 @@ OEPPJKDEBZBNNG-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (427) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (427) 
 None
@@ -32820,7 +32820,7 @@ OEPPJKDEBZBNNG-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (428) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (428) 
 None
@@ -32896,7 +32896,7 @@ ZTBNONONIFESFB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (429) 
-['hits', '[Other] external', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] external', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (429) 
 None
@@ -32972,7 +32972,7 @@ ZTBNONONIFESFB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (430) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (430) 
 None
@@ -33048,7 +33048,7 @@ ZTBNONONIFESFB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (431) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (431) 
 None
@@ -33124,7 +33124,7 @@ ZTBNONONIFESFB-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (432) 
-['[Other] New', 'hits', '[Other] Ribose site', '[Other] Phosphate site']
+['hits', '[Other] New', '[Other] Phosphate site', '[Other] Ribose site']
 
 >  <reference>  (432) 
 None
@@ -33382,7 +33382,7 @@ SRNWOUGRCWSEMX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (434) 
-['[Other] New', 'hits', '[Other] external', '[Other] ADPr']
+['hits', '[Other] external', '[Other] New', '[Other] ADPr']
 
 >  <reference>  (434) 
 None
@@ -33511,7 +33511,7 @@ SRNWOUGRCWSEMX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (435) 
-['[Other] New', 'hits', '[Other] external', '[Other] ADPr']
+['hits', '[Other] external', '[Other] New', '[Other] ADPr']
 
 >  <reference>  (435) 
 None
@@ -33640,7 +33640,7 @@ SRNWOUGRCWSEMX-UHFFFAOYSA-N
 CHIKV_Mac
 
 >  <tags>  (436) 
-['[Other] New', 'hits', '[Other] external', '[Other] ADPr']
+['hits', '[Other] external', '[Other] New', '[Other] ADPr']
 
 >  <reference>  (436) 
 None
