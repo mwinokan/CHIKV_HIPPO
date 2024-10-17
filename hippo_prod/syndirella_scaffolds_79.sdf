@@ -128,7 +128,7 @@ SMVDAYWKXWVCAN-MRVPVSSYSA-N
 None
 
 >  <ref_mols>  (1) 
-cx1371a,c0300a,c1371a
+c0300a,c1371a
 
 >  <alias>  (1) 
 None
@@ -216,7 +216,7 @@ MNLAWAQYKQVGLK-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (2) 
-cx1118a,c0540a,c1118a
+c0540a,c1118a
 
 >  <alias>  (2) 
 None
@@ -304,7 +304,7 @@ FCGOSHSMTQLVEX-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (3) 
-cx0522a,cx1118a,c0522a,c1118a
+c0522a,c1118a
 
 >  <alias>  (3) 
 None
@@ -714,7 +714,7 @@ IMTCTUMLWQUKFC-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (8) 
-cx1151a,c0892a,c1151a
+c0892a,c1151a
 
 >  <alias>  (8) 
 None
@@ -796,7 +796,7 @@ YIIMVUSFSKUYCA-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (9) 
-cx0317a,c0317a,c0441a
+c0317a,c0441a
 
 >  <alias>  (9) 
 None
@@ -880,7 +880,7 @@ QQBWHKPVEOERHW-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (10) 
-cx0692a,c0692a,c1371b,c1371a
+c0692a,c1371b,c1371a
 
 >  <alias>  (10) 
 None
@@ -1042,7 +1042,7 @@ QVSYFXSEJNFZKD-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (12) 
-cx0692a,c0692a,c0892a
+c0692a,c0892a
 
 >  <alias>  (12) 
 None
@@ -1120,7 +1120,7 @@ JXRCCCJCUJURBQ-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (13) 
-cx0935a,c0935a,c1116c,c1116a
+c0935a,c1116c,c1116a
 
 >  <alias>  (13) 
 None
@@ -1207,7 +1207,7 @@ WZOLBARQWWYVFM-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (14) 
-cx0935a,c0935a,c1271a,c1271d
+c0935a,c1271a,c1271d
 
 >  <alias>  (14) 
 None
@@ -1302,7 +1302,7 @@ WLFMTZKZYACXSW-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (15) 
-cx0935a,c0312a,c0935a
+c0312a,c0935a
 
 >  <alias>  (15) 
 None
@@ -1639,7 +1639,7 @@ UGYMLSSIEIESGU-MRVPVSSYSA-N
 None
 
 >  <ref_mols>  (19) 
-cx0314a,cx1182a,c0314a,c1182a
+c0314a,c1182a
 
 >  <alias>  (19) 
 None
@@ -1715,7 +1715,7 @@ UGYMLSSIEIESGU-MRVPVSSYSA-N
 None
 
 >  <ref_mols>  (20) 
-cx0314a,cx1182a,c0314a,c1182a
+c0314a,c1182a
 
 >  <alias>  (20) 
 None
@@ -1801,7 +1801,7 @@ CTECJTBKOFPTMY-SNVBAGLBSA-N
 None
 
 >  <ref_mols>  (21) 
-cx0522a,c0522a,c1135a
+c0522a,c1135a
 
 >  <alias>  (21) 
 None
@@ -1887,7 +1887,7 @@ CTECJTBKOFPTMY-JTQLQIEISA-N
 None
 
 >  <ref_mols>  (22) 
-cx0522a,c0522a,c1135a
+c0522a,c1135a
 
 >  <alias>  (22) 
 None
@@ -2422,7 +2422,7 @@ LKDGGWMXOHPRMI-OAHLLOKOSA-N
 None
 
 >  <ref_mols>  (28) 
-cx0398a,cx0824a,c0398a,c0824a
+c0398a,c0824a
 
 >  <alias>  (28) 
 None
@@ -2511,7 +2511,7 @@ LKDGGWMXOHPRMI-OAHLLOKOSA-N
 None
 
 >  <ref_mols>  (29) 
-cx0398a,cx0824a,c0398a,c0824a
+c0398a,c0824a
 
 >  <alias>  (29) 
 None
@@ -2614,7 +2614,7 @@ TYBDSUPMDPIPBB-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (30) 
-cx0544a,c0316a,c0544a
+c0316a,c0544a
 
 >  <alias>  (30) 
 None
@@ -2687,7 +2687,7 @@ XMHJIXAUMMKGLT-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (31) 
-cx0935a,c0935a,c1353a
+c0935a,c1353a
 
 >  <alias>  (31) 
 None
@@ -2769,7 +2769,7 @@ KIULBMGWDSJTMM-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (32) 
-cx0305a,c0305a,c1135a
+c0305a,c1135a
 
 >  <alias>  (32) 
 None
@@ -2846,7 +2846,7 @@ RGWZNWCCBDMABV-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (33) 
-cx1338a,cx0864a,c0864a,c1338a
+c0864a,c1338a
 
 >  <alias>  (33) 
 None
@@ -3006,7 +3006,7 @@ RGWZNWCCBDMABV-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (35) 
-cx0864a,c0864a,c1203a
+c0864a,c1203a
 
 >  <alias>  (35) 
 None
@@ -3082,7 +3082,7 @@ MIMRXPBJLOWRMN-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (36) 
-cx0935a,c0935a,c1132a,c1132f
+c0935a,c1132a,c1132f
 
 >  <alias>  (36) 
 None
@@ -3167,7 +3167,7 @@ FXMHNJCWYFUXEW-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (37) 
-cx0935a,c0935a,c1440a,c1440b
+c0935a,c1440a,c1440b
 
 >  <alias>  (37) 
 None
@@ -3270,7 +3270,7 @@ SBEBTLKTHHBVAY-LLVKDONJSA-N
 None
 
 >  <ref_mols>  (38) 
-cx0935a,c0300a,c0935a
+c0300a,c0935a
 
 >  <alias>  (38) 
 None
@@ -3373,7 +3373,7 @@ SBEBTLKTHHBVAY-NSHDSACASA-N
 None
 
 >  <ref_mols>  (39) 
-cx0935a,c0300a,c0935a
+c0300a,c0935a
 
 >  <alias>  (39) 
 None
@@ -3460,7 +3460,7 @@ XXPRWRCNORVHSY-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (40) 
-cx0935a,c0553a,c0935a
+c0553a,c0935a
 
 >  <alias>  (40) 
 None
@@ -3736,7 +3736,7 @@ JAHJLJNEYRGXQB-QLFBSQMISA-N
 None
 
 >  <ref_mols>  (43) 
-cx1338a,c0300a,c1338a
+c0300a,c1338a
 
 >  <alias>  (43) 
 None
@@ -3830,7 +3830,7 @@ JAHJLJNEYRGXQB-ILXRZTDVSA-N
 None
 
 >  <ref_mols>  (44) 
-cx1338a,c0300a,c1338a
+c0300a,c1338a
 
 >  <alias>  (44) 
 None
@@ -3924,7 +3924,7 @@ JAHJLJNEYRGXQB-RBSFLKMASA-N
 None
 
 >  <ref_mols>  (45) 
-cx1338a,c0300a,c1338a
+c0300a,c1338a
 
 >  <alias>  (45) 
 None
@@ -4018,7 +4018,7 @@ JAHJLJNEYRGXQB-KFWWJZLASA-N
 None
 
 >  <ref_mols>  (46) 
-cx1338a,c0300a,c1338a
+c0300a,c1338a
 
 >  <alias>  (46) 
 None
@@ -4112,7 +4112,7 @@ JAHJLJNEYRGXQB-KKUMJFAQSA-N
 None
 
 >  <ref_mols>  (47) 
-cx1338a,c0300a,c1338a
+c0300a,c1338a
 
 >  <alias>  (47) 
 None
@@ -4206,7 +4206,7 @@ JAHJLJNEYRGXQB-KKUMJFAQSA-N
 None
 
 >  <ref_mols>  (48) 
-cx1338a,c0300a,c1338a
+c0300a,c1338a
 
 >  <alias>  (48) 
 None
@@ -4300,7 +4300,7 @@ JAHJLJNEYRGXQB-RRFJBIMHSA-N
 None
 
 >  <ref_mols>  (49) 
-cx1338a,c0300a,c1338a
+c0300a,c1338a
 
 >  <alias>  (49) 
 None
@@ -4394,7 +4394,7 @@ JAHJLJNEYRGXQB-ZNMIVQPWSA-N
 None
 
 >  <ref_mols>  (50) 
-cx1338a,c0300a,c1338a
+c0300a,c1338a
 
 >  <alias>  (50) 
 None
@@ -4641,7 +4641,7 @@ RRJMGDPCLBVSAU-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (53) 
-cx0692a,c0692a,c1379a,c1379e
+c0692a,c1379a,c1379e
 
 >  <alias>  (53) 
 None
@@ -4970,7 +4970,7 @@ KRUZICJRZZZCFH-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (57) 
-cx0289a,c0289a,c0892a
+c0289a,c0892a
 
 >  <alias>  (57) 
 None
@@ -5046,7 +5046,7 @@ GXJARPZGKFADOS-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (58) 
-cx1260a,c0270a,c1260a
+c0270a,c1260a
 
 >  <alias>  (58) 
 None
@@ -5142,7 +5142,7 @@ KFMQBLWKRFIPBE-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (59) 
-cx1338a,c0270a,c1338a
+c0270a,c1338a
 
 >  <alias>  (59) 
 None
@@ -5307,7 +5307,7 @@ XMHJIXAUMMKGLT-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (61) 
-cx0935a,cx1116a,c0935a,c1116a
+c0935a,c1116a
 
 >  <alias>  (61) 
 None
@@ -5392,7 +5392,7 @@ IMOYJNKITCRRFB-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (62) 
-cx0692a,c0692a,c0894a,c0894e
+c0692a,c0894a,c0894e
 
 >  <alias>  (62) 
 None
@@ -5474,7 +5474,7 @@ LXNXWBLKTWRVII-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (63) 
-cx0935a,c0935a,c1118a,c1118g
+c0935a,c1118a,c1118g
 
 >  <alias>  (63) 
 None
@@ -6273,7 +6273,7 @@ OHSGHNZPVAYZHL-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (72) 
-cx0317a,c0317a,c1402a
+c0317a,c1402a
 
 >  <alias>  (72) 
 None
@@ -6446,7 +6446,7 @@ KIULBMGWDSJTMM-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (74) 
-cx0305a,cx1118a,c0305a,c1118a
+c0305a,c1118a
 
 >  <alias>  (74) 
 None
@@ -6519,7 +6519,7 @@ GLWBHHUWZUOZOL-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (75) 
-cx0692a,c1075a,c0692a
+c1075a,c0692a
 
 >  <alias>  (75) 
 None
@@ -6595,7 +6595,7 @@ XQWKZXHQRAAZAF-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (76) 
-cx0692a,c0692a,c1116c,c1116a
+c0692a,c1116c,c1116a
 
 >  <alias>  (76) 
 None
@@ -6752,7 +6752,7 @@ ZJENMQHSGLZNHL-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (78) 
-cx0732a,c0732a,c1135a
+c0732a,c1135a
 
 >  <alias>  (78) 
 None
@@ -6840,7 +6840,7 @@ GQXYNJMUNPQGML-UHFFFAOYSA-N
 None
 
 >  <ref_mols>  (79) 
-cx0317a,cx0305a,c0305a,c0317a
+c0305a,c0317a
 
 >  <alias>  (79) 
 None
