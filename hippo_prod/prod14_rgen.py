@@ -18,6 +18,33 @@ for i in range(20):
             max_iter=len(gen.route_pool), 
             currency='EUR', 
             debug=False,
+            balance_clusters=True,
+            permitted_clusters={
+                93,
+                95,
+                104,
+                653,
+                796,
+                1001,
+                1012,
+                1128,
+                1192,
+                1316,
+                1473,
+                1917,
+                2188,
+                2916,
+                2919,
+                2924,
+                2925,
+                2944,
+                3284,
+                3611,
+                3624,
+                3625,
+                3627,
+                3628
+            },
         )
     
 animal.db.close()
