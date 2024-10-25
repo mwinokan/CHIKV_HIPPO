@@ -15,7 +15,7 @@ for i in range(200):
             max_reactions=3000, 
             max_iter=5000, 
             currency='EUR', 
-            debug=False
+            debug=False,
             balance_clusters=True,
             permitted_clusters={
                 93,
