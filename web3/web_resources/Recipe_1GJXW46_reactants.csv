@@ -3,7 +3,7 @@ hippo_id,smiles,inchikey,required_amount_mg,quoted_amount,quote_currency,quote_p
 4554,CCc1nc(Br)no1,WBNVODTUMQHJMO-UHFFFAOYSA-N,10.0,20.0,EUR,24.0,5,Enamine,In stock,EN300-7282221,CCc1nc(Br)no1,0.95,1,1,[103],[93],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,[93]
 4466,O=S1(=O)CCC(CCl)C1,UCPALMJXNYQPBD-UHFFFAOYSA-N,7.0,20.0,EUR,34.0,5,Enamine,In stock,EN300-1448603,O=S1(=O)CCC(CCl)C1,0.95,7,7,"[29, 20793, 20933, 20934, 21323, 21327, 21501]","[95, 28801, 29052, 29053, 29774, 29780, 30095]",Nucleophilic_substitution_with_amine,[95]
 4467,O=c1ccnc[nH]1,DNCYBUMDUBHIJZ-UHFFFAOYSA-N,1.0,20.0,EUR,17.0,5,Enamine,In stock,EN300-67372,O=c1ccnc[nH]1,0.95,1,1,[29],[95],Nucleophilic_substitution_with_amine,[95]
-4440,NCc1cccs1,FKKJJPMGAWGYPN-UHFFFAOYSA-N,12.0,20.0,EUR,17.0,5,Enamine,In stock,EN300-20989,NCc1cccs1,0.95,3,3,"[82, 18687, 19288]","[104, 26522, 27123]","Buchwald-Hartwig_amination, Amidation",[2188]
+4440,NCc1cccs1,FKKJJPMGAWGYPN-UHFFFAOYSA-N,12.0,20.0,EUR,17.0,5,Enamine,In stock,EN300-20989,NCc1cccs1,0.95,3,3,"[82, 18687, 19288]","[104, 26522, 27123]","Amidation, Buchwald-Hartwig_amination",[2188]
 4530,Cn1c(N)nc2cccc(Br)c21,FQBUUUIKMZYPJZ-UHFFFAOYSA-N,20.0,20.0,EUR,148.0,5,Enamine,In stock,EN300-3045078,Cn1c(N)nc2cccc(Br)c21,0.95,2,2,"[82, 47751]","[104, 59563]",Buchwald-Hartwig_amination,[104]
 4445,OB(O)c1ccn[nH]1,NEUWPDLMDVINSN-UHFFFAOYSA-N,2.0,20.0,EUR,17.0,5,Enamine,In stock,EN300-200298,OB(O)c1ccn[nH]1,0.95,2,2,"[14, 37]","[796, 3284]",Sp2-sp2_Suzuki_coupling,"[796, 3284]"
 4480,Nc1cc(Br)cc2c1OCO2,TYSVFBOLGCFLGI-UHFFFAOYSA-N,4.0,20.0,EUR,126.0,5,Enamine,In stock,EN300-814497,Nc1cc(Br)cc2c1OCO2,0.95,4,4,"[37, 29609, 29677, 29817]","[796, 40371, 40492, 40715]",Sp2-sp2_Suzuki_coupling,[796]
@@ -22,7 +22,7 @@ hippo_id,smiles,inchikey,required_amount_mg,quoted_amount,quote_currency,quote_p
 4439,Nc1ccccc1,PAYRUJLWNCNPSJ-UHFFFAOYSA-N,10.0,20.0,EUR,17.0,5,Enamine,In stock,EN300-33390,Nc1ccccc1,0.98,1,1,[108],[2925],Buchwald-Hartwig_amination,[2925]
 4451,Cc1cccc(O)c1I,SQQLELZQLWQUEP-UHFFFAOYSA-N,50.0,50.0,EUR,179.0,5,Enamine,In stock,EN300-125193,Cc1cccc(O)c1I,0.95,5,5,"[18, 108, 8974, 8976, 67439]","[2925, 3625, 16778, 16781, 81003]",Buchwald-Hartwig_amination,"[2925, 3625]"
 4444,Oc1cc2c(cc1Br)OCO2,TUYBCLHMZFLWRY-UHFFFAOYSA-N,1.0,20.0,EUR,116.0,5,Enamine,In stock,EN300-1997124,Oc1cc2c(cc1Br)OCO2,0.95,1,1,[14],[3284],Sp2-sp2_Suzuki_coupling,[3284]
-4476,Nc1cc(O)ccc1Br,JJNOHJJIVAVDLP-UHFFFAOYSA-N,12.0,20.0,EUR,17.0,5,Enamine,In stock,EN300-725111,Nc1cc(O)ccc1Br,0.95,3,3,"[35, 4517, 57556]","[3624, 10036, 71135]","Amidation, Buchwald-Hartwig_amidation_with_amide-like_nucleophile","[2919, 2944]"
+4476,Nc1cc(O)ccc1Br,JJNOHJJIVAVDLP-UHFFFAOYSA-N,12.0,20.0,EUR,17.0,5,Enamine,In stock,EN300-725111,Nc1cc(O)ccc1Br,0.95,3,3,"[35, 4517, 57556]","[3624, 10036, 71135]","Buchwald-Hartwig_amidation_with_amide-like_nucleophile, Amidation","[2919, 2944]"
 4477,COCC(N)=O,MTEZLAATISORQK-UHFFFAOYSA-N,10.0,20.0,EUR,34.0,5,Enamine,In stock,EN300-15623,COCC(N)=O,0.95,1,1,[35],[3624],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,[3624]
 4452,Nc1ccc(O)cc1,PLIKAWJENQZMHA-UHFFFAOYSA-N,21.0,50.0,EUR,18.0,5,Enamine,In stock,EN300-33645,Nc1ccc(O)cc1,0.95,3,3,"[18, 43, 59214]","[3625, 3628, 72796]","Ester_amidation, Buchwald-Hartwig_amination","[2925, 3627]"
 4483,Oc1cnccc1Br,YCVSFCXUHPVAFH-UHFFFAOYSA-N,50.0,50.0,EUR,18.0,5,Enamine,In stock,EN300-123127,Oc1cnccc1Br,0.95,5,5,"[43, 30156, 30345, 31062, 31088]","[3628, 40898, 41086, 41737, 41763]",Buchwald-Hartwig_amination,[3628]
