@@ -1,319 +1,319 @@
-hippo_id,smiles,inchikey,required_amount_mg,num_poses,poses,tags,num_routes,num_reaction_steps,reaction_dependencies,reactant_dependencies,route_ids,chemistry_types,is_scaffold,scaffold_series
-93,CCc1nc(NC(=O)c2ccnc(NC3CC=CC3)c2)no1,WXVLITNXXROEMR-UHFFFAOYSA-N,1,1,{6297},"['merge', 'Syndirella base', 'JA', 'fragmenstein', 'raw', 'SeeSAR', 'pure_merges']",1,{1},[103],"{4554, 85}",[4],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,True,[93]
-95,O=c1ccncn1CC1CCS(=O)(=O)C1,UGYMLSSIEIESGU-UHFFFAOYSA-N,1,0,set(),"['SeeSAR', 'JA', 'Syndirella base', 'merge']",1,{1},[29],"{4466, 4467}",[5],Nucleophilic_substitution_with_amine,True,[95]
-104,Cn1c(N)nc2cccc(NCc3cccs3)c21,DGASNXVGKHJXGC-UHFFFAOYSA-N,1,1,{6278},"['merge', 'Syndirella base', 'DF', 'fragmenstein', 'arg144_pures', 'SeeSAR', 'raw', 'pure_merges']",1,{1},[82],"{4440, 4530}",[13],Buchwald-Hartwig_amination,True,[104]
-796,Nc1cc(-c2cc[nH]n2)cc2c1OCO2,RGWZNWCCBDMABV-UHFFFAOYSA-N,1,0,set(),"['Syndirella base', 'fragmenstein', 'arg144_pures', 'raw', 'pure_merges']",1,{1},[37],"{4480, 4445}",[25],Sp2-sp2_Suzuki_coupling,True,[796]
-1001,COC(=O)c1cnc2[nH]cc(C)cc1-2,QZVYQICELPCZOV-UHFFFAOYSA-N,1,0,set(),"['raw', 'pure_merges', 'Syndirella base', 'fragmenstein']",1,{1},[94],"{4545, 4546}",[34],Steglich_esterification,True,[1001]
-1128,CC(C)c1cccc2[nH]cnc12,DZVXXHSUENHLJH-UHFFFAOYSA-N,1,0,set(),"['raw', 'pure_merges', 'Syndirella base', 'fragmenstein']",1,{1},[105],"{4557, 4558}",[41],Sp3-sp2_Suzuki_coupling,True,[1128]
-1316,CC1CN(C(=O)c2cccc(F)c2)CCN1,GEKAQEZWMKZGCA-UHFFFAOYSA-N,1,0,set(),"['raw', 'pure_merges', 'Syndirella base', 'fragmenstein']",1,{1},[85],"{4534, 4535}",[48],Amidation,True,[1316]
-1473,CC(C)(C)c1cnc2ccccc2n1,MMXSHBZOILNLPJ-UHFFFAOYSA-N,1,1,{6276},"['Syndirella base', 'fragmenstein', 'arg144_pures', 'raw', 'pure_merges']",1,{1},[61],"{4505, 4507}",[54],Sp3-sp2_Suzuki_coupling,True,[1473]
-1917,CCc1nc(Cn2ccc(Br)cc2=O)no1,QQERROZMPKKQER-UHFFFAOYSA-N,1,1,{6251},"['raw', 'pure_merges', 'Syndirella base', 'fragmenstein']",1,{1},[33],"{4472, 84}",[58],Nucleophilic_substitution_with_amine,True,[1917]
-2916,COCC(=O)Nc1cccc(C(=O)NCc2cccs2)c1,QVSYFXSEJNFZKD-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[17],"{4449, 4450}",[68],Amidation,True,[2916]
-2925,Cc1cccc(O)c1Nc1ccccc1,XQWKZXHQRAAZAF-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[108],"{4451, 4439}",[72],Buchwald-Hartwig_amination,True,[2925]
-3284,Oc1cc2c(cc1-c1ccn[nH]1)OCO2,DETJXFSIQJPJAJ-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[14],"{4444, 4445}",[85],Sp2-sp2_Suzuki_coupling,True,[3284]
-3624,COCC(=O)Nc1ccc(O)cc1N,XMHJIXAUMMKGLT-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[35],"{4476, 4477}",[89],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,True,[3624]
-3625,Cc1cccc(O)c1Nc1ccc(O)cc1,JXRCCCJCUJURBQ-UHFFFAOYSA-N,1,1,{104911},"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[18],"{4451, 4452}",[90],Buchwald-Hartwig_amination,False,[2925]
-3628,Oc1ccc(Nc2ccncc2O)cc1,MIMRXPBJLOWRMN-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[43],"{4483, 4452}",[92],Buchwald-Hartwig_amination,True,[3628]
-76982,O=C(Nc1noc(C2CC2)n1)c1ccnc(NC2CC=CC2)c1,RVONYHCTWCRDJF-UHFFFAOYSA-N,1,1,{98837},[],1,{1},[63375],"{85, 76981}",[62694],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93]
-76984,CC(C)c1nc(NC(=O)c2ccnc(NC3CC=CC3)c2)no1,QYWGYJFOJRFRHH-UHFFFAOYSA-N,1,1,{98838},[],1,{1},[63376],"{85, 76983}",[62695],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93]
-76990,O=C(Nc1noc(C2CCC2)n1)c1ccnc(NC2CC=CC2)c1,SFDTUZQHZKCPRN-UHFFFAOYSA-N,1,1,{98841},[],1,{1},[63379],"{85, 76989}",[62698],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93]
-76994,CC1(c2nc(NC(=O)c3ccnc(NC4CC=CC4)c3)no2)CCOC1,KDAPNLCPIPSDQD-UHFFFAOYSA-N,1,2,"{98843, 98844}",[],1,{1},[63381],"{76993, 85}",[62700],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93]
-76996,COC1(c2nc(NC(=O)c3ccnc(NC4CC=CC4)c3)no2)CCOC1,LRNNKMIDGWTQJR-UHFFFAOYSA-N,1,2,"{98845, 98846}",[],1,{1},[63382],"{76995, 85}",[62701],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93]
-49582,CN(C(=O)C1CCN1)c1c(NC(=O)COC(F)F)ccc(O)c1C#N,FTEDAAMHBNYUBM-UHFFFAOYSA-N,1,1,{55611},[],1,{2},"[37302, 38408]","{4497, 14523, 48406}",[37885],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-87449,CCOC(=O)C(=O)Nc1cccc(F)c1[N+](=O)[O-],YAYSMZQHKVPAKO-UHFFFAOYSA-N,1,1,{112901},[],1,{1},[74366],"{11763, 86549}",[73348],Ester_amidation,False,[2924]
-64501,CC1C(=O)NCCN1C(=O)c1cc(F)c(F)cc1N,FOWXQTXOOVBNJW-UHFFFAOYSA-N,1,2,"{80889, 80890}",[],1,{1},[51590],"{12370, 14043}",[50915],Amidation,False,[1316]
-31643,Cc1c(Br)ccn(Cc2noc(C3CC3)n2)c1=O,ATJZGMKGFXUPAN-UHFFFAOYSA-N,1,1,{35376},[],1,{1},[22911],"{31625, 31631}",[22618],Nucleophilic_substitution_with_amine,False,[1917]
-26948,CN(NC(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12)C(N)=O,RHDPETMHGQCXET-UHFFFAOYSA-N,1,1,{29383},[],1,{1},[19113],"{25833, 13764}",[18945],Amidation,False,[2188]
-40898,Oc1ccc(Nc2ccncc2O)c(Cl)c1,ZIUQIFJMKDQIMW-UHFFFAOYSA-N,1,1,{46941},[],1,{1},[30156],"{4483, 9132}",[29863],Buchwald-Hartwig_amination,False,[3628]
-19846,COc1cc(C=O)c(Nc2cc(F)c(O)cc2Cl)c(OC)c1,WUQJMUSEGZXREA-UHFFFAOYSA-N,1,1,{20979},[],1,{1},[12081],"{10848, 18254}",[12011],Buchwald-Hartwig_amination,False,[3625]
-29780,CCc1[nH]c(=O)n(CC2CCS(=O)(=O)C2)c(=O)c1N,YERROGAWGHMJSN-UHFFFAOYSA-N,1,2,"{32123, 32124}",[],1,{1},[21327],"{4466, 29773}",[21060],Nucleophilic_substitution_with_amine,False,[95]
-78140,O=C(Cc1cccc(OC(F)F)n1)Nc1cnc(Br)cc1C(=O)O,NDIXQJXCJCMZTG-UHFFFAOYSA-N,1,1,{100963},[],1,{1},[64512],"{37888, 77132}",[63831],Amidation,False,[1012]
-59812,Cc1ccsc1C1CCCCCN1c1cc(C(=O)O)cc2nc(N)n(C)c12,HLZVMXCWEWCTOV-UHFFFAOYSA-N,1,1,{75257},[],1,{1},[47990],"{58969, 14403}",[47315],Buchwald-Hartwig_amination,False,[104]
-6125,C#CCOc1ncccc1C(=O)N1CCCCC1c1ccc(O)nc1,OPZXWXCXJQFWDV-UHFFFAOYSA-N,1,2,"{8262, 8263}",[],1,{1},[1486],"{6089, 5797}",[1476],Amidation,False,[653]
-12272,NC(=O)c1cc(Cl)c(C(=O)Nc2ccc([N+](=O)[O-])cc2)c(Cl)c1,UFHUHRFWKBEZPN-UHFFFAOYSA-N,1,1,{13918},[],1,{1},[6053],"{4579, 10782}",[5983],Amidation,False,[2944]
-40492,Nc1cc(-c2ccn(CC(F)F)n2)cc2c1OCO2,MOLHQPPIEJBAAQ-UHFFFAOYSA-N,1,2,"{46768, 46420}",[],1,{1},[29677],"{4480, 40491}",[29386],Sp2-sp2_Suzuki_coupling,False,[796]
-36847,COCC(=O)NOCC(=O)Nc1cc2c(cc1N)OCCO2,VZEQNMOPRLHGLE-UHFFFAOYSA-N,1,2,"{86225, 41359}",[],1,{1},[26608],"{35857, 35586}",[26316],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624]
-72969,COc1ccc(N)cc1C(=O)Nc1cc(I)c(O)c(I)c1,RFCIPTSAYAETTH-UHFFFAOYSA-N,1,1,{93975},[],1,{1},[59377],"{72795, 10228}",[58696],Ester_amidation,False,[3627]
-53250,FC(F)(F)c1ccc2nc(C34CC3C4)cnc2c1,CSEPTYUGKSZCPY-UHFFFAOYSA-N,1,1,{65400},[],1,{1},[41534],"{53200, 52789}",[40958],Sp3-sp2_Suzuki_coupling,False,[1473]
-14997,COC(C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1)C(C)C,RVLIBSAFXNZNQW-UHFFFAOYSA-N,1,2,"{15966, 15967}",[],1,{1},[7667],"{14614, 14503}",[7597],Amidation,False,[2916]
-72297,Cc1cc(Cl)c(N)cc1NC(=O)c1cc(Cl)c2c(c1)[nH]c(=O)n2C,VPLRZYQURNFOPZ-UHFFFAOYSA-N,1,1,{93309},[],1,{1},[58717],"{11194, 68670}",[58036],Amidation,False,[2919]
-81547,COc1cc(Nc2ccccc2C)cc(C)c1I,BEJJFSGRWJSFBR-UHFFFAOYSA-N,1,1,{105678},[],1,{1},[67999],"{8601, 16731}",[67318],Buchwald-Hartwig_amination,False,[2925]
-78608,Cn1cnc2c(C3COC3)cccc21,CSYGCBBOSAXSJE-UHFFFAOYSA-N,1,1,{101588},[],1,{1},[64957],"{78576, 78607}",[64283],Sp3-sp2_Suzuki_coupling,False,[1128]
-8372,COc1sc(CN(CC(O)CO)C(=O)c2cc(C(=O)O)nn2C)cc1Br,SDGUZSVJRIKLRW-UHFFFAOYSA-N,1,2,"{11258, 11259}",[],1,{1},[3433],"{8010, 8243}",[3424],Ester_amidation,False,[1192]
-48486,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1C(=O)CNC1=S,QSFDRLNGCTXARP-UHFFFAOYSA-N,1,1,{53984},[],1,{2},"[37286, 37357]","{4497, 48370, 15671}",[36892],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-87275,C#CCOCC(=O)Nc1cc(Cl)c(F)cc1N,RVKZEAKZGTVGIA-UHFFFAOYSA-N,1,1,{112655},[],1,{1},[73846],"{10293, 86614}",[73163],Ester_amidation,False,[2924]
-64280,COc1ccc(F)cc1C(=O)N1CCNC(C)C1C,SZKWZDPNGMZJHH-UHFFFAOYSA-N,1,4,"{80416, 80417, 80418, 80415}",[],1,{1},[51369],"{63203, 63062}",[50694],Amidation,False,[1316]
-31711,CC(C)Cc1nc(Cn2ccc(Br)c(Cl)c2=O)no1,FIKQSZOCVPTCTI-UHFFFAOYSA-N,1,1,{35440},[],1,{1},[22968],"{31657, 31621}",[22675],Nucleophilic_substitution_with_amine,False,[1917]
-26939,Cn1c(Cl)c(C(=O)NCCC(Cl)Cl)c2cc(Cl)c(Cl)cc21,VZMAPPMXABTTMI-UHFFFAOYSA-N,1,1,{29373},[],1,{1},[19104],"{25833, 13690}",[18936],Amidation,False,[2188]
-41763,COc1ccc(N(C)c2ccncc2O)cc1F,XHPQDAKVXLMYAN-UHFFFAOYSA-N,1,1,{47774},[],1,{1},[31088],"{17226, 4483}",[30798],Buchwald-Hartwig_amination,False,[3628]
-18430,COc1ccc(Nc2c(OC)ccc3c2CCC3)cc1F,DTSZEJFKVVQXKM-UHFFFAOYSA-N,1,1,{19571},[],1,{1},[10644],"{16912, 10862}",[10580],Buchwald-Hartwig_amination,False,[3625]
-30095,Cn1ncc2nc(Cl)n(CC3CCS(=O)(=O)C3)c(=O)c21,LYEUFVGGUCTBSU-UHFFFAOYSA-N,1,1,{32410},[],1,{1},[21501],"{4466, 30094}",[21234],Nucleophilic_substitution_with_amine,False,[95]
-77866,COc1cccc(C(F)(F)C(=O)Nc2c(C)ccnc2CO)n1,RZYOLOOYKSKWSQ-UHFFFAOYSA-N,1,1,{100512},[],1,{1},[64239],"{37616, 77062}",[63558],Amidation,False,[1012]
-58703,Cc1csc(CN(C)c2cc(F)cc3nc(N)n(C)c23)c1,YLTGAPROOKEUCH-UHFFFAOYSA-N,1,1,{73945},[],1,{1},[47032],"{58521, 12875}",[46357],Buchwald-Hartwig_amination,False,[104]
-6616,COCCOc1ncccc1C(=O)N1CCCCC1c1ccc(O)nc1,HBQFMVQDSMREEH-UHFFFAOYSA-N,1,2,"{8806, 8807}",[],1,{1},[1949],"{6089, 5836}",[1939],Amidation,False,[653]
-10023,NC(=O)c1cc(Cl)c(C(=O)Nc2cccc(Br)c2S)c(Cl)c1,LIVPMYYMBBCDFT-UHFFFAOYSA-N,1,1,{12355},[],1,{1},[4504],"{9264, 4579}",[4434],Amidation,False,[2944]
-40715,Cn1ncc(NC(=O)OC(C)(C)C)c1-c1cc(N)c2c(c1)OCO2,NHFGUUPWDGHPIV-UHFFFAOYSA-N,1,2,"{46546, 46892}",[],1,{1},[29817],"{4480, 40714}",[29524],Sp2-sp2_Suzuki_coupling,False,[796]
-36349,COc1ccc(NC(=O)C(=O)OC(C)(C)C)c(N=[N+]=[N-])c1,MELUHIUKOCZYJI-UHFFFAOYSA-N,1,1,{40603},[],1,{1},[26128],"{35584, 35733}",[25836],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624]
-75646,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1cc(I)c(O)c(I)c1,YFMMIRISAYEDEX-UHFFFAOYSA-N,1,1,{96591},[],1,{1},[62089],"{74586, 10228}",[61408],Ester_amidation,False,[3627]
-53737,Cc1nc2ccccc2nc1C1(C2CC2)CCOCC1,RWYUVIMPTJPWPO-UHFFFAOYSA-N,1,1,{66167},[],1,{1},[42032],"{52795, 53478}",[41471],Sp3-sp2_Suzuki_coupling,False,[1473]
-15707,COC(CC1CCCC1)C(=O)Nc1cccc(C(=O)NCc2cccs2)c1,KSVKSMSOIXOMEB-UHFFFAOYSA-N,1,2,"{16689, 16690}",[],1,{1},[8109],"{4450, 15706}",[8039],Amidation,False,[2916]
-72443,Cn1c(=O)[nH]c2cc(C(=O)Nc3ccc(F)c([N+](=O)[O-])c3)cc(Cl)c21,NPXUXTPGHGXKGO-UHFFFAOYSA-N,1,1,{93458},[],1,{1},[58863],"{11753, 68670}",[58182],Amidation,False,[2919]
-82536,COc1cc(Br)cc(C)c1Nc1cccc(F)c1Cl,WBTNDPCBISTBDL-UHFFFAOYSA-N,1,1,{106770},[],1,{1},[69035],"{16731, 8947}",[68376],Buchwald-Hartwig_amination,False,[2925]
-79873,Cn1c(O)nc2c(C3(C)CCOC3)cccc21,ZDDJHSUSVFXCKN-UHFFFAOYSA-N,1,2,"{103228, 103229}",[],1,{1},[66326],"{52916, 78623}",[65647],Sp3-sp2_Suzuki_coupling,False,[1128]
-8358,COc1sc(CN(CC(O)CO)C(=O)c2cc([N+](=O)[O-])nn2C)cc1Br,XCYKKTHXRDYWAK-UHFFFAOYSA-N,1,2,"{11241, 11242}",[],1,{1},[3434],"{8002, 8243}",[3411],Ester_amidation,False,[1192]
-49058,CN(C)CC(=O)Nc1c(NC(=O)C2=CCCO2)ccc(O)c1C#N,KYBOJVPYOMLTIL-UHFFFAOYSA-N,1,1,{54748},[],1,{2},"[37347, 37900]","{48232, 4497, 14517}",[37380],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-87691,Nc1c(NC(=O)COCCCBr)ccc(Br)c1F,RBXGBZIZXZWYLY-UHFFFAOYSA-N,1,1,{113170},[],1,{1},[74266],"{10336, 86686}",[73585],Ester_amidation,False,[2924]
-62996,CC1CNCCN1C(=O)c1cc(F)cc(Cl)c1,HXHRCVANLJFORA-UHFFFAOYSA-N,1,2,"{78022, 78023}",[],1,{1},[50300],"{62995, 4535}",[49625],Amidation,False,[1316]
-31777,CCCCc1nc(Cn2ccc(Br)c(Cl)c2=O)no1,SLEYBXRTCYLYES-UHFFFAOYSA-N,1,1,{35504},[],1,{1},[23026],"{31621, 31653}",[22733],Nucleophilic_substitution_with_amine,False,[1917]
-26212,CN(CCCO)C(=O)c1cn(C)c2cc(Cl)ccc12,ZFSRXWHEPOUCLA-UHFFFAOYSA-N,1,1,{28417},[],1,{1},[18377],"{13750, 4462}",[18209],Amidation,False,[2188]
-41737,COc1c(I)cc(Nc2ccncc2O)cc1I,SMUPBFYQUGCNGO-UHFFFAOYSA-N,1,1,{47748},[],1,{1},[31062],"{17258, 4483}",[30772],Buchwald-Hartwig_amination,False,[3628]
-16781,COc1ccc(Nc2c(C)cccc2O)cc1Cl,CPTCCXRJTWYYNV-UHFFFAOYSA-N,1,1,{17971},[],1,{1},[8976],"{10922, 4451}",[8906],Buchwald-Hartwig_amination,False,[3625]
-29052,O=c1cc(CCl)[nH]c(=O)n1CC1CCS(=O)(=O)C1,PCGIMQYKMNOYEP-UHFFFAOYSA-N,1,2,"{31412, 31413}",[],1,{1},[20933],"{4466, 29051}",[20666],Nucleophilic_substitution_with_amine,False,[95]
-38851,Cc1nc(Cl)c(NC(=O)C2CCc3ccc(=O)[nH]c32)c(C)c1C,HGBAJEMUEKUJKI-UHFFFAOYSA-N,1,4,"{44331, 44332, 100133, 100134}",[],1,{1},[28264],"{37896, 37786}",[27971],Amidation,False,[1012]
-59563,Cn1c(N)nc2cccc(N3C(C(=O)O)CSC3c3ccc(Cl)s3)c21,QSARRORVVCSXSB-UHFFFAOYSA-N,1,3,"{74949, 74950, 74951}",[],1,{1},[47751],"{4530, 14470}",[47076],Buchwald-Hartwig_amination,False,[104]
-6085,CCOc1ncccc1C(=O)N1CCCC1c1ccc(OC)nc1,QUPWOWSONXPQQX-UHFFFAOYSA-N,1,2,"{8218, 8219}",[],1,{1},[1452],"{4427, 6084}",[1442],Amidation,False,[653]
-11222,Cc1cc(NC(=O)c2c(Cl)cc(C(N)=O)cc2Cl)c(Cl)cc1Cl,DMXCPDHEVSRFFY-UHFFFAOYSA-N,1,1,{13041},[],1,{1},[5186],"{10563, 4579}",[5116],Amidation,False,[2944]
-40371,Cn1ncc(Cl)c1-c1cc(N)c2c(c1)OCO2,BFZVQBASOWSUJT-UHFFFAOYSA-N,1,2,"{46362, 46710}",[],1,{1},[29609],"{4480, 40370}",[29316],Sp2-sp2_Suzuki_coupling,False,[796]
-37087,COc1cc(N)c(NC(=O)C(C)OCc2ccccc2)cc1Br,XJQWQCNJWGSCQA-UHFFFAOYSA-N,1,4,"{86633, 41842, 41843, 86634}",[],1,{1},[26844],"{36435, 35532}",[26552],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624]
-76522,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1ccc(O)cc1[N+](=O)[O-],BVVWEQPKDQFMBK-UHFFFAOYSA-N,1,1,{97466},[],1,{1},[62957],"{74586, 17246}",[62276],Ester_amidation,False,[3627]
-53837,OCCC1(c2cnc3ccc(C(F)(F)F)cc3n2)CC1,PKRDIOBQFMHZPM-UHFFFAOYSA-N,1,1,{66300},[],1,{1},[42151],"{53202, 52914}",[41578],Sp3-sp2_Suzuki_coupling,False,[1473]
-15060,CCC(CC)C(OC)C(=O)Nc1cccc(C(=O)NCc2cccs2)c1,ZHAQWAGCDVSHQF-UHFFFAOYSA-N,1,2,"{16035, 16036}",[],1,{1},[7714],"{4450, 15059}",[7644],Amidation,False,[2916]
-71887,Cn1c(=O)[nH]c2cc(C(=O)Nc3c(F)cc(Cl)cc3F)cc(Cl)c21,VUVYGJWKIWSSGV-UHFFFAOYSA-N,1,1,{92824},[],1,{1},[58308],"{10741, 68670}",[57627],Amidation,False,[2919]
-82689,COc1cc(Br)cc(CO)c1Nc1cc(F)ccc1O,MEGCTDBRIZDQNV-UHFFFAOYSA-N,1,1,{106943},[],1,{1},[69210],"{8945, 16954}",[68529],Buchwald-Hartwig_amination,False,[2925]
-78635,Cn1c(Cl)nc2c(C3CC3)cccc21,VYIURGJIPNCJKA-UHFFFAOYSA-N,1,1,{101613},[],1,{1},[64987],"{78581, 78631}",[64311],Sp3-sp2_Suzuki_coupling,False,[1128]
-8321,COc1sc(CN(CC(O)CO)C(=O)c2c(Br)c(C)nn2C)cc1Br,RNWPOBYYMPIYPG-UHFFFAOYSA-N,1,1,{11206},[],1,{1},[3387],"{7960, 8243}",[3378],Ester_amidation,False,[1192]
-26116,CCN(C(=O)c1cn(C)c2cc(Cl)ccc12)C(C)C,OPZSPDRBUAYJSQ-UHFFFAOYSA-N,1,1,{28290},[],1,{1},[18281],"{13930, 4462}",[18113],Amidation,False,[2188]
-81003,Cc1cccc(O)c1Nc1cccc(F)c1Cl,NSKAXFKIEYACNT-UHFFFAOYSA-N,1,1,{105087},[],1,{1},[67439],"{4451, 8947}",[66758],Buchwald-Hartwig_amination,False,[2925]
-82713,COc1cc(Br)cc(CO)c1Nc1cccc(F)c1Cl,ZPNVWTHMWLOMFF-UHFFFAOYSA-N,1,1,{106971},[],1,{1},[69234],"{16954, 8947}",[68553],Buchwald-Hartwig_amination,False,[2925]
-31622,CCc1nc(Cn2ccc(Br)c(Cl)c2=O)no1,NEFGIVMWIPKFJT-UHFFFAOYSA-N,1,1,{35361},[],1,{1},[22896],"{4472, 31621}",[22603],Nucleophilic_substitution_with_amine,False,[1917]
-59040,Cc1csc(CN(C)c2cc(C(=O)O)cc3nc(N)n(C)c23)c1,IIDWXUVFKFQALQ-UHFFFAOYSA-N,1,1,{74322},[],1,{1},[47301],"{58969, 12875}",[46626],Buchwald-Hartwig_amination,False,[104]
-73007,COc1ccc(N)cc1C(=O)Nc1cc(F)c(O)cc1Cl,KCFJSDZWSWQWBN-UHFFFAOYSA-N,1,1,{94008},[],1,{1},[59410],"{10848, 72795}",[58729],Ester_amidation,False,[3627]
-29053,O=c1cc(CCl)n(CC2CCS(=O)(=O)C2)c(=O)[nH]1,RPVLVMNDDYWZTO-UHFFFAOYSA-N,1,2,"{31414, 31415}",[],1,{1},[20934],"{4466, 29051}",[20667],Nucleophilic_substitution_with_amine,False,[95]
-31642,O=c1c(Cl)c(Br)ccn1Cc1noc(C2CC2)n1,WFSYDNUCHCVRMD-UHFFFAOYSA-N,1,1,{35375},[],1,{1},[22910],"{31621, 31631}",[22617],Nucleophilic_substitution_with_amine,False,[1917]
-31632,O=c1cc(Br)ccn1Cc1noc(C2CC2)n1,KBVJRQKQCKILOY-UHFFFAOYSA-N,1,1,{35366},[],1,{1},[22901],"{84, 31631}",[22608],Nucleophilic_substitution_with_amine,False,[1917]
-72376,Cc1cc(Cl)c(NC(=O)c2cc(Cl)c3c(c2)[nH]c(=O)n3C)cc1N,KRHNAGQEEAXIPR-UHFFFAOYSA-N,1,1,{93388},[],1,{1},[58796],"{11194, 68670}",[58115],Amidation,False,[2919]
-52811,Cc1nc2ccccc2nc1C12CC1C2,JTWXPXYTTCHQFH-UHFFFAOYSA-N,1,1,{64854},[],1,{1},[41080],"{52795, 52789}",[40516],Sp3-sp2_Suzuki_coupling,False,[1473]
-48483,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CC(=O)NC1=S,JDTWERWWQJXUMJ-UHFFFAOYSA-N,1,1,{53980},[],1,{2},"[37286, 37354]","{4497, 48370, 15671}",[36889],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-63250,COc1ccc(F)cc1C(=O)N1CCNC(C)C1,LILGELNVMFEYFO-UHFFFAOYSA-N,1,2,"{78384, 78383}",[],1,{1},[50452],"{63203, 4535}",[49777],Amidation,False,[1316]
-82639,COc1ccc2c(c1Nc1cccc(F)c1Cl)CCC2,QLNQPKZCPUHQMS-UHFFFAOYSA-N,1,1,{106883},[],1,{1},[69160],"{16912, 8947}",[68479],Buchwald-Hartwig_amination,False,[2925]
-9915,NC(=O)c1cc(Cl)c(C(=O)Nc2ccc(O)cc2Cl)c(Cl)c1,SAIDAQMCKKGFBM-UHFFFAOYSA-N,1,1,{12247},[],1,{1},[4396],"{4579, 9132}",[4326],Amidation,False,[2944]
-52796,Cc1nc2ccccc2nc1C(C)(C)C,WKWFATFSDWZIJI-UHFFFAOYSA-N,1,1,{64840},[],1,{1},[41060],"{52795, 4507}",[40494],Sp3-sp2_Suzuki_coupling,False,[1473]
-76509,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1cc(I)c(OC)c(I)c1,LVSQTCQFNZKWPE-UHFFFAOYSA-N,1,1,{97453},[],1,{1},[62944],"{17258, 74586}",[62263],Ester_amidation,False,[3627]
-59548,Cc1ccsc1C1CCCCCN1c1cc(F)cc2nc(N)n(C)c12,FAAKLJKZFUVQPS-UHFFFAOYSA-N,1,1,{74930},[],1,{1},[47737],"{58521, 14403}",[47062],Buchwald-Hartwig_amination,False,[104]
-78633,CC(C)c1cccc2c1nc(Cl)n2C,DNKORNSFUCJWJH-UHFFFAOYSA-N,1,1,{101611},[],1,{1},[64989],"{4558, 78631}",[64308],Sp3-sp2_Suzuki_coupling,False,[1128]
-31775,CCCCc1nc(Cn2ccc(Br)c(C)c2=O)no1,GCYRYTOMWWQMFC-UHFFFAOYSA-N,1,1,{35502},[],1,{1},[23024],"{31625, 31653}",[22731],Nucleophilic_substitution_with_amine,False,[1917]
-38875,O=C(O)c1cc(Br)ncc1NC(=O)C1CCc2ccc(=O)[nH]c21,PDIJYLSBCDCRNG-UHFFFAOYSA-N,1,4,"{44379, 44380, 100141, 100142}",[],1,{1},[28288],"{37888, 37786}",[27995],Amidation,False,[1012]
-26154,Cn1cc(C(=O)NCCC(Cl)Cl)c2ccc(Cl)cc21,IICJJSQIMIVITL-UHFFFAOYSA-N,1,1,{28337},[],1,{1},[18319],"{13690, 4462}",[18151],Amidation,False,[2188]
-53169,Cc1nc2ccccc2nc1C1(C)CCOC1,RLIYILQTMXITGN-UHFFFAOYSA-N,1,2,"{65256, 65257}",[],1,{1},[41451],"{52795, 52916}",[40875],Sp3-sp2_Suzuki_coupling,False,[1473]
-89145,O=C(COCCCBr)Nc1cccc(F)c1[N+](=O)[O-],PXIQYHIFEOKDLP-UHFFFAOYSA-N,1,1,{114961},[],1,{1},[75782],"{11763, 86686}",[75175],Ester_amidation,False,[2924]
-6090,CCOc1ncccc1C(=O)N1CCCCC1c1ccc(O)nc1,FHBQCFGVZIABGO-UHFFFAOYSA-N,1,2,"{8222, 8223}",[],1,{1},[1455],"{6089, 4427}",[1445],Amidation,False,[653]
-37350,COc1ccc(NC(=O)C(C)OCc2ccccc2)c(N=[N+]=[N-])c1,ODFOLLXLPAODBO-UHFFFAOYSA-N,1,3,"{42536, 42537, 87260}",[],1,{1},[27101],"{35584, 36435}",[26808],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624]
-78632,Cn1c(C2CC2)nc2c(Br)cccc21,LHYZZIVEMKXAAX-UHFFFAOYSA-N,1,1,{101610},[],1,{1},[64988],"{78581, 78631}",[64306],Sp3-sp2_Suzuki_coupling,False,[1128]
-87122,C#CCOCC(=O)Nc1ccc(Br)c(F)c1N,JNHODBGOYNNYIN-UHFFFAOYSA-N,1,1,{112501},[],1,{1},[73693],"{10336, 86614}",[73011],Ester_amidation,False,[2924]
-6608,COCCOc1ncccc1C(=O)N1CCCC1c1ccc(OC)nc1,WFNSHSCUFNWUKV-UHFFFAOYSA-N,1,1,{8799},[],1,{1},[1942],"{6084, 5836}",[1932],Amidation,False,[653]
-72861,COc1ccc(N)cc1C(=O)Nc1ccc(O)cc1Cl,YHKDWKTYJVUXJA-UHFFFAOYSA-N,1,1,{93876},[],1,{1},[59277],"{72795, 9132}",[58596],Ester_amidation,False,[3627]
-73794,COc1ccc(N)cc1C(=O)Nc1cc(I)c(OC)c(I)c1,RSECLUYFDJDZLL-UHFFFAOYSA-N,1,1,{94770},[],1,{1},[60245],"{17258, 72795}",[59564],Ester_amidation,False,[3627]
-6278,C#CCOc1ncccc1C(=O)N1CCCC1c1ccc(OC)nc1,LIQLVJPJJWUNTN-UHFFFAOYSA-N,1,2,"{8429, 8430}",[],1,{1},[1631],"{6084, 5797}",[1621],Amidation,False,[653]
-26794,CC1C(=O)NCCN1C(=O)c1cn(C)c2cc(Cl)ccc12,ZMDCDCNRNFPSKS-UHFFFAOYSA-N,1,2,"{29174, 29175}",[],1,{1},[18959],"{14043, 4462}",[18791],Amidation,False,[2188]
-63063,CC1NCCN(C(=O)c2cccc(F)c2)C1C,DSKLWYLUOYOGIS-UHFFFAOYSA-N,1,4,"{78092, 78093, 78094, 78095}",[],1,{1},[50324],"{63062, 4534}",[49649],Amidation,False,[1316]
-31658,CC(C)Cc1nc(Cn2ccc(Br)cc2=O)no1,COGGJXJYVKRWBT-UHFFFAOYSA-N,1,1,{35388},[],1,{1},[22923],"{31657, 84}",[22630],Nucleophilic_substitution_with_amine,False,[1917]
-63089,CC1C(=O)NCCN1C(=O)c1cccc(F)c1,MEOXWDYTCBKLHA-UHFFFAOYSA-N,1,2,"{78121, 78122}",[],1,{1},[50336],"{14043, 4534}",[49661],Amidation,False,[1316]
-53820,CC1(c2cnc3ccc(C(F)(F)F)cc3n2)CCOC1,UKNCSKXDMGDGGR-UHFFFAOYSA-N,1,2,"{66274, 66275}",[],1,{1},[42132],"{53202, 52916}",[41560],Sp3-sp2_Suzuki_coupling,False,[1473]
-71736,COc1ccc(NC(=O)c2cc(Cl)c3c(c2)[nH]c(=O)n3C)cc1Cl,XQVWEFPZQVNVAK-UHFFFAOYSA-N,1,1,{92657},[],1,{1},[58157],"{10922, 68670}",[57476],Amidation,False,[2919]
-78625,Cn1c(O)nc2c(C3CC3)cccc21,SAONFCRNJNWZTP-UHFFFAOYSA-N,1,1,{101604},[],1,{1},[64975],"{78581, 78623}",[64299],Sp3-sp2_Suzuki_coupling,False,[1128]
-16778,COc1ccc(Nc2c(C)cccc2O)cc1F,OFNWGMGELABUDG-UHFFFAOYSA-N,1,1,{17969},[],1,{1},[8974],"{4451, 10862}",[8904],Buchwald-Hartwig_amination,False,[3625]
-31654,CCCCc1nc(Cn2ccc(Br)cc2=O)no1,RFILRJYCSBEXQS-UHFFFAOYSA-N,1,1,{35385},[],1,{1},[22920],"{84, 31653}",[22627],Nucleophilic_substitution_with_amine,False,[1917]
-73792,COc1ccc(N)cc1C(=O)Nc1ccc(O)c(C#N)c1F,VQXPJAIIEBZGRT-UHFFFAOYSA-N,1,1,{94768},[],1,{1},[60243],"{4497, 72795}",[59562],Ester_amidation,False,[3627]
-78624,CC(C)c1cccc2c1nc(O)n2C,LBCFCMGMDDFRLQ-UHFFFAOYSA-N,1,1,{101603},[],1,{1},[64974],"{4558, 78623}",[64297],Sp3-sp2_Suzuki_coupling,False,[1128]
-73789,COc1ccc(N)cc1C(=O)Nc1ccc(O)cc1[N+](=O)[O-],OQZRBJWDOCUJPT-UHFFFAOYSA-N,1,1,{94765},[],1,{1},[60240],"{72795, 17246}",[59559],Ester_amidation,False,[3627]
-87276,C#CCOCC(=O)Nc1cc(F)c(Cl)cc1N,XVBMZRODRGCHRP-UHFFFAOYSA-N,1,1,{112656},[],1,{1},[73847],"{10293, 86614}",[73164],Ester_amidation,False,[2924]
-78314,COc1cccc(C(F)(F)C(=O)Nc2cnc(Br)cc2C(=O)O)n1,DEVDABKSPBNPNJ-UHFFFAOYSA-N,1,1,{101218},[],1,{1},[64686],"{37888, 77062}",[64005],Amidation,False,[1012]
-27198,CC1C(=O)NCCN1C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12,KKVUAUMAKLBZSA-UHFFFAOYSA-N,1,2,"{29728, 29729}",[],1,{1},[19363],"{25833, 14043}",[19195],Amidation,False,[2188]
-36367,COCC(=O)NOCC(=O)Nc1cc(Br)c(OC)cc1N,QFWCCAFJHGWTNF-UHFFFAOYSA-N,1,1,{40624},[],1,{1},[26144],"{35857, 35532}",[25852],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624]
-12156,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(I)c(O)c(I)c2)c(Cl)c1,ASAAPRSTPXPBNA-UHFFFAOYSA-N,1,1,{13801},[],1,{1},[5938],"{4579, 10228}",[5868],Amidation,False,[2944]
-71664,COc1ccc(NC(=O)c2cc(Cl)c3c(c2)[nH]c(=O)n3C)cc1F,XQBWNYIULVAPAO-UHFFFAOYSA-N,1,1,{92573},[],1,{1},[58085],"{68670, 10862}",[57404],Amidation,False,[2919]
-53815,CC1(c2cnc3cc(C(F)(F)F)ccc3n2)CCOC1,XPJCJAAYZAWODY-UHFFFAOYSA-N,1,2,"{66267, 66268}",[],1,{1},[42127],"{53200, 52916}",[41555],Sp3-sp2_Suzuki_coupling,False,[1473]
-71830,Cn1c(=O)[nH]c2cc(C(=O)Nc3ccc([N+](=O)[O-])cc3)cc(Cl)c21,KFVWAEIMISKGBT-UHFFFAOYSA-N,1,1,{92767},[],1,{1},[58251],"{68670, 10782}",[57570],Amidation,False,[2919]
-74593,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1ccc(O)cc1Cl,GKFPEJOKNPVGKC-UHFFFAOYSA-N,1,1,{95555},[],1,{1},[61029],"{74586, 9132}",[60374],Ester_amidation,False,[3627]
-75609,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1cc(F)c(O)cc1Cl,KEMBBUSRGXJKDQ-UHFFFAOYSA-N,1,1,{96554},[],1,{1},[62052],"{10848, 74586}",[61371],Ester_amidation,False,[3627]
-54163,FC(F)(F)c1ccc2ncc(C3(C4CC4)CCOCC3)nc2c1,OPLUMYKLNGIJGH-UHFFFAOYSA-N,1,1,{66728},[],1,{1},[42481],"{53202, 53478}",[41907],Sp3-sp2_Suzuki_coupling,False,[1473]
-11604,Cc1cc(Cl)c(N)cc1NC(=O)c1c(Cl)cc(C(N)=O)cc1Cl,BPQDCDFMWBLKPY-UHFFFAOYSA-N,1,1,{13422},[],1,{1},[5565],"{11194, 4579}",[5495],Amidation,False,[2944]
-69238,Cc1ccccc1NC(=O)c1cc(Cl)c2c(c1)[nH]c(=O)n2C,KZFJISGZOSRQIS-UHFFFAOYSA-N,1,1,{89117},[],1,{1},[55659],"{8601, 68670}",[54978],Amidation,False,[2919]
-26522,Cn1cc(C(=O)NCc2cccs2)c2ccc(Cl)cc21,XHOFNXFGDGKUJA-UHFFFAOYSA-N,1,1,{28815},[],1,{1},[18687],"{4440, 4462}",[18519],Amidation,False,[2188]
-84125,COc1cc(C=O)c(Nc2cc(F)ccc2O)c(OC)c1,DWBJVFHAFXRLAF-UHFFFAOYSA-N,1,1,{108523},[],1,{1},[70646],"{8945, 18254}",[69965],Buchwald-Hartwig_amination,False,[2925]
-76514,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1ccc(O)c(C#N)c1F,PTYWZFJTOTWABR-UHFFFAOYSA-N,1,1,{97458},[],1,{1},[62949],"{4497, 74586}",[62268],Ester_amidation,False,[3627]
-41086,COc1ccc(Nc2ccncc2O)cc1F,GMYQXVROVXYEQF-UHFFFAOYSA-N,1,1,{47112},[],1,{1},[30345],"{4483, 10862}",[30052],Buchwald-Hartwig_amination,False,[3628]
-12660,NC(=O)c1cc(Cl)c(C(=O)Nc2cccc(F)c2[N+](=O)[O-])c(Cl)c1,ALADTVBLYHSRSI-UHFFFAOYSA-N,1,1,{14219},[],1,{1},[6352],"{4579, 11763}",[6282],Amidation,False,[2944]
-31695,Cc1c(Br)ccn(Cc2noc(CC(C)C)n2)c1=O,NHHPFWDGHSIVLB-UHFFFAOYSA-N,1,1,{35424},[],1,{1},[22952],"{31625, 31657}",[22659],Nucleophilic_substitution_with_amine,False,[1917]
-78654,Cn1c(C2COC2)nc2c(Br)cccc21,DJRXQXKRFFYMDY-UHFFFAOYSA-N,1,1,{101627},[],1,{1},[65013],"{78631, 78607}",[64332],Sp3-sp2_Suzuki_coupling,False,[1128]
-87775,Nc1cc(Cl)c(F)cc1NC(=O)COCCCBr,GIKRGPZFQIFVCW-UHFFFAOYSA-N,1,1,{113254},[],1,{1},[74350],"{10293, 86686}",[73669],Ester_amidation,False,[2924]
-31626,CCc1nc(Cn2ccc(Br)c(C)c2=O)no1,SHZLHXGONWQKGR-UHFFFAOYSA-N,1,1,{35363},[],1,{1},[22898],"{4472, 31625}",[22605],Nucleophilic_substitution_with_amine,False,[1917]
-11265,NC(=O)c1cc(Cl)c(C(=O)Nc2c(N)ccc(Br)c2F)c(Cl)c1,YOSCSIZXLRCNOC-UHFFFAOYSA-N,1,1,{13084},[],1,{1},[5229],"{10336, 4579}",[5159],Amidation,False,[2944]
-52915,OCCC1(c2cnc3ccccc3n2)CC1,UUEBHTHWLMOVGK-UHFFFAOYSA-N,1,1,{64953},[],1,{1},[41198],"{4505, 52914}",[40624],Sp3-sp2_Suzuki_coupling,False,[1473]
-49737,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CCNC(=O)C1C,KVCGPDHHRCKIJN-UHFFFAOYSA-N,1,2,"{55884, 55885}",[],1,{2},"[37286, 38558]","{4497, 14043, 15671}",[38035],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-78580,CC(C)c1cccc2c1ncn2C,KAVXAOQZINTUMZ-UHFFFAOYSA-N,1,1,{101568},[],1,{1},[64940],"{78576, 4558}",[64259],Sp3-sp2_Suzuki_coupling,False,[1128]
-78634,CC(C)c1nc2c(Br)cccc2n1C,IXJSJFAULWMXMP-UHFFFAOYSA-N,1,1,{101612},[],1,{1},[64990],"{4558, 78631}",[64310],Sp3-sp2_Suzuki_coupling,False,[1128]
-53232,FC(F)(F)c1ccc2ncc(C34CC3C4)nc2c1,DULFQHLZJMRIIY-UHFFFAOYSA-N,1,1,{65370},[],1,{1},[41514],"{53202, 52789}",[40940],Sp3-sp2_Suzuki_coupling,False,[1473]
-87511,C#CCOCC(=O)Nc1cccc(F)c1[N+](=O)[O-],AHRXHFQLYSZECJ-UHFFFAOYSA-N,1,1,{112977},[],1,{1},[74087],"{11763, 86614}",[73406],Ester_amidation,False,[2924]
-88382,CC(C)(C)OC(=O)C(=O)Nc1cc(F)c(Cl)cc1N,WAIUTZGCGQYOEQ-UHFFFAOYSA-N,1,1,{113981},[],1,{1},[75858],"{86549, 10293}",[74348],Ester_amidation,False,[2924]
-88380,CC(C)(C)OC(=O)C(=O)Nc1cc(Cl)c(F)cc1N,ZKDDGRUWMJBWGC-UHFFFAOYSA-N,1,1,{113979},[],1,{1},[75865],"{86549, 10293}",[74342],Ester_amidation,False,[2924]
-88344,CC(C)(C)OC(=O)C(=O)Nc1c(N)ccc(Br)c1F,ONEYGPZKERJOGW-UHFFFAOYSA-N,1,1,{113942},[],1,{1},[75911],"{10336, 86549}",[74254],Ester_amidation,False,[2924]
-88343,CC(C)(C)OC(=O)C(=O)Nc1ccc(Br)c(F)c1N,NXUBANVVLANFGT-UHFFFAOYSA-N,1,1,{113941},[],1,{1},[75912],"{10336, 86549}",[74252],Ester_amidation,False,[2924]
-87776,Nc1cc(F)c(Cl)cc1NC(=O)COCCCBr,QKZBMWOFIJZGOW-UHFFFAOYSA-N,1,1,{113255},[],1,{1},[74351],"{10293, 86686}",[73670],Ester_amidation,False,[2924]
-87692,Nc1ccc(Br)c(F)c1NC(=O)COCCCBr,RVEAUIXSQBCHGY-UHFFFAOYSA-N,1,1,{113171},[],1,{1},[74267],"{10336, 86686}",[73586],Ester_amidation,False,[2924]
-87129,C#CCOCC(=O)Nc1c(N)ccc(Br)c1F,QAURHVJJODWUKJ-UHFFFAOYSA-N,1,1,{112508},[],1,{1},[73700],"{10336, 86614}",[73018],Ester_amidation,False,[2924]
-86832,CCOC(=O)C(=O)Nc1cc(F)c(Cl)cc1N,QLLSSOCVURYRNT-UHFFFAOYSA-N,1,1,{112135},[],1,{1},[73582],"{86549, 10293}",[72714],Ester_amidation,False,[2924]
-86831,CCOC(=O)C(=O)Nc1cc(Cl)c(F)cc1N,ORDPDCCBNMGJLC-UHFFFAOYSA-N,1,1,{112134},[],1,{1},[73581],"{86549, 10293}",[72712],Ester_amidation,False,[2924]
-86813,CCOC(=O)C(=O)Nc1ccc(Br)c(F)c1N,FIFFQFFIUALHFS-UHFFFAOYSA-N,1,1,{112114},[],1,{1},[73646],"{10336, 86549}",[72684],Ester_amidation,False,[2924]
-86812,CCOC(=O)C(=O)Nc1c(N)ccc(Br)c1F,QRCFCJMKYRBBIP-UHFFFAOYSA-N,1,1,{112113},[],1,{1},[73645],"{10336, 86549}",[72682],Ester_amidation,False,[2924]
-79874,Cn1c(O)nc2c(C3(CCO)CC3)cccc21,JHSGYCSLMCXIBE-UHFFFAOYSA-N,1,1,{103230},[],1,{1},[66327],"{52914, 78623}",[65648],Sp3-sp2_Suzuki_coupling,False,[1128]
-79307,Cn1cnc2c(C3(CCO)CC3)cccc21,XELUDKVLUMESDU-UHFFFAOYSA-N,1,1,{102425},[],1,{1},[65714],"{78576, 52914}",[65039],Sp3-sp2_Suzuki_coupling,False,[1128]
-79305,Cn1cnc2c(C3(C)CCOC3)cccc21,PVFWHGYGVRSMOL-UHFFFAOYSA-N,1,2,"{102422, 102423}",[],1,{1},[65712],"{78576, 52916}",[65037],Sp3-sp2_Suzuki_coupling,False,[1128]
-78763,Cn1c(O)nc2c(C(C)(C)C)cccc21,OECAZDKJZSGKQB-UHFFFAOYSA-N,1,1,{101747},[],1,{1},[65128],"{4507, 78623}",[64459],Sp3-sp2_Suzuki_coupling,False,[1128]
-78762,Cn1c(O)nc2c(C3COC3)cccc21,KNQWAKGBDZQWQT-UHFFFAOYSA-N,1,1,{101746},[],1,{1},[65127],"{78623, 78607}",[64458],Sp3-sp2_Suzuki_coupling,False,[1128]
-78743,Cn1c(O)nc2c(C34CC3C4)cccc21,LBYLPXYZZWVZCS-UHFFFAOYSA-N,1,1,{101724},[],1,{1},[65108],"{52789, 78623}",[64436],Sp3-sp2_Suzuki_coupling,False,[1128]
-78667,Cn1c(C23CC2C3)nc2c(Br)cccc21,WCTGHOGOHKPSRC-UHFFFAOYSA-N,1,1,{101641},[],1,{1},[65023],"{52789, 78631}",[64346],Sp3-sp2_Suzuki_coupling,False,[1128]
-78666,Cn1c(Cl)nc2c(C34CC3C4)cccc21,YRIQZUUWTZAASN-UHFFFAOYSA-N,1,1,{101640},[],1,{1},[65022],"{52789, 78631}",[64345],Sp3-sp2_Suzuki_coupling,False,[1128]
-78660,Cn1c(Cl)nc2c(C(C)(C)C)cccc21,XDAUNVVQVWBJRY-UHFFFAOYSA-N,1,1,{101632},[],1,{1},[65016],"{4507, 78631}",[64337],Sp3-sp2_Suzuki_coupling,False,[1128]
-78655,Cn1c(Cl)nc2c(C3COC3)cccc21,GNYBCXPIJWQELK-UHFFFAOYSA-N,1,1,{101628},[],1,{1},[65014],"{78631, 78607}",[64333],Sp3-sp2_Suzuki_coupling,False,[1128]
-78628,Cn1cnc2c(C(C)(C)C)cccc21,JQYCGBNJDYUOQB-UHFFFAOYSA-N,1,1,{101606},[],1,{1},[64980],"{78576, 4507}",[64302],Sp3-sp2_Suzuki_coupling,False,[1128]
-78604,Cn1cnc2c(C34CC3C4)cccc21,BTWMCXHJSMIREL-UHFFFAOYSA-N,1,1,{101585},[],1,{1},[64954],"{78576, 52789}",[64281],Sp3-sp2_Suzuki_coupling,False,[1128]
-78578,Cn1cnc2c(C3CC3)cccc21,QDQFTTDVKMGWRV-UHFFFAOYSA-N,1,1,{101567},[],1,{1},[64939],"{78576, 78581}",[64257],Sp3-sp2_Suzuki_coupling,False,[1128]
-78291,COc1cccc(C(F)(F)C(=O)Nc2c(Cl)nc(C)c(C)c2C)n1,OYGNQFZGDQASHO-UHFFFAOYSA-N,1,1,{101194},[],1,{1},[64663],"{37896, 77062}",[63982],Amidation,False,[1012]
-78136,Cc1nc(Cl)c(NC(=O)Cc2cccc(OC(F)F)n2)c(C)c1C,SPXKAJYKGBSDIT-UHFFFAOYSA-N,1,1,{100959},[],1,{1},[64508],"{37896, 77132}",[63827],Amidation,False,[1012]
-77786,Cc1ccnc(CO)c1NC(=O)Cc1cccc(OC(F)F)n1,UUOOUAIRJXELKH-UHFFFAOYSA-N,1,1,{100327},[],1,{1},[64159],"{37616, 77132}",[63478],Amidation,False,[1012]
-72766,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(F)c(F)cc3C(=O)O)cc(Cl)c21,JBNUHECBSRONFO-UHFFFAOYSA-N,1,1,{93785},[],1,{1},[59186],"{12370, 68670}",[58505],Amidation,False,[2919]
-72446,Cn1c(=O)[nH]c2cc(C(=O)Nc3cccc(F)c3[N+](=O)[O-])cc(Cl)c21,FPSWYBBNUSNBNX-UHFFFAOYSA-N,1,1,{93461},[],1,{1},[58866],"{11763, 68670}",[58185],Amidation,False,[2919]
-71741,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(F)c(O)cc3Cl)cc(Cl)c21,ISGLQXMQHBXJDN-UHFFFAOYSA-N,1,1,{92663},[],1,{1},[58162],"{10848, 68670}",[57481],Amidation,False,[2919]
-71637,Cn1c(=O)[nH]c2cc(C(=O)Nc3c(N)ccc(Br)c3F)cc(Cl)c21,KBXPCBNPUUMLOX-UHFFFAOYSA-N,1,1,{92546},[],1,{1},[58058],"{10336, 68670}",[57377],Amidation,False,[2919]
-71614,Cn1c(=O)[nH]c2cc(C(=O)Nc3ccc(Br)c(F)c3N)cc(Cl)c21,QHMYTYAXEQZYPM-UHFFFAOYSA-N,1,1,{92523},[],1,{1},[58035],"{10336, 68670}",[57354],Amidation,False,[2919]
-71573,Cc1cc(NC(=O)c2cc(Cl)c3c(c2)[nH]c(=O)n3C)c(Cl)cc1Cl,LPXOGBNOGQWUNK-UHFFFAOYSA-N,1,1,{92482},[],1,{1},[57994],"{10563, 68670}",[57313],Amidation,False,[2919]
-71498,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(Cl)c(F)cc3N)cc(Cl)c21,RXQNQAGELFYFJX-UHFFFAOYSA-N,1,1,{92407},[],1,{1},[57919],"{10293, 68670}",[57238],Amidation,False,[2919]
-71497,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(F)c(Cl)cc3N)cc(Cl)c21,XRUPMBUAEHNJPR-UHFFFAOYSA-N,1,1,{92406},[],1,{1},[57918],"{10293, 68670}",[57237],Amidation,False,[2919]
-71377,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(I)c(O)c(I)c3)cc(Cl)c21,ZMSYOYSKOOLDEF-UHFFFAOYSA-N,1,1,{92286},[],1,{1},[57798],"{10228, 68670}",[57117],Amidation,False,[2919]
-71199,Cn1c(=O)[nH]c2cc(C(=O)Nc3ccc(O)cc3Cl)cc(Cl)c21,NWDVZIRNQBDNMZ-UHFFFAOYSA-N,1,1,{92105},[],1,{1},[57620],"{9132, 68670}",[56939],Amidation,False,[2919]
-71145,Cn1c(=O)[nH]c2cc(C(=O)Nc3cccc(Br)c3S)cc(Cl)c21,DNHZTOQFYBEFOH-UHFFFAOYSA-N,1,1,{92051},[],1,{1},[57566],"{9264, 68670}",[56885],Amidation,False,[2919]
-71135,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(O)ccc3Br)cc(Cl)c21,WBYDKIQWNIYSNG-UHFFFAOYSA-N,1,1,{92041},[],1,{1},[57556],"{4476, 68670}",[56875],Amidation,False,[2919]
-64511,CC1NCCN(C(=O)c2cc(F)c(F)cc2N)C1C,XYWUIZPDIWGKRQ-UHFFFAOYSA-N,1,4,"{80912, 80913, 80910, 80911}",[],1,{1},[51600],"{12370, 63062}",[50925],Amidation,False,[1316]
-64208,COc1ccc(F)cc1C(=O)N1CCNC(=O)C1C,JJENYPLIWXSJTC-UHFFFAOYSA-N,1,2,"{80264, 80263}",[],1,{1},[51297],"{14043, 63203}",[50622],Amidation,False,[1316]
-63415,CC1NCCN(C(=O)c2cc(F)cc(Cl)c2)C1C,OMKRQRUXMPDVKF-UHFFFAOYSA-N,1,4,"{78689, 78690, 78691, 78692}",[],1,{1},[50589],"{62995, 63062}",[49914],Amidation,False,[1316]
-63411,CC1C(=O)NCCN1C(=O)c1cc(F)cc(Cl)c1,ZJPSAIHCPLIDFR-UHFFFAOYSA-N,1,2,"{78680, 78681}",[],1,{1},[50585],"{62995, 14043}",[49910],Amidation,False,[1316]
-63238,COc1ccc(F)cc1C(=O)N1CCNCC1C,JWBMRGQAOZOTNU-UHFFFAOYSA-N,1,2,"{78358, 78359}",[],1,{1},[50440],"{63203, 4535}",[49765],Amidation,False,[1316]
-63177,CC1CNCCN1C(=O)c1cc(F)c(F)cc1N,LHAFZVNXZNWVDS-UHFFFAOYSA-N,1,2,"{78264, 78265}",[],1,{1},[50399],"{12370, 4535}",[49724],Amidation,False,[1316]
-54183,FC(F)(F)c1ccc2nc(C3(C4CC4)CCOCC3)cnc2c1,ZEANSJNHKJYEAC-UHFFFAOYSA-N,1,1,{66756},[],1,{1},[42503],"{53200, 53478}",[41927],Sp3-sp2_Suzuki_coupling,False,[1473]
-53816,OCCC1(c2cnc3cc(C(F)(F)F)ccc3n2)CC1,XRRICGSYEBZILY-UHFFFAOYSA-N,1,1,{66269},[],1,{1},[42128],"{53200, 52914}",[41556],Sp3-sp2_Suzuki_coupling,False,[1473]
-53479,c1ccc2nc(C3(C4CC4)CCOCC3)cnc2c1,FMROQCOMGPBJGO-UHFFFAOYSA-N,1,1,{65811},[],1,{1},[41772],"{4505, 53478}",[41198],Sp3-sp2_Suzuki_coupling,False,[1473]
-53230,CC(C)(C)c1cnc2cc(C(F)(F)F)ccc2n1,VAXCHSXAGHERHH-UHFFFAOYSA-N,1,1,{65368},[],1,{1},[41511],"{53200, 4507}",[40936],Sp3-sp2_Suzuki_coupling,False,[1473]
-53203,CC(C)(C)c1cnc2ccc(C(F)(F)F)cc2n1,ZITZMIQCCMKTFK-UHFFFAOYSA-N,1,1,{65323},[],1,{1},[41483],"{53202, 4507}",[40908],Sp3-sp2_Suzuki_coupling,False,[1473]
-53168,Cc1nc2ccccc2nc1C1(CCO)CC1,HRCACOGSAJOGSI-UHFFFAOYSA-N,1,1,{65255},[],1,{1},[41450],"{52914, 52795}",[40874],Sp3-sp2_Suzuki_coupling,False,[1473]
-52917,CC1(c2cnc3ccccc3n2)CCOC1,SKIPFALYEWOFIC-UHFFFAOYSA-N,1,2,"{64954, 64955}",[],1,{1},[41199],"{4505, 52916}",[40625],Sp3-sp2_Suzuki_coupling,False,[1473]
-49727,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CCNC(C)C1=O,WJCPBYMUAUYAHW-UHFFFAOYSA-N,1,2,"{55861, 55862}",[],1,{2},"[37286, 38549]","{4497, 14043, 15671}",[38026],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-49586,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CCC1C(=O)NC,YPQMDBBBZHRBJN-UHFFFAOYSA-N,1,2,"{55617, 55618}",[],1,{2},"[37286, 38412]","{4497, 48406, 15671}",[37889],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-49511,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N(C)C(=O)C1CCN1,RQYCELDFLIKPOG-UHFFFAOYSA-N,1,2,"{55517, 55518}",[],1,{2},"[37286, 38338]","{4497, 48406, 15671}",[37815],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-48408,COCC(=O)Nc1ccc(O)c(C#N)c1N(C)C(=O)C1CCN1,JISUOQFUEPURSC-UHFFFAOYSA-N,1,1,{53911},[],1,{2},"[54, 37280]","{4449, 4497, 48406}",[36839],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-48234,COCC(=O)Nc1ccc(O)c(C#N)c1NC(=O)CN(C)C,CPWZOEWXUNUGCV-UHFFFAOYSA-N,1,1,{53666},[],1,{2},"[54, 37129]","{48232, 4449, 4497}",[36691],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-38150,Cc1ccnc(CO)c1NC(=O)C1CCc2ccc(=O)[nH]c21,CPSNXGOJRPNXRM-UHFFFAOYSA-N,1,4,"{99616, 99617, 43532, 43533}",[],1,{1},[27687],"{37616, 37786}",[27394],Amidation,False,[1012]
-36499,CC(C)(C)OC(=O)C(=O)Nc1cc2c(cc1N)OCCO2,QBGAKTUPPLJLOM-UHFFFAOYSA-N,1,2,"{85814, 40814}",[],1,{1},[26270],"{35586, 35733}",[25977],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624]
-29774,CCc1c(N)c(=O)[nH]c(=O)n1CC1CCS(=O)(=O)C1,VJAMXYGHDOELAK-UHFFFAOYSA-N,1,2,"{32116, 32117}",[],1,{1},[21323],"{4466, 29773}",[21056],Nucleophilic_substitution_with_amine,False,[95]
-27123,Cn1c(Cl)c(C(=O)NCc2cccs2)c2cc(Cl)c(Cl)cc21,BORNGNQTRSYLJI-UHFFFAOYSA-N,1,1,{29621},[],1,{1},[19288],"{4440, 25833}",[19120],Amidation,False,[2188]
-26892,CN(CCCO)C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12,ZDHVWUGJSKRPOS-UHFFFAOYSA-N,1,1,{29308},[],1,{1},[19057],"{25833, 13750}",[18889],Amidation,False,[2188]
-26786,CCN(C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12)C(C)C,YWBTUYVJZBVMFW-UHFFFAOYSA-N,1,1,{29166},[],1,{1},[18951],"{25833, 13930}",[18783],Amidation,False,[2188]
-26245,CN(NC(=O)c1cn(C)c2cc(Cl)ccc12)C(N)=O,DTOORHIHVYJXLG-UHFFFAOYSA-N,1,1,{28457},[],1,{1},[18410],"{13764, 4462}",[18242],Amidation,False,[2188]
-15821,COC(CC1CCCC1)C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,DAEFBPXAGHSVFP-UHFFFAOYSA-N,1,1,{16813},[],1,{1},[8198],"{15706, 14503}",[8128],Amidation,False,[2916]
-15765,CCC(CC)C(OC)C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,JEYFOTYCFZKWFC-UHFFFAOYSA-N,1,1,{16746},[],1,{1},[8151],"{15059, 14503}",[8081],Amidation,False,[2916]
-14615,COC(C(=O)Nc1cccc(C(=O)NCc2cccs2)c1)C(C)C,ZKXXDKWSOUYOAS-UHFFFAOYSA-N,1,2,"{15642, 15643}",[],1,{1},[7461],"{4450, 14614}",[7391],Amidation,False,[2916]
-14524,O=C(COC(F)F)Nc1cccc(C(=O)NCc2cccs2)c1,DRIGAIZENUBOKU-UHFFFAOYSA-N,1,1,{15564},[],1,{1},[7412],"{4450, 14523}",[7342],Amidation,False,[2916]
-14518,O=C(Nc1cccc(C(=O)NCc2cccs2)c1)C1=CCCO1,GTUWRHPMLOKNGV-UHFFFAOYSA-N,1,1,{15561},[],1,{1},[7409],"{4450, 14517}",[7339],Amidation,False,[2916]
-14504,COCC(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,CQPQOENVXXFLSV-UHFFFAOYSA-N,1,1,{15550},[],1,{1},[7402],"{4449, 14503}",[7332],Amidation,False,[2916]
-12827,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(F)c(F)cc2C(=O)O)c(Cl)c1,UIDDCTJNKRHACT-UHFFFAOYSA-N,1,1,{14378},[],1,{1},[6508],"{12370, 4579}",[6438],Amidation,False,[2944]
-12658,NC(=O)c1cc(Cl)c(C(=O)Nc2ccc(F)c([N+](=O)[O-])c2)c(Cl)c1,OTKUJOZDYICEQK-UHFFFAOYSA-N,1,1,{14217},[],1,{1},[6350],"{11753, 4579}",[6280],Amidation,False,[2944]
-12313,NC(=O)c1cc(Cl)c(C(=O)Nc2c(F)cc(Cl)cc2F)c(Cl)c1,GJUVLJWJLCGUNX-UHFFFAOYSA-N,1,1,{13959},[],1,{1},[6094],"{4579, 10741}",[6024],Amidation,False,[2944]
-11892,COc1ccc(NC(=O)c2c(Cl)cc(C(N)=O)cc2Cl)cc1F,VAYYGCWMWPELND-UHFFFAOYSA-N,1,1,{13644},[],1,{1},[5785],"{4579, 10862}",[5715],Amidation,False,[2944]
-11885,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(F)c(O)cc2Cl)c(Cl)c1,ZAQGDJFYUNWQJW-UHFFFAOYSA-N,1,1,{13637},[],1,{1},[5778],"{10848, 4579}",[5708],Amidation,False,[2944]
-11849,COc1ccc(NC(=O)c2c(Cl)cc(C(N)=O)cc2Cl)cc1Cl,JNXPVPDOGTWTGV-UHFFFAOYSA-N,1,1,{13615},[],1,{1},[5756],"{10922, 4579}",[5686],Amidation,False,[2944]
-11602,Cc1cc(Cl)c(NC(=O)c2c(Cl)cc(C(N)=O)cc2Cl)cc1N,DJLJMRWSFFVBRQ-UHFFFAOYSA-N,1,1,{13420},[],1,{1},[5563],"{11194, 4579}",[5493],Amidation,False,[2944]
-11421,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(Cl)c(F)cc2N)c(Cl)c1,DXSNNUYZWIBHTR-UHFFFAOYSA-N,1,1,{13241},[],1,{1},[5384],"{4579, 10293}",[5314],Amidation,False,[2944]
-11406,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(F)c(Cl)cc2N)c(Cl)c1,QIUPEYZWRZUALQ-UHFFFAOYSA-N,1,1,{13226},[],1,{1},[5369],"{4579, 10293}",[5299],Amidation,False,[2944]
-11266,NC(=O)c1cc(Cl)c(C(=O)Nc2ccc(Br)c(F)c2N)c(Cl)c1,DXZHSDOXEDZGGI-UHFFFAOYSA-N,1,1,{13085},[],1,{1},[5230],"{10336, 4579}",[5160],Amidation,False,[2944]
-10036,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(O)ccc2Br)c(Cl)c1,XNMWMZVGWGQIEJ-UHFFFAOYSA-N,1,1,{12368},[],1,{1},[4517],"{4579, 4476}",[4447],Amidation,False,[2944]
-9465,NC(=O)c1cc(Cl)c(C(=O)Nc2cccc(F)c2Cl)c(Cl)c1,OYUPIDAWSKPWNF-UHFFFAOYSA-N,1,1,{11911},[],1,{1},[4061],"{4579, 8947}",[3991],Amidation,False,[2944]
-49994,CCOC(CC)C(=O)Nc1ccc(O)c(C#N)c1N1C(=N)NCC1=O,SUOGJPMIZNUKGU-UHFFFAOYSA-N,1,2,"{56293, 56294}",[],1,{2},"[37488, 38809]","{4497, 14610, 48394}",[38286],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-87754,Cc1ccc(N)c(NC(=O)COC(C)(C)C)c1Cl,NDNAMPVCZPDUIL-UHFFFAOYSA-N,1,1,{113233},[],1,{1},[74329],"{86738, 11182}",[73648],Ester_amidation,False,[2924]
-63523,Cc1ccc(F)cc1C(=O)N1CCNC(C)C1C,VFFTVTFJDHBDNP-UHFFFAOYSA-N,1,4,"{78881, 78882, 78883, 78884}",[],1,{1},[50672],"{63062, 63015}",[49997],Amidation,False,[1316]
-32007,CC1(c2nc(Cn3ccc(Br)c(N)c3=O)no2)CCCC1,NJQNUQXOTLEDBF-UHFFFAOYSA-N,1,1,{35751},[],1,{1},[23236],"{31954, 31629}",[22943],Nucleophilic_substitution_with_amine,False,[1917]
-27081,CC(C)CN(CC(=O)O)C(=O)c1cn(C)c2cc(Cl)ccc12,ZFINTGCGLFIPNR-UHFFFAOYSA-N,1,1,{29567},[],1,{1},[19246],"{14132, 4462}",[19078],Amidation,False,[2188]
-28801,N#Cc1cncn(CC2CCS(=O)(=O)C2)c1=O,XMELLLKDAXIHIO-UHFFFAOYSA-N,1,2,"{31162, 31163}",[],1,{1},[20793],"{28800, 4466}",[20526],Nucleophilic_substitution_with_amine,False,[95]
-82310,COc1cc(Br)cc(C)c1Nc1cccc(O)c1Cl,IGKIIUIHUOMEMT-UHFFFAOYSA-N,1,1,{106528},[],1,{1},[68767],"{9138, 16731}",[68138],Buchwald-Hartwig_amination,False,[2925]
-88009,C#CCCOCC(=O)Nc1c(N)ccc(Br)c1F,VOGUVQIQLOZHAA-UHFFFAOYSA-N,1,1,{113531},[],1,{1},[74585],"{10336, 86695}",[73902],Ester_amidation,False,[2924]
-32028,Cc1c(Br)ccn(Cc2noc(C3(C)CCCC3)n2)c1=O,MUWFHYOONNLIAK-UHFFFAOYSA-N,1,1,{35773},[],1,{1},[23256],"{31625, 31954}",[22963],Nucleophilic_substitution_with_amine,False,[1917]
-89133,CC(C)(C)OCC(=O)Nc1cccc(F)c1[N+](=O)[O-],SAJHUPLXPLTGGW-UHFFFAOYSA-N,1,1,{114949},[],1,{1},[75770],"{86738, 11763}",[75163],Ester_amidation,False,[2924]
-82311,COc1cc(Nc2cccc(O)c2Cl)cc(C)c1I,TUYGGRBJJYISSC-UHFFFAOYSA-N,1,1,{106529},[],1,{1},[68768],"{9138, 16731}",[68139],Buchwald-Hartwig_amination,False,[2925]
-63088,Cc1ccc(F)cc1C(=O)N1CCNCC1C,ODEOQBGLGAKHSC-UHFFFAOYSA-N,1,2,"{78120, 78119}",[],1,{1},[50335],"{63015, 4535}",[49660],Amidation,False,[1316]
-87967,C#CCCOCC(=O)Nc1cc(Cl)c(F)cc1N,HFXXYRFVSDUHQI-UHFFFAOYSA-N,1,1,{113483},[],1,{1},[74543],"{10293, 86695}",[73860],Ester_amidation,False,[2924]
-31955,CC1(c2nc(Cn3ccc(Br)cc3=O)no2)CCCC1,WJRSIOYLPCQSRN-UHFFFAOYSA-N,1,1,{35696},[],1,{1},[23185],"{31954, 84}",[22892],Nucleophilic_substitution_with_amine,False,[1917]
-31633,Nc1c(Br)ccn(Cc2noc(C3CC3)n2)c1=O,SRWLYATXIQCXQW-UHFFFAOYSA-N,1,1,{35367},[],1,{1},[22902],"{31629, 31631}",[22609],Nucleophilic_substitution_with_amine,False,[1917]
-48637,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1C(=N)NCC1=O,UEOVRICYOUGFIA-UHFFFAOYSA-N,1,1,{54180},[],1,{2},"[37286, 37506]","{4497, 48394, 15671}",[37014],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-17510,COc1cc(Nc2cc(I)c(O)c(I)c2)cc(C)c1I,FLCJJYVOSYGQLU-UHFFFAOYSA-N,1,1,{18661},[],1,{1},[10465],"{16731, 10228}",[9636],Buchwald-Hartwig_amination,False,[3625]
-31766,CCCCc1nc(Cn2ccc(Br)c(N)c2=O)no1,IGRSVZMCLIBAIM-UHFFFAOYSA-N,1,1,{35493},[],1,{1},[23015],"{31629, 31653}",[22722],Nucleophilic_substitution_with_amine,False,[1917]
-31630,CCc1nc(Cn2ccc(Br)c(N)c2=O)no1,FEWSYXLGXPZOAJ-UHFFFAOYSA-N,1,1,{35365},[],1,{1},[22900],"{4472, 31629}",[22607],Nucleophilic_substitution_with_amine,False,[1917]
-31712,CC(C)Cc1nc(Cn2ccc(Br)c(N)c2=O)no1,VCMAUEGDAYMDPQ-UHFFFAOYSA-N,1,1,{35441},[],1,{1},[22969],"{31657, 31629}",[22676],Nucleophilic_substitution_with_amine,False,[1917]
-72796,COc1ccc(N)cc1C(=O)Nc1ccc(O)cc1,OCVOCNVCDVNCJL-UHFFFAOYSA-N,1,1,{93813},[],1,{1},[59214],"{72795, 4452}",[58533],Ester_amidation,False,[3627]
-49998,CCOC(CC)C(=O)Nc1ccc(O)c(C#N)c1N1CC(=O)NC1=N,JWGSUNWTIUDXAS-UHFFFAOYSA-N,1,2,"{56299, 56300}",[],1,{2},"[37488, 38813]","{4497, 14610, 48394}",[38290],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-88011,C#CCCOCC(=O)Nc1ccc(Br)c(F)c1N,GHGVTQDOIIWDBY-UHFFFAOYSA-N,1,1,{113534},[],1,{1},[74587],"{10336, 86695}",[73904],Ester_amidation,False,[2924]
-63502,Cc1ccc(F)cc1C(=O)N1CCNC(=O)C1C,GRCVRRIZQHLAMC-UHFFFAOYSA-N,1,2,"{78846, 78847}",[],1,{1},[50656],"{14043, 63015}",[49981],Amidation,False,[1316]
-27283,CC(C)CN(CC(=O)O)C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12,HEPICOMVMFXWEE-UHFFFAOYSA-N,1,1,{29838},[],1,{1},[19448],"{25833, 14132}",[19280],Amidation,False,[2188]
-14611,CCOC(CC)C(=O)Nc1cccc(C(=O)NCc2cccs2)c1,ICBADWZPPAWLRX-UHFFFAOYSA-N,1,1,{15640},[],1,{1},[7459],"{4450, 14610}",[7389],Amidation,False,[2916]
-48638,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CC(=O)NC1=N,PDKZOKQKVPLEFI-UHFFFAOYSA-N,1,1,{54181},[],1,{2},"[37286, 37507]","{4497, 48394, 15671}",[37015],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-87722,Cc1ccc(N)c(NC(=O)COCCCBr)c1Cl,HPUSYFHMBZXPLC-UHFFFAOYSA-N,1,1,{113201},[],1,{1},[74297],"{86686, 11182}",[73616],Ester_amidation,False,[2924]
-89143,C#CCCOCC(=O)Nc1cccc(F)c1[N+](=O)[O-],UHMSCEHNRIERSB-UHFFFAOYSA-N,1,1,{114959},[],1,{1},[75780],"{11763, 86695}",[75173],Ester_amidation,False,[2924]
-86700,CCOC(=O)C(=O)Nc1c(N)ccc(C)c1Cl,UXGUTQNHSIUKHO-UHFFFAOYSA-N,1,1,{111991},[],1,{1},[73642],"{86549, 11182}",[72532],Ester_amidation,False,[2924]
-15051,CCOC(CC)C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,FSUYETMOLRPUPX-UHFFFAOYSA-N,1,1,{16026},[],1,{1},[7709],"{14610, 14503}",[7639],Amidation,False,[2916]
-86701,CCOC(=O)C(=O)Nc1ccc(C)c(Cl)c1N,SWGGQHAPDXQPTB-UHFFFAOYSA-N,1,1,{111992},[],1,{1},[73641],"{86549, 11182}",[72534],Ester_amidation,False,[2924]
-88378,Cc1ccc(N)c(NC(=O)C(=O)OC(C)(C)C)c1Cl,UICIKDYQWZSIEL-UHFFFAOYSA-N,1,1,{113977},[],1,{1},[75882],"{86549, 11182}",[74336],Ester_amidation,False,[2924]
-87966,C#CCCOCC(=O)Nc1cc(F)c(Cl)cc1N,UEQXNHLPXRFMBW-UHFFFAOYSA-N,1,1,{113482},[],1,{1},[74542],"{10293, 86695}",[73859],Ester_amidation,False,[2924]
-88003,C#CCCOCC(=O)Nc1c(N)ccc(C)c1Cl,NUCHCYLAYVKXHM-UHFFFAOYSA-N,1,1,{113525},[],1,{1},[74579],"{11182, 86695}",[73896],Ester_amidation,False,[2924]
-87604,CC(C)(C)OCC(=O)Nc1cc(Cl)c(F)cc1N,CTWNEBJEMUGKMW-UHFFFAOYSA-N,1,1,{113083},[],1,{1},[74179],"{86738, 10293}",[73498],Ester_amidation,False,[2924]
-87615,CC(C)(C)OCC(=O)Nc1ccc(Br)c(F)c1N,UPVAXRPWNHYQBB-UHFFFAOYSA-N,1,1,{113094},[],1,{1},[74190],"{10336, 86738}",[73509],Ester_amidation,False,[2924]
-86929,C#CCOCC(=O)Nc1c(N)ccc(C)c1Cl,GYQCZNDOPFWBQK-UHFFFAOYSA-N,1,1,{112239},[],1,{1},[73462],"{86614, 11182}",[72820],Ester_amidation,False,[2924]
-87616,CC(C)(C)OCC(=O)Nc1c(N)ccc(Br)c1F,QSOUUPMSYHPPNU-UHFFFAOYSA-N,1,1,{113095},[],1,{1},[74191],"{10336, 86738}",[73510],Ester_amidation,False,[2924]
-88002,C#CCCOCC(=O)Nc1ccc(C)c(Cl)c1N,UYKHAIRISJEXAU-UHFFFAOYSA-N,1,1,{113524},[],1,{1},[74578],"{11182, 86695}",[73895],Ester_amidation,False,[2924]
-87602,CC(C)(C)OCC(=O)Nc1cc(F)c(Cl)cc1N,YCFGCZQMNMGSSP-UHFFFAOYSA-N,1,1,{113081},[],1,{1},[74177],"{86738, 10293}",[73496],Ester_amidation,False,[2924]
-89921,CCCN(C(=O)c1cn[nH]c1)C(=O)c1cccc(=O)n1O,KHEHEMIZYLXTKT-UHFFFAOYSA-N,1,1,{115770},[],1,{1},[76581],"{89920, 4573}",[75904],Ester_amidation,False,[555]
-48766,C=C(OC)C(=O)Nc1ccc(O)c(C#N)c1NC(=O)C(C)(C)NC,QAELTRLPDAWWFI-UHFFFAOYSA-N,1,1,{54340},[],1,{2},"[37122, 37623]","{4497, 48275, 14501}",[37116],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-89116,CC1(C(=O)Nc2cccc3c2N=S=N3)CNCCO1,DJPPGOLWZFKAKU-UHFFFAOYSA-N,1,2,"{114918, 114919}",[],1,{1},[75753],"{10682, 87461}",[75146],Ester_amidation,False,[2924]
-64731,Cc1ccc(C(=O)N2CC(=O)NC(=O)C2C)cc1F,YCQMJAAJPFPKQZ-UHFFFAOYSA-N,1,2,"{81422, 81423}",[],1,{1},[51820],"{63040, 63704}",[51145],Amidation,False,[1316]
-26815,CCCN(CC)C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12,WRUDPEWAJIYFOJ-UHFFFAOYSA-N,1,1,{29202},[],1,{1},[18980],"{25833, 13802}",[18812],Amidation,False,[2188]
-41369,COc1cnc(Cl)cc1N(C)c1ccc(O)cc1,WCKZUCTUACEFNN-UHFFFAOYSA-N,1,1,{47388},[],1,{1},[30664],"{9186, 40927}",[30394],Buchwald-Hartwig_amination,False,[3628]
-87576,CC(C)(C)OCC(=O)Nc1cc(F)c(F)cc1N,AEVVOFWFEFEAHM-UHFFFAOYSA-N,1,1,{113044},[],1,{1},[74151],"{86738, 10557}",[73470],Ester_amidation,False,[2924]
-74603,COc1cc(C)c(C(=O)O)cc1C(=O)N(C)c1ccc(O)cc1,ZNXMDNIDLCJILC-UHFFFAOYSA-N,1,1,{95565},[],1,{1},[61039],"{9186, 74586}",[60384],Ester_amidation,False,[3627]
-63041,Cc1ccc(C(=O)N2CCNCC2C)cc1F,IUKJAQYQDJSHND-UHFFFAOYSA-N,1,2,"{78068, 78069}",[],1,{1},[50315],"{63040, 4535}",[49640],Amidation,False,[1316]
-63632,Cc1ccc(C(=O)N2CCNC(C)C2C)cc1F,GCEYCIPYNZHZKA-UHFFFAOYSA-N,1,4,"{79064, 79065, 79066, 79067}",[],1,{1},[50752],"{63040, 63062}",[50077],Amidation,False,[1316]
-48525,C=C(OC)C(=O)Nc1ccc(O)c(C#N)c1N1CCNC(C)C1=O,XGSUFIKJTHWXHD-UHFFFAOYSA-N,1,2,"{54038, 54039}",[],1,{2},"[37122, 37396]","{4497, 14043, 14501}",[36923],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-14557,C=C(OC)C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,ZYJRWEACKGDWIL-UHFFFAOYSA-N,1,1,{15588},[],1,{1},[7430],"{14501, 14503}",[7360],Amidation,False,[2916]
-63959,CC1C(=O)NC(=O)CN1C(=O)c1cc(F)cc(Cl)c1,DNLBZACSBADEPQ-UHFFFAOYSA-N,1,2,"{79724, 79725}",[],1,{1},[51048],"{63704, 62995}",[50373],Amidation,False,[1316]
-48685,C=C(OC)C(=O)Nc1ccc(O)c(C#N)c1N(C)C(=O)C1CCN1,UAZKTNKESANRQZ-UHFFFAOYSA-N,1,1,{54235},[],1,{2},"[37122, 37554]","{4497, 14501, 48406}",[37048],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-87765,Nc1cc(F)c(F)cc1NC(=O)COCCCBr,APKQWRJXKXVOND-UHFFFAOYSA-N,1,1,{113244},[],1,{1},[74340],"{10557, 86686}",[73659],Ester_amidation,False,[2924]
-72860,COc1ccc(N)cc1C(=O)N(C)c1ccc(O)cc1,YAPQPMAZFUMYMD-UHFFFAOYSA-N,1,1,{93875},[],1,{1},[59276],"{9186, 72795}",[58595],Ester_amidation,False,[3627]
-48686,C=C(OC)C(=O)Nc1ccc(O)c(C#N)c1N1CCC1C(=O)NC,NTTCSCYPYUHYOE-UHFFFAOYSA-N,1,1,{54236},[],1,{2},"[37122, 37555]","{4497, 14501, 48406}",[37049],"N-nucleophilic_aromatic_substitution, Amidation",False,[3611]
-42665,COc1cnc(Cl)cc1Nc1cc(F)c(O)cc1Cl,QELXFMRNSMWPKT-UHFFFAOYSA-N,1,1,{48656},[],1,{1},[32002],"{10848, 40927}",[31766],Buchwald-Hartwig_amination,False,[3628]
-86764,CCOC(=O)C(=O)Nc1cc(F)c(F)cc1N,VKICGRKEGWGYRG-UHFFFAOYSA-N,1,1,{112052},[],1,{1},[73570],"{86549, 10557}",[72610],Ester_amidation,False,[2924]
-89100,Cc1ccc(N)c(NC(=O)C2(C)CNCCO2)c1Cl,OWZVNZTZCUCISJ-UHFFFAOYSA-N,1,2,"{114890, 114891}",[],1,{1},[75737],"{87461, 11182}",[75130],Ester_amidation,False,[2924]
-89077,CC1(C(=O)Nc2c(N)ccc(Br)c2F)CNCCO1,AMXQXUGTHDYRKC-UHFFFAOYSA-N,1,2,"{114846, 114847}",[],1,{1},[75714],"{10336, 87461}",[75107],Ester_amidation,False,[2924]
-63637,Cc1ccc(C(=O)N2CCNC(=O)C2C)cc1F,BLXZQAGAEDUMNW-UHFFFAOYSA-N,1,2,"{79075, 79076}",[],1,{1},[50757],"{63040, 14043}",[50082],Amidation,False,[1316]
-26179,CCCN(CC)C(=O)c1cn(C)c2cc(Cl)ccc12,WIDDNWOFRJNXLE-UHFFFAOYSA-N,1,1,{28372},[],1,{1},[18344],"{13802, 4462}",[18176],Amidation,False,[2188]
-89119,CC1(C(=O)Nc2cc(Cl)c(F)cc2N)CNCCO1,XKJDWDJTRVQKRA-UHFFFAOYSA-N,1,2,"{114924, 114925}",[],1,{1},[75756],"{10293, 87461}",[75149],Ester_amidation,False,[2924]
-86765,CCOC(=O)C(=O)Nc1cccc2c1N=S=N2,ZFNBKTLANMTMGL-UHFFFAOYSA-N,1,1,{112053},[],1,{1},[73571],"{10682, 86549}",[72612],Ester_amidation,False,[2924]
-63705,CC1C(=O)NC(=O)CN1C(=O)c1cccc(F)c1,YPBMGWXKIQRLCT-UHFFFAOYSA-N,1,2,"{79169, 79170}",[],1,{1},[50802],"{63704, 4534}",[50127],Amidation,False,[1316]
-87781,O=C(COCCCBr)Nc1cccc2c1N=S=N2,YLMDEDREDNFDEZ-UHFFFAOYSA-N,1,1,{113260},[],1,{1},[74356],"{10682, 86686}",[73675],Ester_amidation,False,[2924]
-14502,C=C(OC)C(=O)Nc1cccc(C(=O)NCc2cccs2)c1,JNAFQHXNLQQKAQ-UHFFFAOYSA-N,1,1,{15549},[],1,{1},[7401],"{4450, 14501}",[7331],Amidation,False,[2916]
-87266,C#CCOCC(=O)Nc1cc(F)c(F)cc1N,NHDNDFIJOFMVFJ-UHFFFAOYSA-N,1,1,{112646},[],1,{1},[73837],"{10557, 86614}",[73154],Ester_amidation,False,[2924]
-87987,C#CCCOCC(=O)Nc1cccc2c1N=S=N2,UQUTXGMZCKTIAU-UHFFFAOYSA-N,1,1,{113509},[],1,{1},[74563],"{10682, 86695}",[73880],Ester_amidation,False,[2924]
-88434,CC(C)(C)OC(=O)C(=O)Nc1cccc2c1N=S=N2,RUFYPAXOLWWLPN-UHFFFAOYSA-N,1,1,{114033},[],1,{1},[75868],"{10682, 86549}",[74446],Ester_amidation,False,[2924]
-87988,C#CCCOCC(=O)Nc1cc(F)c(F)cc1N,YZTMDIDXCSTDKV-UHFFFAOYSA-N,1,1,{113510},[],1,{1},[74564],"{10557, 86695}",[73881],Ester_amidation,False,[2924]
-87574,CC(C)(C)OCC(=O)Nc1cccc2c1N=S=N2,MYTMMWXECXOGMT-UHFFFAOYSA-N,1,1,{113041},[],1,{1},[74149],"{86738, 10682}",[73468],Ester_amidation,False,[2924]
-88504,CC(C)(C)OC(=O)C(=O)Nc1cc(F)c(F)cc1N,MVQQQLKSXDHZNX-UHFFFAOYSA-N,1,1,{114102},[],1,{1},[75867],"{86549, 10557}",[74537],Ester_amidation,False,[2924]
-89078,CC1(C(=O)Nc2ccc(Br)c(F)c2N)CNCCO1,GYDJDDQZRHQQMF-UHFFFAOYSA-N,1,2,"{114848, 114849}",[],1,{1},[75715],"{10336, 87461}",[75108],Ester_amidation,False,[2924]
-89118,CC1(C(=O)Nc2cc(F)c(Cl)cc2N)CNCCO1,PJQWIOOSWXJUPE-UHFFFAOYSA-N,1,2,"{114922, 114923}",[],1,{1},[75755],"{10293, 87461}",[75148],Ester_amidation,False,[2924]
-87265,C#CCOCC(=O)Nc1cccc2c1N=S=N2,UFEHJSCNFWABPM-UHFFFAOYSA-N,1,1,{112645},[],1,{1},[73836],"{10682, 86614}",[73153],Ester_amidation,False,[2924]
-89115,CC1(C(=O)Nc2cc(F)c(F)cc2N)CNCCO1,MGXPSKNOKKWTQG-UHFFFAOYSA-N,1,2,"{114916, 114917}",[],1,{1},[75752],"{10557, 87461}",[75145],Ester_amidation,False,[2924]
-88452,CC(C)(C)OC(=O)C(=O)Nc1cc(Cl)cc(Br)c1N,MSFIXWFXWOQYNP-UHFFFAOYSA-N,1,1,{114051},[],1,{1},[75635],"{87314, 10253}",[74469],Ester_amidation,False,[2924]
+hippo_id,smiles,inchikey,required_amount_mg,num_poses,poses,tags,num_routes,num_reaction_steps,reaction_dependencies,reactant_dependencies,route_ids,chemistry_types,is_scaffold,scaffold_series,inspirations
+93,CCc1nc(NC(=O)c2ccnc(NC3CC=CC3)c2)no1,WXVLITNXXROEMR-UHFFFAOYSA-N,1,1,{6297},"['pure_merges', 'SeeSAR', 'Syndirella base', 'raw', 'fragmenstein', 'JA', 'merge']",1,{1},[103],"{4554, 85}",[4],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,True,[93],"c0316a, c0441a"
+95,O=c1ccncn1CC1CCS(=O)(=O)C1,UGYMLSSIEIESGU-UHFFFAOYSA-N,1,0,set(),"['merge', 'Syndirella base', 'JA', 'SeeSAR']",1,{1},[29],"{4466, 4467}",[5],Nucleophilic_substitution_with_amine,True,[95],
+104,Cn1c(N)nc2cccc(NCc3cccs3)c21,DGASNXVGKHJXGC-UHFFFAOYSA-N,1,1,{6278},"['pure_merges', 'raw', 'Syndirella base', 'DF', 'fragmenstein', 'arg144_pures', 'merge', 'SeeSAR']",1,{1},[82],"{4440, 4530}",[13],Buchwald-Hartwig_amination,True,[104],"c0892a, c1203a"
+796,Nc1cc(-c2cc[nH]n2)cc2c1OCO2,RGWZNWCCBDMABV-UHFFFAOYSA-N,1,0,set(),"['pure_merges', 'raw', 'Syndirella base', 'fragmenstein', 'arg144_pures']",1,{1},[37],"{4480, 4445}",[25],Sp2-sp2_Suzuki_coupling,True,[796],
+1001,COC(=O)c1cnc2[nH]cc(C)cc1-2,QZVYQICELPCZOV-UHFFFAOYSA-N,1,0,set(),"['pure_merges', 'Syndirella base', 'raw', 'fragmenstein']",1,{1},[94],"{4545, 4546}",[34],Steglich_esterification,True,[1001],
+1128,CC(C)c1cccc2[nH]cnc12,DZVXXHSUENHLJH-UHFFFAOYSA-N,1,0,set(),"['pure_merges', 'Syndirella base', 'raw', 'fragmenstein']",1,{1},[105],"{4557, 4558}",[41],Sp3-sp2_Suzuki_coupling,True,[1128],
+1316,CC1CN(C(=O)c2cccc(F)c2)CCN1,GEKAQEZWMKZGCA-UHFFFAOYSA-N,1,0,set(),"['pure_merges', 'Syndirella base', 'raw', 'fragmenstein']",1,{1},[85],"{4534, 4535}",[48],Amidation,True,[1316],
+1473,CC(C)(C)c1cnc2ccccc2n1,MMXSHBZOILNLPJ-UHFFFAOYSA-N,1,1,{6276},"['pure_merges', 'raw', 'Syndirella base', 'fragmenstein', 'arg144_pures']",1,{1},[61],"{4505, 4507}",[54],Sp3-sp2_Suzuki_coupling,True,[1473],"c0839a, c1299a"
+1917,CCc1nc(Cn2ccc(Br)cc2=O)no1,QQERROZMPKKQER-UHFFFAOYSA-N,1,1,{6251},"['pure_merges', 'Syndirella base', 'raw', 'fragmenstein']",1,{1},[33],"{4472, 84}",[58],Nucleophilic_substitution_with_amine,True,[1917],"c0316a, c1091a"
+2916,COCC(=O)Nc1cccc(C(=O)NCc2cccs2)c1,QVSYFXSEJNFZKD-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[17],"{4449, 4450}",[68],Amidation,True,[2916],
+2925,Cc1cccc(O)c1Nc1ccccc1,XQWKZXHQRAAZAF-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[108],"{4451, 4439}",[72],Buchwald-Hartwig_amination,True,[2925],
+3284,Oc1cc2c(cc1-c1ccn[nH]1)OCO2,DETJXFSIQJPJAJ-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[14],"{4444, 4445}",[85],Sp2-sp2_Suzuki_coupling,True,[3284],
+3624,COCC(=O)Nc1ccc(O)cc1N,XMHJIXAUMMKGLT-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[35],"{4476, 4477}",[89],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,True,[3624],
+3625,Cc1cccc(O)c1Nc1ccc(O)cc1,JXRCCCJCUJURBQ-UHFFFAOYSA-N,1,1,{104911},"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[18],"{4451, 4452}",[90],Buchwald-Hartwig_amination,False,[2925],"c0692a, c1116a"
+3628,Oc1ccc(Nc2ccncc2O)cc1,MIMRXPBJLOWRMN-UHFFFAOYSA-N,1,0,set(),"['arg144_pures', 'raw', 'Syndirella base', 'fragmenstein']",1,{1},[43],"{4483, 4452}",[92],Buchwald-Hartwig_amination,True,[3628],
+76982,O=C(Nc1noc(C2CC2)n1)c1ccnc(NC2CC=CC2)c1,RVONYHCTWCRDJF-UHFFFAOYSA-N,1,1,{98837},[],1,{1},[63375],"{85, 76981}",[62694],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93],"c0316a, c0441a"
+76984,CC(C)c1nc(NC(=O)c2ccnc(NC3CC=CC3)c2)no1,QYWGYJFOJRFRHH-UHFFFAOYSA-N,1,1,{98838},[],1,{1},[63376],"{85, 76983}",[62695],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93],"c0316a, c0441a"
+76990,O=C(Nc1noc(C2CCC2)n1)c1ccnc(NC2CC=CC2)c1,SFDTUZQHZKCPRN-UHFFFAOYSA-N,1,1,{98841},[],1,{1},[63379],"{85, 76989}",[62698],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93],"c0316a, c0441a"
+76994,CC1(c2nc(NC(=O)c3ccnc(NC4CC=CC4)c3)no2)CCOC1,KDAPNLCPIPSDQD-UHFFFAOYSA-N,1,2,"{98843, 98844}",[],1,{1},[63381],"{76993, 85}",[62700],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93],"c0316a, c0441a"
+76996,COC1(c2nc(NC(=O)c3ccnc(NC4CC=CC4)c3)no2)CCOC1,LRNNKMIDGWTQJR-UHFFFAOYSA-N,1,2,"{98845, 98846}",[],1,{1},[63382],"{76995, 85}",[62701],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[93],"c0316a, c0441a"
+49582,CN(C(=O)C1CCN1)c1c(NC(=O)COC(F)F)ccc(O)c1C#N,FTEDAAMHBNYUBM-UHFFFAOYSA-N,1,1,{55611},[],1,{2},"[37302, 38408]","{4497, 14523, 48406}",[37885],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+87449,CCOC(=O)C(=O)Nc1cccc(F)c1[N+](=O)[O-],YAYSMZQHKVPAKO-UHFFFAOYSA-N,1,1,{112901},[],1,{1},[74366],"{11763, 86549}",[73348],Ester_amidation,False,[2924],
+64501,CC1C(=O)NCCN1C(=O)c1cc(F)c(F)cc1N,FOWXQTXOOVBNJW-UHFFFAOYSA-N,1,2,"{80889, 80890}",[],1,{1},[51590],"{12370, 14043}",[50915],Amidation,False,[1316],
+31643,Cc1c(Br)ccn(Cc2noc(C3CC3)n2)c1=O,ATJZGMKGFXUPAN-UHFFFAOYSA-N,1,1,{35376},[],1,{1},[22911],"{31625, 31631}",[22618],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+26948,CN(NC(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12)C(N)=O,RHDPETMHGQCXET-UHFFFAOYSA-N,1,1,{29383},[],1,{1},[19113],"{25833, 13764}",[18945],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+40898,Oc1ccc(Nc2ccncc2O)c(Cl)c1,ZIUQIFJMKDQIMW-UHFFFAOYSA-N,1,1,{46941},[],1,{1},[30156],"{4483, 9132}",[29863],Buchwald-Hartwig_amination,False,[3628],
+19846,COc1cc(C=O)c(Nc2cc(F)c(O)cc2Cl)c(OC)c1,WUQJMUSEGZXREA-UHFFFAOYSA-N,1,1,{20979},[],1,{1},[12081],"{10848, 18254}",[12011],Buchwald-Hartwig_amination,False,[3625],"c0692a, c1116a"
+29780,CCc1[nH]c(=O)n(CC2CCS(=O)(=O)C2)c(=O)c1N,YERROGAWGHMJSN-UHFFFAOYSA-N,1,2,"{32123, 32124}",[],1,{1},[21327],"{4466, 29773}",[21060],Nucleophilic_substitution_with_amine,False,[95],
+78140,O=C(Cc1cccc(OC(F)F)n1)Nc1cnc(Br)cc1C(=O)O,NDIXQJXCJCMZTG-UHFFFAOYSA-N,1,1,{100963},[],1,{1},[64512],"{37888, 77132}",[63831],Amidation,False,[1012],
+59812,Cc1ccsc1C1CCCCCN1c1cc(C(=O)O)cc2nc(N)n(C)c12,HLZVMXCWEWCTOV-UHFFFAOYSA-N,1,1,{75257},[],1,{1},[47990],"{58969, 14403}",[47315],Buchwald-Hartwig_amination,False,[104],"c0892a, c1203a"
+6125,C#CCOc1ncccc1C(=O)N1CCCCC1c1ccc(O)nc1,OPZXWXCXJQFWDV-UHFFFAOYSA-N,1,2,"{8262, 8263}",[],1,{1},[1486],"{6089, 5797}",[1476],Amidation,False,[653],
+12272,NC(=O)c1cc(Cl)c(C(=O)Nc2ccc([N+](=O)[O-])cc2)c(Cl)c1,UFHUHRFWKBEZPN-UHFFFAOYSA-N,1,1,{13918},[],1,{1},[6053],"{4579, 10782}",[5983],Amidation,False,[2944],
+40492,Nc1cc(-c2ccn(CC(F)F)n2)cc2c1OCO2,MOLHQPPIEJBAAQ-UHFFFAOYSA-N,1,2,"{46768, 46420}",[],1,{1},[29677],"{4480, 40491}",[29386],Sp2-sp2_Suzuki_coupling,False,[796],
+36847,COCC(=O)NOCC(=O)Nc1cc2c(cc1N)OCCO2,VZEQNMOPRLHGLE-UHFFFAOYSA-N,1,2,"{86225, 41359}",[],1,{1},[26608],"{35857, 35586}",[26316],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624],
+72969,COc1ccc(N)cc1C(=O)Nc1cc(I)c(O)c(I)c1,RFCIPTSAYAETTH-UHFFFAOYSA-N,1,1,{93975},[],1,{1},[59377],"{72795, 10228}",[58696],Ester_amidation,False,[3627],
+53250,FC(F)(F)c1ccc2nc(C34CC3C4)cnc2c1,CSEPTYUGKSZCPY-UHFFFAOYSA-N,1,1,{65400},[],1,{1},[41534],"{53200, 52789}",[40958],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+14997,COC(C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1)C(C)C,RVLIBSAFXNZNQW-UHFFFAOYSA-N,1,2,"{15966, 15967}",[],1,{1},[7667],"{14614, 14503}",[7597],Amidation,False,[2916],
+72297,Cc1cc(Cl)c(N)cc1NC(=O)c1cc(Cl)c2c(c1)[nH]c(=O)n2C,VPLRZYQURNFOPZ-UHFFFAOYSA-N,1,1,{93309},[],1,{1},[58717],"{11194, 68670}",[58036],Amidation,False,[2919],
+81547,COc1cc(Nc2ccccc2C)cc(C)c1I,BEJJFSGRWJSFBR-UHFFFAOYSA-N,1,1,{105678},[],1,{1},[67999],"{8601, 16731}",[67318],Buchwald-Hartwig_amination,False,[2925],
+78608,Cn1cnc2c(C3COC3)cccc21,CSYGCBBOSAXSJE-UHFFFAOYSA-N,1,1,{101588},[],1,{1},[64957],"{78576, 78607}",[64283],Sp3-sp2_Suzuki_coupling,False,[1128],
+8372,COc1sc(CN(CC(O)CO)C(=O)c2cc(C(=O)O)nn2C)cc1Br,SDGUZSVJRIKLRW-UHFFFAOYSA-N,1,2,"{11258, 11259}",[],1,{1},[3433],"{8010, 8243}",[3424],Ester_amidation,False,[1192],
+48486,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1C(=O)CNC1=S,QSFDRLNGCTXARP-UHFFFAOYSA-N,1,1,{53984},[],1,{2},"[37286, 37357]","{4497, 48370, 15671}",[36892],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+87275,C#CCOCC(=O)Nc1cc(Cl)c(F)cc1N,RVKZEAKZGTVGIA-UHFFFAOYSA-N,1,1,{112655},[],1,{1},[73846],"{10293, 86614}",[73163],Ester_amidation,False,[2924],
+64280,COc1ccc(F)cc1C(=O)N1CCNC(C)C1C,SZKWZDPNGMZJHH-UHFFFAOYSA-N,1,4,"{80416, 80417, 80418, 80415}",[],1,{1},[51369],"{63203, 63062}",[50694],Amidation,False,[1316],
+31711,CC(C)Cc1nc(Cn2ccc(Br)c(Cl)c2=O)no1,FIKQSZOCVPTCTI-UHFFFAOYSA-N,1,1,{35440},[],1,{1},[22968],"{31657, 31621}",[22675],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+26939,Cn1c(Cl)c(C(=O)NCCC(Cl)Cl)c2cc(Cl)c(Cl)cc21,VZMAPPMXABTTMI-UHFFFAOYSA-N,1,1,{29373},[],1,{1},[19104],"{25833, 13690}",[18936],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+41763,COc1ccc(N(C)c2ccncc2O)cc1F,XHPQDAKVXLMYAN-UHFFFAOYSA-N,1,1,{47774},[],1,{1},[31088],"{17226, 4483}",[30798],Buchwald-Hartwig_amination,False,[3628],
+18430,COc1ccc(Nc2c(OC)ccc3c2CCC3)cc1F,DTSZEJFKVVQXKM-UHFFFAOYSA-N,1,1,{19571},[],1,{1},[10644],"{16912, 10862}",[10580],Buchwald-Hartwig_amination,False,[3625],"c0692a, c1116a"
+30095,Cn1ncc2nc(Cl)n(CC3CCS(=O)(=O)C3)c(=O)c21,LYEUFVGGUCTBSU-UHFFFAOYSA-N,1,1,{32410},[],1,{1},[21501],"{4466, 30094}",[21234],Nucleophilic_substitution_with_amine,False,[95],
+77866,COc1cccc(C(F)(F)C(=O)Nc2c(C)ccnc2CO)n1,RZYOLOOYKSKWSQ-UHFFFAOYSA-N,1,1,{100512},[],1,{1},[64239],"{37616, 77062}",[63558],Amidation,False,[1012],
+58703,Cc1csc(CN(C)c2cc(F)cc3nc(N)n(C)c23)c1,YLTGAPROOKEUCH-UHFFFAOYSA-N,1,1,{73945},[],1,{1},[47032],"{58521, 12875}",[46357],Buchwald-Hartwig_amination,False,[104],"c0892a, c1203a"
+6616,COCCOc1ncccc1C(=O)N1CCCCC1c1ccc(O)nc1,HBQFMVQDSMREEH-UHFFFAOYSA-N,1,2,"{8806, 8807}",[],1,{1},[1949],"{6089, 5836}",[1939],Amidation,False,[653],
+10023,NC(=O)c1cc(Cl)c(C(=O)Nc2cccc(Br)c2S)c(Cl)c1,LIVPMYYMBBCDFT-UHFFFAOYSA-N,1,1,{12355},[],1,{1},[4504],"{9264, 4579}",[4434],Amidation,False,[2944],
+40715,Cn1ncc(NC(=O)OC(C)(C)C)c1-c1cc(N)c2c(c1)OCO2,NHFGUUPWDGHPIV-UHFFFAOYSA-N,1,2,"{46546, 46892}",[],1,{1},[29817],"{4480, 40714}",[29524],Sp2-sp2_Suzuki_coupling,False,[796],
+36349,COc1ccc(NC(=O)C(=O)OC(C)(C)C)c(N=[N+]=[N-])c1,MELUHIUKOCZYJI-UHFFFAOYSA-N,1,1,{40603},[],1,{1},[26128],"{35584, 35733}",[25836],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624],
+75646,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1cc(I)c(O)c(I)c1,YFMMIRISAYEDEX-UHFFFAOYSA-N,1,1,{96591},[],1,{1},[62089],"{74586, 10228}",[61408],Ester_amidation,False,[3627],
+53737,Cc1nc2ccccc2nc1C1(C2CC2)CCOCC1,RWYUVIMPTJPWPO-UHFFFAOYSA-N,1,1,{66167},[],1,{1},[42032],"{52795, 53478}",[41471],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+15707,COC(CC1CCCC1)C(=O)Nc1cccc(C(=O)NCc2cccs2)c1,KSVKSMSOIXOMEB-UHFFFAOYSA-N,1,2,"{16689, 16690}",[],1,{1},[8109],"{4450, 15706}",[8039],Amidation,False,[2916],
+72443,Cn1c(=O)[nH]c2cc(C(=O)Nc3ccc(F)c([N+](=O)[O-])c3)cc(Cl)c21,NPXUXTPGHGXKGO-UHFFFAOYSA-N,1,1,{93458},[],1,{1},[58863],"{11753, 68670}",[58182],Amidation,False,[2919],
+82536,COc1cc(Br)cc(C)c1Nc1cccc(F)c1Cl,WBTNDPCBISTBDL-UHFFFAOYSA-N,1,1,{106770},[],1,{1},[69035],"{16731, 8947}",[68376],Buchwald-Hartwig_amination,False,[2925],
+79873,Cn1c(O)nc2c(C3(C)CCOC3)cccc21,ZDDJHSUSVFXCKN-UHFFFAOYSA-N,1,2,"{103228, 103229}",[],1,{1},[66326],"{52916, 78623}",[65647],Sp3-sp2_Suzuki_coupling,False,[1128],
+8358,COc1sc(CN(CC(O)CO)C(=O)c2cc([N+](=O)[O-])nn2C)cc1Br,XCYKKTHXRDYWAK-UHFFFAOYSA-N,1,2,"{11241, 11242}",[],1,{1},[3434],"{8002, 8243}",[3411],Ester_amidation,False,[1192],
+49058,CN(C)CC(=O)Nc1c(NC(=O)C2=CCCO2)ccc(O)c1C#N,KYBOJVPYOMLTIL-UHFFFAOYSA-N,1,1,{54748},[],1,{2},"[37347, 37900]","{48232, 4497, 14517}",[37380],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+87691,Nc1c(NC(=O)COCCCBr)ccc(Br)c1F,RBXGBZIZXZWYLY-UHFFFAOYSA-N,1,1,{113170},[],1,{1},[74266],"{10336, 86686}",[73585],Ester_amidation,False,[2924],
+62996,CC1CNCCN1C(=O)c1cc(F)cc(Cl)c1,HXHRCVANLJFORA-UHFFFAOYSA-N,1,2,"{78022, 78023}",[],1,{1},[50300],"{62995, 4535}",[49625],Amidation,False,[1316],
+31777,CCCCc1nc(Cn2ccc(Br)c(Cl)c2=O)no1,SLEYBXRTCYLYES-UHFFFAOYSA-N,1,1,{35504},[],1,{1},[23026],"{31621, 31653}",[22733],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+26212,CN(CCCO)C(=O)c1cn(C)c2cc(Cl)ccc12,ZFSRXWHEPOUCLA-UHFFFAOYSA-N,1,1,{28417},[],1,{1},[18377],"{13750, 4462}",[18209],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+41737,COc1c(I)cc(Nc2ccncc2O)cc1I,SMUPBFYQUGCNGO-UHFFFAOYSA-N,1,1,{47748},[],1,{1},[31062],"{17258, 4483}",[30772],Buchwald-Hartwig_amination,False,[3628],
+16781,COc1ccc(Nc2c(C)cccc2O)cc1Cl,CPTCCXRJTWYYNV-UHFFFAOYSA-N,1,1,{17971},[],1,{1},[8976],"{10922, 4451}",[8906],Buchwald-Hartwig_amination,False,[3625],"c0692a, c1116a"
+29052,O=c1cc(CCl)[nH]c(=O)n1CC1CCS(=O)(=O)C1,PCGIMQYKMNOYEP-UHFFFAOYSA-N,1,2,"{31412, 31413}",[],1,{1},[20933],"{4466, 29051}",[20666],Nucleophilic_substitution_with_amine,False,[95],
+38851,Cc1nc(Cl)c(NC(=O)C2CCc3ccc(=O)[nH]c32)c(C)c1C,HGBAJEMUEKUJKI-UHFFFAOYSA-N,1,4,"{44331, 44332, 100133, 100134}",[],1,{1},[28264],"{37896, 37786}",[27971],Amidation,False,[1012],
+59563,Cn1c(N)nc2cccc(N3C(C(=O)O)CSC3c3ccc(Cl)s3)c21,QSARRORVVCSXSB-UHFFFAOYSA-N,1,3,"{74949, 74950, 74951}",[],1,{1},[47751],"{4530, 14470}",[47076],Buchwald-Hartwig_amination,False,[104],"c0892a, c1203a"
+6085,CCOc1ncccc1C(=O)N1CCCC1c1ccc(OC)nc1,QUPWOWSONXPQQX-UHFFFAOYSA-N,1,2,"{8218, 8219}",[],1,{1},[1452],"{4427, 6084}",[1442],Amidation,False,[653],
+11222,Cc1cc(NC(=O)c2c(Cl)cc(C(N)=O)cc2Cl)c(Cl)cc1Cl,DMXCPDHEVSRFFY-UHFFFAOYSA-N,1,1,{13041},[],1,{1},[5186],"{10563, 4579}",[5116],Amidation,False,[2944],
+40371,Cn1ncc(Cl)c1-c1cc(N)c2c(c1)OCO2,BFZVQBASOWSUJT-UHFFFAOYSA-N,1,2,"{46362, 46710}",[],1,{1},[29609],"{4480, 40370}",[29316],Sp2-sp2_Suzuki_coupling,False,[796],
+37087,COc1cc(N)c(NC(=O)C(C)OCc2ccccc2)cc1Br,XJQWQCNJWGSCQA-UHFFFAOYSA-N,1,4,"{86633, 41842, 41843, 86634}",[],1,{1},[26844],"{36435, 35532}",[26552],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624],
+76522,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1ccc(O)cc1[N+](=O)[O-],BVVWEQPKDQFMBK-UHFFFAOYSA-N,1,1,{97466},[],1,{1},[62957],"{74586, 17246}",[62276],Ester_amidation,False,[3627],
+53837,OCCC1(c2cnc3ccc(C(F)(F)F)cc3n2)CC1,PKRDIOBQFMHZPM-UHFFFAOYSA-N,1,1,{66300},[],1,{1},[42151],"{53202, 52914}",[41578],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+15060,CCC(CC)C(OC)C(=O)Nc1cccc(C(=O)NCc2cccs2)c1,ZHAQWAGCDVSHQF-UHFFFAOYSA-N,1,2,"{16035, 16036}",[],1,{1},[7714],"{4450, 15059}",[7644],Amidation,False,[2916],
+71887,Cn1c(=O)[nH]c2cc(C(=O)Nc3c(F)cc(Cl)cc3F)cc(Cl)c21,VUVYGJWKIWSSGV-UHFFFAOYSA-N,1,1,{92824},[],1,{1},[58308],"{10741, 68670}",[57627],Amidation,False,[2919],
+82689,COc1cc(Br)cc(CO)c1Nc1cc(F)ccc1O,MEGCTDBRIZDQNV-UHFFFAOYSA-N,1,1,{106943},[],1,{1},[69210],"{8945, 16954}",[68529],Buchwald-Hartwig_amination,False,[2925],
+78635,Cn1c(Cl)nc2c(C3CC3)cccc21,VYIURGJIPNCJKA-UHFFFAOYSA-N,1,1,{101613},[],1,{1},[64987],"{78581, 78631}",[64311],Sp3-sp2_Suzuki_coupling,False,[1128],
+8321,COc1sc(CN(CC(O)CO)C(=O)c2c(Br)c(C)nn2C)cc1Br,RNWPOBYYMPIYPG-UHFFFAOYSA-N,1,1,{11206},[],1,{1},[3387],"{7960, 8243}",[3378],Ester_amidation,False,[1192],
+26116,CCN(C(=O)c1cn(C)c2cc(Cl)ccc12)C(C)C,OPZSPDRBUAYJSQ-UHFFFAOYSA-N,1,1,{28290},[],1,{1},[18281],"{13930, 4462}",[18113],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+81003,Cc1cccc(O)c1Nc1cccc(F)c1Cl,NSKAXFKIEYACNT-UHFFFAOYSA-N,1,1,{105087},[],1,{1},[67439],"{4451, 8947}",[66758],Buchwald-Hartwig_amination,False,[2925],
+82713,COc1cc(Br)cc(CO)c1Nc1cccc(F)c1Cl,ZPNVWTHMWLOMFF-UHFFFAOYSA-N,1,1,{106971},[],1,{1},[69234],"{16954, 8947}",[68553],Buchwald-Hartwig_amination,False,[2925],
+31622,CCc1nc(Cn2ccc(Br)c(Cl)c2=O)no1,NEFGIVMWIPKFJT-UHFFFAOYSA-N,1,1,{35361},[],1,{1},[22896],"{4472, 31621}",[22603],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+59040,Cc1csc(CN(C)c2cc(C(=O)O)cc3nc(N)n(C)c23)c1,IIDWXUVFKFQALQ-UHFFFAOYSA-N,1,1,{74322},[],1,{1},[47301],"{58969, 12875}",[46626],Buchwald-Hartwig_amination,False,[104],"c0892a, c1203a"
+73007,COc1ccc(N)cc1C(=O)Nc1cc(F)c(O)cc1Cl,KCFJSDZWSWQWBN-UHFFFAOYSA-N,1,1,{94008},[],1,{1},[59410],"{10848, 72795}",[58729],Ester_amidation,False,[3627],
+29053,O=c1cc(CCl)n(CC2CCS(=O)(=O)C2)c(=O)[nH]1,RPVLVMNDDYWZTO-UHFFFAOYSA-N,1,2,"{31414, 31415}",[],1,{1},[20934],"{4466, 29051}",[20667],Nucleophilic_substitution_with_amine,False,[95],
+31642,O=c1c(Cl)c(Br)ccn1Cc1noc(C2CC2)n1,WFSYDNUCHCVRMD-UHFFFAOYSA-N,1,1,{35375},[],1,{1},[22910],"{31621, 31631}",[22617],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+31632,O=c1cc(Br)ccn1Cc1noc(C2CC2)n1,KBVJRQKQCKILOY-UHFFFAOYSA-N,1,1,{35366},[],1,{1},[22901],"{84, 31631}",[22608],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+72376,Cc1cc(Cl)c(NC(=O)c2cc(Cl)c3c(c2)[nH]c(=O)n3C)cc1N,KRHNAGQEEAXIPR-UHFFFAOYSA-N,1,1,{93388},[],1,{1},[58796],"{11194, 68670}",[58115],Amidation,False,[2919],
+52811,Cc1nc2ccccc2nc1C12CC1C2,JTWXPXYTTCHQFH-UHFFFAOYSA-N,1,1,{64854},[],1,{1},[41080],"{52795, 52789}",[40516],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+48483,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CC(=O)NC1=S,JDTWERWWQJXUMJ-UHFFFAOYSA-N,1,1,{53980},[],1,{2},"[37286, 37354]","{4497, 48370, 15671}",[36889],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+63250,COc1ccc(F)cc1C(=O)N1CCNC(C)C1,LILGELNVMFEYFO-UHFFFAOYSA-N,1,2,"{78384, 78383}",[],1,{1},[50452],"{63203, 4535}",[49777],Amidation,False,[1316],
+82639,COc1ccc2c(c1Nc1cccc(F)c1Cl)CCC2,QLNQPKZCPUHQMS-UHFFFAOYSA-N,1,1,{106883},[],1,{1},[69160],"{16912, 8947}",[68479],Buchwald-Hartwig_amination,False,[2925],
+9915,NC(=O)c1cc(Cl)c(C(=O)Nc2ccc(O)cc2Cl)c(Cl)c1,SAIDAQMCKKGFBM-UHFFFAOYSA-N,1,1,{12247},[],1,{1},[4396],"{4579, 9132}",[4326],Amidation,False,[2944],
+52796,Cc1nc2ccccc2nc1C(C)(C)C,WKWFATFSDWZIJI-UHFFFAOYSA-N,1,1,{64840},[],1,{1},[41060],"{52795, 4507}",[40494],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+76509,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1cc(I)c(OC)c(I)c1,LVSQTCQFNZKWPE-UHFFFAOYSA-N,1,1,{97453},[],1,{1},[62944],"{17258, 74586}",[62263],Ester_amidation,False,[3627],
+59548,Cc1ccsc1C1CCCCCN1c1cc(F)cc2nc(N)n(C)c12,FAAKLJKZFUVQPS-UHFFFAOYSA-N,1,1,{74930},[],1,{1},[47737],"{58521, 14403}",[47062],Buchwald-Hartwig_amination,False,[104],"c0892a, c1203a"
+78633,CC(C)c1cccc2c1nc(Cl)n2C,DNKORNSFUCJWJH-UHFFFAOYSA-N,1,1,{101611},[],1,{1},[64989],"{4558, 78631}",[64308],Sp3-sp2_Suzuki_coupling,False,[1128],
+31775,CCCCc1nc(Cn2ccc(Br)c(C)c2=O)no1,GCYRYTOMWWQMFC-UHFFFAOYSA-N,1,1,{35502},[],1,{1},[23024],"{31625, 31653}",[22731],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+38875,O=C(O)c1cc(Br)ncc1NC(=O)C1CCc2ccc(=O)[nH]c21,PDIJYLSBCDCRNG-UHFFFAOYSA-N,1,4,"{44379, 44380, 100141, 100142}",[],1,{1},[28288],"{37888, 37786}",[27995],Amidation,False,[1012],
+26154,Cn1cc(C(=O)NCCC(Cl)Cl)c2ccc(Cl)cc21,IICJJSQIMIVITL-UHFFFAOYSA-N,1,1,{28337},[],1,{1},[18319],"{13690, 4462}",[18151],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+53169,Cc1nc2ccccc2nc1C1(C)CCOC1,RLIYILQTMXITGN-UHFFFAOYSA-N,1,2,"{65256, 65257}",[],1,{1},[41451],"{52795, 52916}",[40875],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+89145,O=C(COCCCBr)Nc1cccc(F)c1[N+](=O)[O-],PXIQYHIFEOKDLP-UHFFFAOYSA-N,1,1,{114961},[],1,{1},[75782],"{11763, 86686}",[75175],Ester_amidation,False,[2924],
+6090,CCOc1ncccc1C(=O)N1CCCCC1c1ccc(O)nc1,FHBQCFGVZIABGO-UHFFFAOYSA-N,1,2,"{8222, 8223}",[],1,{1},[1455],"{6089, 4427}",[1445],Amidation,False,[653],
+37350,COc1ccc(NC(=O)C(C)OCc2ccccc2)c(N=[N+]=[N-])c1,ODFOLLXLPAODBO-UHFFFAOYSA-N,1,3,"{42536, 42537, 87260}",[],1,{1},[27101],"{35584, 36435}",[26808],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624],
+78632,Cn1c(C2CC2)nc2c(Br)cccc21,LHYZZIVEMKXAAX-UHFFFAOYSA-N,1,1,{101610},[],1,{1},[64988],"{78581, 78631}",[64306],Sp3-sp2_Suzuki_coupling,False,[1128],
+87122,C#CCOCC(=O)Nc1ccc(Br)c(F)c1N,JNHODBGOYNNYIN-UHFFFAOYSA-N,1,1,{112501},[],1,{1},[73693],"{10336, 86614}",[73011],Ester_amidation,False,[2924],
+6608,COCCOc1ncccc1C(=O)N1CCCC1c1ccc(OC)nc1,WFNSHSCUFNWUKV-UHFFFAOYSA-N,1,1,{8799},[],1,{1},[1942],"{6084, 5836}",[1932],Amidation,False,[653],
+72861,COc1ccc(N)cc1C(=O)Nc1ccc(O)cc1Cl,YHKDWKTYJVUXJA-UHFFFAOYSA-N,1,1,{93876},[],1,{1},[59277],"{72795, 9132}",[58596],Ester_amidation,False,[3627],
+73794,COc1ccc(N)cc1C(=O)Nc1cc(I)c(OC)c(I)c1,RSECLUYFDJDZLL-UHFFFAOYSA-N,1,1,{94770},[],1,{1},[60245],"{17258, 72795}",[59564],Ester_amidation,False,[3627],
+6278,C#CCOc1ncccc1C(=O)N1CCCC1c1ccc(OC)nc1,LIQLVJPJJWUNTN-UHFFFAOYSA-N,1,2,"{8429, 8430}",[],1,{1},[1631],"{6084, 5797}",[1621],Amidation,False,[653],
+26794,CC1C(=O)NCCN1C(=O)c1cn(C)c2cc(Cl)ccc12,ZMDCDCNRNFPSKS-UHFFFAOYSA-N,1,2,"{29174, 29175}",[],1,{1},[18959],"{14043, 4462}",[18791],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+63063,CC1NCCN(C(=O)c2cccc(F)c2)C1C,DSKLWYLUOYOGIS-UHFFFAOYSA-N,1,4,"{78092, 78093, 78094, 78095}",[],1,{1},[50324],"{63062, 4534}",[49649],Amidation,False,[1316],
+31658,CC(C)Cc1nc(Cn2ccc(Br)cc2=O)no1,COGGJXJYVKRWBT-UHFFFAOYSA-N,1,1,{35388},[],1,{1},[22923],"{31657, 84}",[22630],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+63089,CC1C(=O)NCCN1C(=O)c1cccc(F)c1,MEOXWDYTCBKLHA-UHFFFAOYSA-N,1,2,"{78121, 78122}",[],1,{1},[50336],"{14043, 4534}",[49661],Amidation,False,[1316],
+53820,CC1(c2cnc3ccc(C(F)(F)F)cc3n2)CCOC1,UKNCSKXDMGDGGR-UHFFFAOYSA-N,1,2,"{66274, 66275}",[],1,{1},[42132],"{53202, 52916}",[41560],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+71736,COc1ccc(NC(=O)c2cc(Cl)c3c(c2)[nH]c(=O)n3C)cc1Cl,XQVWEFPZQVNVAK-UHFFFAOYSA-N,1,1,{92657},[],1,{1},[58157],"{10922, 68670}",[57476],Amidation,False,[2919],
+78625,Cn1c(O)nc2c(C3CC3)cccc21,SAONFCRNJNWZTP-UHFFFAOYSA-N,1,1,{101604},[],1,{1},[64975],"{78581, 78623}",[64299],Sp3-sp2_Suzuki_coupling,False,[1128],
+16778,COc1ccc(Nc2c(C)cccc2O)cc1F,OFNWGMGELABUDG-UHFFFAOYSA-N,1,1,{17969},[],1,{1},[8974],"{4451, 10862}",[8904],Buchwald-Hartwig_amination,False,[3625],"c0692a, c1116a"
+31654,CCCCc1nc(Cn2ccc(Br)cc2=O)no1,RFILRJYCSBEXQS-UHFFFAOYSA-N,1,1,{35385},[],1,{1},[22920],"{84, 31653}",[22627],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+73792,COc1ccc(N)cc1C(=O)Nc1ccc(O)c(C#N)c1F,VQXPJAIIEBZGRT-UHFFFAOYSA-N,1,1,{94768},[],1,{1},[60243],"{4497, 72795}",[59562],Ester_amidation,False,[3627],
+78624,CC(C)c1cccc2c1nc(O)n2C,LBCFCMGMDDFRLQ-UHFFFAOYSA-N,1,1,{101603},[],1,{1},[64974],"{4558, 78623}",[64297],Sp3-sp2_Suzuki_coupling,False,[1128],
+73789,COc1ccc(N)cc1C(=O)Nc1ccc(O)cc1[N+](=O)[O-],OQZRBJWDOCUJPT-UHFFFAOYSA-N,1,1,{94765},[],1,{1},[60240],"{72795, 17246}",[59559],Ester_amidation,False,[3627],
+87276,C#CCOCC(=O)Nc1cc(F)c(Cl)cc1N,XVBMZRODRGCHRP-UHFFFAOYSA-N,1,1,{112656},[],1,{1},[73847],"{10293, 86614}",[73164],Ester_amidation,False,[2924],
+78314,COc1cccc(C(F)(F)C(=O)Nc2cnc(Br)cc2C(=O)O)n1,DEVDABKSPBNPNJ-UHFFFAOYSA-N,1,1,{101218},[],1,{1},[64686],"{37888, 77062}",[64005],Amidation,False,[1012],
+27198,CC1C(=O)NCCN1C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12,KKVUAUMAKLBZSA-UHFFFAOYSA-N,1,2,"{29728, 29729}",[],1,{1},[19363],"{25833, 14043}",[19195],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+36367,COCC(=O)NOCC(=O)Nc1cc(Br)c(OC)cc1N,QFWCCAFJHGWTNF-UHFFFAOYSA-N,1,1,{40624},[],1,{1},[26144],"{35857, 35532}",[25852],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624],
+12156,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(I)c(O)c(I)c2)c(Cl)c1,ASAAPRSTPXPBNA-UHFFFAOYSA-N,1,1,{13801},[],1,{1},[5938],"{4579, 10228}",[5868],Amidation,False,[2944],
+71664,COc1ccc(NC(=O)c2cc(Cl)c3c(c2)[nH]c(=O)n3C)cc1F,XQBWNYIULVAPAO-UHFFFAOYSA-N,1,1,{92573},[],1,{1},[58085],"{68670, 10862}",[57404],Amidation,False,[2919],
+53815,CC1(c2cnc3cc(C(F)(F)F)ccc3n2)CCOC1,XPJCJAAYZAWODY-UHFFFAOYSA-N,1,2,"{66267, 66268}",[],1,{1},[42127],"{53200, 52916}",[41555],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+71830,Cn1c(=O)[nH]c2cc(C(=O)Nc3ccc([N+](=O)[O-])cc3)cc(Cl)c21,KFVWAEIMISKGBT-UHFFFAOYSA-N,1,1,{92767},[],1,{1},[58251],"{68670, 10782}",[57570],Amidation,False,[2919],
+74593,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1ccc(O)cc1Cl,GKFPEJOKNPVGKC-UHFFFAOYSA-N,1,1,{95555},[],1,{1},[61029],"{74586, 9132}",[60374],Ester_amidation,False,[3627],
+75609,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1cc(F)c(O)cc1Cl,KEMBBUSRGXJKDQ-UHFFFAOYSA-N,1,1,{96554},[],1,{1},[62052],"{10848, 74586}",[61371],Ester_amidation,False,[3627],
+54163,FC(F)(F)c1ccc2ncc(C3(C4CC4)CCOCC3)nc2c1,OPLUMYKLNGIJGH-UHFFFAOYSA-N,1,1,{66728},[],1,{1},[42481],"{53202, 53478}",[41907],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+11604,Cc1cc(Cl)c(N)cc1NC(=O)c1c(Cl)cc(C(N)=O)cc1Cl,BPQDCDFMWBLKPY-UHFFFAOYSA-N,1,1,{13422},[],1,{1},[5565],"{11194, 4579}",[5495],Amidation,False,[2944],
+69238,Cc1ccccc1NC(=O)c1cc(Cl)c2c(c1)[nH]c(=O)n2C,KZFJISGZOSRQIS-UHFFFAOYSA-N,1,1,{89117},[],1,{1},[55659],"{8601, 68670}",[54978],Amidation,False,[2919],
+26522,Cn1cc(C(=O)NCc2cccs2)c2ccc(Cl)cc21,XHOFNXFGDGKUJA-UHFFFAOYSA-N,1,1,{28815},[],1,{1},[18687],"{4440, 4462}",[18519],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+84125,COc1cc(C=O)c(Nc2cc(F)ccc2O)c(OC)c1,DWBJVFHAFXRLAF-UHFFFAOYSA-N,1,1,{108523},[],1,{1},[70646],"{8945, 18254}",[69965],Buchwald-Hartwig_amination,False,[2925],
+76514,COc1cc(C)c(C(=O)O)cc1C(=O)Nc1ccc(O)c(C#N)c1F,PTYWZFJTOTWABR-UHFFFAOYSA-N,1,1,{97458},[],1,{1},[62949],"{4497, 74586}",[62268],Ester_amidation,False,[3627],
+41086,COc1ccc(Nc2ccncc2O)cc1F,GMYQXVROVXYEQF-UHFFFAOYSA-N,1,1,{47112},[],1,{1},[30345],"{4483, 10862}",[30052],Buchwald-Hartwig_amination,False,[3628],
+12660,NC(=O)c1cc(Cl)c(C(=O)Nc2cccc(F)c2[N+](=O)[O-])c(Cl)c1,ALADTVBLYHSRSI-UHFFFAOYSA-N,1,1,{14219},[],1,{1},[6352],"{4579, 11763}",[6282],Amidation,False,[2944],
+31695,Cc1c(Br)ccn(Cc2noc(CC(C)C)n2)c1=O,NHHPFWDGHSIVLB-UHFFFAOYSA-N,1,1,{35424},[],1,{1},[22952],"{31625, 31657}",[22659],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+78654,Cn1c(C2COC2)nc2c(Br)cccc21,DJRXQXKRFFYMDY-UHFFFAOYSA-N,1,1,{101627},[],1,{1},[65013],"{78631, 78607}",[64332],Sp3-sp2_Suzuki_coupling,False,[1128],
+87775,Nc1cc(Cl)c(F)cc1NC(=O)COCCCBr,GIKRGPZFQIFVCW-UHFFFAOYSA-N,1,1,{113254},[],1,{1},[74350],"{10293, 86686}",[73669],Ester_amidation,False,[2924],
+31626,CCc1nc(Cn2ccc(Br)c(C)c2=O)no1,SHZLHXGONWQKGR-UHFFFAOYSA-N,1,1,{35363},[],1,{1},[22898],"{4472, 31625}",[22605],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+11265,NC(=O)c1cc(Cl)c(C(=O)Nc2c(N)ccc(Br)c2F)c(Cl)c1,YOSCSIZXLRCNOC-UHFFFAOYSA-N,1,1,{13084},[],1,{1},[5229],"{10336, 4579}",[5159],Amidation,False,[2944],
+52915,OCCC1(c2cnc3ccccc3n2)CC1,UUEBHTHWLMOVGK-UHFFFAOYSA-N,1,1,{64953},[],1,{1},[41198],"{4505, 52914}",[40624],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+49737,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CCNC(=O)C1C,KVCGPDHHRCKIJN-UHFFFAOYSA-N,1,2,"{55884, 55885}",[],1,{2},"[37286, 38558]","{4497, 14043, 15671}",[38035],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+78580,CC(C)c1cccc2c1ncn2C,KAVXAOQZINTUMZ-UHFFFAOYSA-N,1,1,{101568},[],1,{1},[64940],"{78576, 4558}",[64259],Sp3-sp2_Suzuki_coupling,False,[1128],
+78634,CC(C)c1nc2c(Br)cccc2n1C,IXJSJFAULWMXMP-UHFFFAOYSA-N,1,1,{101612},[],1,{1},[64990],"{4558, 78631}",[64310],Sp3-sp2_Suzuki_coupling,False,[1128],
+53232,FC(F)(F)c1ccc2ncc(C34CC3C4)nc2c1,DULFQHLZJMRIIY-UHFFFAOYSA-N,1,1,{65370},[],1,{1},[41514],"{53202, 52789}",[40940],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+87511,C#CCOCC(=O)Nc1cccc(F)c1[N+](=O)[O-],AHRXHFQLYSZECJ-UHFFFAOYSA-N,1,1,{112977},[],1,{1},[74087],"{11763, 86614}",[73406],Ester_amidation,False,[2924],
+88382,CC(C)(C)OC(=O)C(=O)Nc1cc(F)c(Cl)cc1N,WAIUTZGCGQYOEQ-UHFFFAOYSA-N,1,1,{113981},[],1,{1},[75858],"{86549, 10293}",[74348],Ester_amidation,False,[2924],
+88380,CC(C)(C)OC(=O)C(=O)Nc1cc(Cl)c(F)cc1N,ZKDDGRUWMJBWGC-UHFFFAOYSA-N,1,1,{113979},[],1,{1},[75865],"{86549, 10293}",[74342],Ester_amidation,False,[2924],
+88344,CC(C)(C)OC(=O)C(=O)Nc1c(N)ccc(Br)c1F,ONEYGPZKERJOGW-UHFFFAOYSA-N,1,1,{113942},[],1,{1},[75911],"{10336, 86549}",[74254],Ester_amidation,False,[2924],
+88343,CC(C)(C)OC(=O)C(=O)Nc1ccc(Br)c(F)c1N,NXUBANVVLANFGT-UHFFFAOYSA-N,1,1,{113941},[],1,{1},[75912],"{10336, 86549}",[74252],Ester_amidation,False,[2924],
+87776,Nc1cc(F)c(Cl)cc1NC(=O)COCCCBr,QKZBMWOFIJZGOW-UHFFFAOYSA-N,1,1,{113255},[],1,{1},[74351],"{10293, 86686}",[73670],Ester_amidation,False,[2924],
+87692,Nc1ccc(Br)c(F)c1NC(=O)COCCCBr,RVEAUIXSQBCHGY-UHFFFAOYSA-N,1,1,{113171},[],1,{1},[74267],"{10336, 86686}",[73586],Ester_amidation,False,[2924],
+87129,C#CCOCC(=O)Nc1c(N)ccc(Br)c1F,QAURHVJJODWUKJ-UHFFFAOYSA-N,1,1,{112508},[],1,{1},[73700],"{10336, 86614}",[73018],Ester_amidation,False,[2924],
+86832,CCOC(=O)C(=O)Nc1cc(F)c(Cl)cc1N,QLLSSOCVURYRNT-UHFFFAOYSA-N,1,1,{112135},[],1,{1},[73582],"{86549, 10293}",[72714],Ester_amidation,False,[2924],
+86831,CCOC(=O)C(=O)Nc1cc(Cl)c(F)cc1N,ORDPDCCBNMGJLC-UHFFFAOYSA-N,1,1,{112134},[],1,{1},[73581],"{86549, 10293}",[72712],Ester_amidation,False,[2924],
+86813,CCOC(=O)C(=O)Nc1ccc(Br)c(F)c1N,FIFFQFFIUALHFS-UHFFFAOYSA-N,1,1,{112114},[],1,{1},[73646],"{10336, 86549}",[72684],Ester_amidation,False,[2924],
+86812,CCOC(=O)C(=O)Nc1c(N)ccc(Br)c1F,QRCFCJMKYRBBIP-UHFFFAOYSA-N,1,1,{112113},[],1,{1},[73645],"{10336, 86549}",[72682],Ester_amidation,False,[2924],
+79874,Cn1c(O)nc2c(C3(CCO)CC3)cccc21,JHSGYCSLMCXIBE-UHFFFAOYSA-N,1,1,{103230},[],1,{1},[66327],"{52914, 78623}",[65648],Sp3-sp2_Suzuki_coupling,False,[1128],
+79307,Cn1cnc2c(C3(CCO)CC3)cccc21,XELUDKVLUMESDU-UHFFFAOYSA-N,1,1,{102425},[],1,{1},[65714],"{78576, 52914}",[65039],Sp3-sp2_Suzuki_coupling,False,[1128],
+79305,Cn1cnc2c(C3(C)CCOC3)cccc21,PVFWHGYGVRSMOL-UHFFFAOYSA-N,1,2,"{102422, 102423}",[],1,{1},[65712],"{78576, 52916}",[65037],Sp3-sp2_Suzuki_coupling,False,[1128],
+78763,Cn1c(O)nc2c(C(C)(C)C)cccc21,OECAZDKJZSGKQB-UHFFFAOYSA-N,1,1,{101747},[],1,{1},[65128],"{4507, 78623}",[64459],Sp3-sp2_Suzuki_coupling,False,[1128],
+78762,Cn1c(O)nc2c(C3COC3)cccc21,KNQWAKGBDZQWQT-UHFFFAOYSA-N,1,1,{101746},[],1,{1},[65127],"{78623, 78607}",[64458],Sp3-sp2_Suzuki_coupling,False,[1128],
+78743,Cn1c(O)nc2c(C34CC3C4)cccc21,LBYLPXYZZWVZCS-UHFFFAOYSA-N,1,1,{101724},[],1,{1},[65108],"{52789, 78623}",[64436],Sp3-sp2_Suzuki_coupling,False,[1128],
+78667,Cn1c(C23CC2C3)nc2c(Br)cccc21,WCTGHOGOHKPSRC-UHFFFAOYSA-N,1,1,{101641},[],1,{1},[65023],"{52789, 78631}",[64346],Sp3-sp2_Suzuki_coupling,False,[1128],
+78666,Cn1c(Cl)nc2c(C34CC3C4)cccc21,YRIQZUUWTZAASN-UHFFFAOYSA-N,1,1,{101640},[],1,{1},[65022],"{52789, 78631}",[64345],Sp3-sp2_Suzuki_coupling,False,[1128],
+78660,Cn1c(Cl)nc2c(C(C)(C)C)cccc21,XDAUNVVQVWBJRY-UHFFFAOYSA-N,1,1,{101632},[],1,{1},[65016],"{4507, 78631}",[64337],Sp3-sp2_Suzuki_coupling,False,[1128],
+78655,Cn1c(Cl)nc2c(C3COC3)cccc21,GNYBCXPIJWQELK-UHFFFAOYSA-N,1,1,{101628},[],1,{1},[65014],"{78631, 78607}",[64333],Sp3-sp2_Suzuki_coupling,False,[1128],
+78628,Cn1cnc2c(C(C)(C)C)cccc21,JQYCGBNJDYUOQB-UHFFFAOYSA-N,1,1,{101606},[],1,{1},[64980],"{78576, 4507}",[64302],Sp3-sp2_Suzuki_coupling,False,[1128],
+78604,Cn1cnc2c(C34CC3C4)cccc21,BTWMCXHJSMIREL-UHFFFAOYSA-N,1,1,{101585},[],1,{1},[64954],"{78576, 52789}",[64281],Sp3-sp2_Suzuki_coupling,False,[1128],
+78578,Cn1cnc2c(C3CC3)cccc21,QDQFTTDVKMGWRV-UHFFFAOYSA-N,1,1,{101567},[],1,{1},[64939],"{78576, 78581}",[64257],Sp3-sp2_Suzuki_coupling,False,[1128],
+78291,COc1cccc(C(F)(F)C(=O)Nc2c(Cl)nc(C)c(C)c2C)n1,OYGNQFZGDQASHO-UHFFFAOYSA-N,1,1,{101194},[],1,{1},[64663],"{37896, 77062}",[63982],Amidation,False,[1012],
+78136,Cc1nc(Cl)c(NC(=O)Cc2cccc(OC(F)F)n2)c(C)c1C,SPXKAJYKGBSDIT-UHFFFAOYSA-N,1,1,{100959},[],1,{1},[64508],"{37896, 77132}",[63827],Amidation,False,[1012],
+77786,Cc1ccnc(CO)c1NC(=O)Cc1cccc(OC(F)F)n1,UUOOUAIRJXELKH-UHFFFAOYSA-N,1,1,{100327},[],1,{1},[64159],"{37616, 77132}",[63478],Amidation,False,[1012],
+72766,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(F)c(F)cc3C(=O)O)cc(Cl)c21,JBNUHECBSRONFO-UHFFFAOYSA-N,1,1,{93785},[],1,{1},[59186],"{12370, 68670}",[58505],Amidation,False,[2919],
+72446,Cn1c(=O)[nH]c2cc(C(=O)Nc3cccc(F)c3[N+](=O)[O-])cc(Cl)c21,FPSWYBBNUSNBNX-UHFFFAOYSA-N,1,1,{93461},[],1,{1},[58866],"{11763, 68670}",[58185],Amidation,False,[2919],
+71741,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(F)c(O)cc3Cl)cc(Cl)c21,ISGLQXMQHBXJDN-UHFFFAOYSA-N,1,1,{92663},[],1,{1},[58162],"{10848, 68670}",[57481],Amidation,False,[2919],
+71637,Cn1c(=O)[nH]c2cc(C(=O)Nc3c(N)ccc(Br)c3F)cc(Cl)c21,KBXPCBNPUUMLOX-UHFFFAOYSA-N,1,1,{92546},[],1,{1},[58058],"{10336, 68670}",[57377],Amidation,False,[2919],
+71614,Cn1c(=O)[nH]c2cc(C(=O)Nc3ccc(Br)c(F)c3N)cc(Cl)c21,QHMYTYAXEQZYPM-UHFFFAOYSA-N,1,1,{92523},[],1,{1},[58035],"{10336, 68670}",[57354],Amidation,False,[2919],
+71573,Cc1cc(NC(=O)c2cc(Cl)c3c(c2)[nH]c(=O)n3C)c(Cl)cc1Cl,LPXOGBNOGQWUNK-UHFFFAOYSA-N,1,1,{92482},[],1,{1},[57994],"{10563, 68670}",[57313],Amidation,False,[2919],
+71498,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(Cl)c(F)cc3N)cc(Cl)c21,RXQNQAGELFYFJX-UHFFFAOYSA-N,1,1,{92407},[],1,{1},[57919],"{10293, 68670}",[57238],Amidation,False,[2919],
+71497,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(F)c(Cl)cc3N)cc(Cl)c21,XRUPMBUAEHNJPR-UHFFFAOYSA-N,1,1,{92406},[],1,{1},[57918],"{10293, 68670}",[57237],Amidation,False,[2919],
+71377,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(I)c(O)c(I)c3)cc(Cl)c21,ZMSYOYSKOOLDEF-UHFFFAOYSA-N,1,1,{92286},[],1,{1},[57798],"{10228, 68670}",[57117],Amidation,False,[2919],
+71199,Cn1c(=O)[nH]c2cc(C(=O)Nc3ccc(O)cc3Cl)cc(Cl)c21,NWDVZIRNQBDNMZ-UHFFFAOYSA-N,1,1,{92105},[],1,{1},[57620],"{9132, 68670}",[56939],Amidation,False,[2919],
+71145,Cn1c(=O)[nH]c2cc(C(=O)Nc3cccc(Br)c3S)cc(Cl)c21,DNHZTOQFYBEFOH-UHFFFAOYSA-N,1,1,{92051},[],1,{1},[57566],"{9264, 68670}",[56885],Amidation,False,[2919],
+71135,Cn1c(=O)[nH]c2cc(C(=O)Nc3cc(O)ccc3Br)cc(Cl)c21,WBYDKIQWNIYSNG-UHFFFAOYSA-N,1,1,{92041},[],1,{1},[57556],"{4476, 68670}",[56875],Amidation,False,[2919],
+64511,CC1NCCN(C(=O)c2cc(F)c(F)cc2N)C1C,XYWUIZPDIWGKRQ-UHFFFAOYSA-N,1,4,"{80912, 80913, 80910, 80911}",[],1,{1},[51600],"{12370, 63062}",[50925],Amidation,False,[1316],
+64208,COc1ccc(F)cc1C(=O)N1CCNC(=O)C1C,JJENYPLIWXSJTC-UHFFFAOYSA-N,1,2,"{80264, 80263}",[],1,{1},[51297],"{14043, 63203}",[50622],Amidation,False,[1316],
+63415,CC1NCCN(C(=O)c2cc(F)cc(Cl)c2)C1C,OMKRQRUXMPDVKF-UHFFFAOYSA-N,1,4,"{78689, 78690, 78691, 78692}",[],1,{1},[50589],"{62995, 63062}",[49914],Amidation,False,[1316],
+63411,CC1C(=O)NCCN1C(=O)c1cc(F)cc(Cl)c1,ZJPSAIHCPLIDFR-UHFFFAOYSA-N,1,2,"{78680, 78681}",[],1,{1},[50585],"{62995, 14043}",[49910],Amidation,False,[1316],
+63238,COc1ccc(F)cc1C(=O)N1CCNCC1C,JWBMRGQAOZOTNU-UHFFFAOYSA-N,1,2,"{78358, 78359}",[],1,{1},[50440],"{63203, 4535}",[49765],Amidation,False,[1316],
+63177,CC1CNCCN1C(=O)c1cc(F)c(F)cc1N,LHAFZVNXZNWVDS-UHFFFAOYSA-N,1,2,"{78264, 78265}",[],1,{1},[50399],"{12370, 4535}",[49724],Amidation,False,[1316],
+54183,FC(F)(F)c1ccc2nc(C3(C4CC4)CCOCC3)cnc2c1,ZEANSJNHKJYEAC-UHFFFAOYSA-N,1,1,{66756},[],1,{1},[42503],"{53200, 53478}",[41927],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+53816,OCCC1(c2cnc3cc(C(F)(F)F)ccc3n2)CC1,XRRICGSYEBZILY-UHFFFAOYSA-N,1,1,{66269},[],1,{1},[42128],"{53200, 52914}",[41556],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+53479,c1ccc2nc(C3(C4CC4)CCOCC3)cnc2c1,FMROQCOMGPBJGO-UHFFFAOYSA-N,1,1,{65811},[],1,{1},[41772],"{4505, 53478}",[41198],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+53230,CC(C)(C)c1cnc2cc(C(F)(F)F)ccc2n1,VAXCHSXAGHERHH-UHFFFAOYSA-N,1,1,{65368},[],1,{1},[41511],"{53200, 4507}",[40936],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+53203,CC(C)(C)c1cnc2ccc(C(F)(F)F)cc2n1,ZITZMIQCCMKTFK-UHFFFAOYSA-N,1,1,{65323},[],1,{1},[41483],"{53202, 4507}",[40908],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+53168,Cc1nc2ccccc2nc1C1(CCO)CC1,HRCACOGSAJOGSI-UHFFFAOYSA-N,1,1,{65255},[],1,{1},[41450],"{52914, 52795}",[40874],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+52917,CC1(c2cnc3ccccc3n2)CCOC1,SKIPFALYEWOFIC-UHFFFAOYSA-N,1,2,"{64954, 64955}",[],1,{1},[41199],"{4505, 52916}",[40625],Sp3-sp2_Suzuki_coupling,False,[1473],"c0839a, c1299a"
+49727,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CCNC(C)C1=O,WJCPBYMUAUYAHW-UHFFFAOYSA-N,1,2,"{55861, 55862}",[],1,{2},"[37286, 38549]","{4497, 14043, 15671}",[38026],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+49586,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CCC1C(=O)NC,YPQMDBBBZHRBJN-UHFFFAOYSA-N,1,2,"{55617, 55618}",[],1,{2},"[37286, 38412]","{4497, 48406, 15671}",[37889],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+49511,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N(C)C(=O)C1CCN1,RQYCELDFLIKPOG-UHFFFAOYSA-N,1,2,"{55517, 55518}",[],1,{2},"[37286, 38338]","{4497, 48406, 15671}",[37815],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+48408,COCC(=O)Nc1ccc(O)c(C#N)c1N(C)C(=O)C1CCN1,JISUOQFUEPURSC-UHFFFAOYSA-N,1,1,{53911},[],1,{2},"[54, 37280]","{4449, 4497, 48406}",[36839],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+48234,COCC(=O)Nc1ccc(O)c(C#N)c1NC(=O)CN(C)C,CPWZOEWXUNUGCV-UHFFFAOYSA-N,1,1,{53666},[],1,{2},"[54, 37129]","{48232, 4449, 4497}",[36691],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+38150,Cc1ccnc(CO)c1NC(=O)C1CCc2ccc(=O)[nH]c21,CPSNXGOJRPNXRM-UHFFFAOYSA-N,1,4,"{99616, 99617, 43532, 43533}",[],1,{1},[27687],"{37616, 37786}",[27394],Amidation,False,[1012],
+36499,CC(C)(C)OC(=O)C(=O)Nc1cc2c(cc1N)OCCO2,QBGAKTUPPLJLOM-UHFFFAOYSA-N,1,2,"{85814, 40814}",[],1,{1},[26270],"{35586, 35733}",[25977],Buchwald-Hartwig_amidation_with_amide-like_nucleophile,False,[3624],
+29774,CCc1c(N)c(=O)[nH]c(=O)n1CC1CCS(=O)(=O)C1,VJAMXYGHDOELAK-UHFFFAOYSA-N,1,2,"{32116, 32117}",[],1,{1},[21323],"{4466, 29773}",[21056],Nucleophilic_substitution_with_amine,False,[95],
+27123,Cn1c(Cl)c(C(=O)NCc2cccs2)c2cc(Cl)c(Cl)cc21,BORNGNQTRSYLJI-UHFFFAOYSA-N,1,1,{29621},[],1,{1},[19288],"{4440, 25833}",[19120],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+26892,CN(CCCO)C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12,ZDHVWUGJSKRPOS-UHFFFAOYSA-N,1,1,{29308},[],1,{1},[19057],"{25833, 13750}",[18889],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+26786,CCN(C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12)C(C)C,YWBTUYVJZBVMFW-UHFFFAOYSA-N,1,1,{29166},[],1,{1},[18951],"{25833, 13930}",[18783],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+26245,CN(NC(=O)c1cn(C)c2cc(Cl)ccc12)C(N)=O,DTOORHIHVYJXLG-UHFFFAOYSA-N,1,1,{28457},[],1,{1},[18410],"{13764, 4462}",[18242],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+15821,COC(CC1CCCC1)C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,DAEFBPXAGHSVFP-UHFFFAOYSA-N,1,1,{16813},[],1,{1},[8198],"{15706, 14503}",[8128],Amidation,False,[2916],
+15765,CCC(CC)C(OC)C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,JEYFOTYCFZKWFC-UHFFFAOYSA-N,1,1,{16746},[],1,{1},[8151],"{15059, 14503}",[8081],Amidation,False,[2916],
+14615,COC(C(=O)Nc1cccc(C(=O)NCc2cccs2)c1)C(C)C,ZKXXDKWSOUYOAS-UHFFFAOYSA-N,1,2,"{15642, 15643}",[],1,{1},[7461],"{4450, 14614}",[7391],Amidation,False,[2916],
+14524,O=C(COC(F)F)Nc1cccc(C(=O)NCc2cccs2)c1,DRIGAIZENUBOKU-UHFFFAOYSA-N,1,1,{15564},[],1,{1},[7412],"{4450, 14523}",[7342],Amidation,False,[2916],
+14518,O=C(Nc1cccc(C(=O)NCc2cccs2)c1)C1=CCCO1,GTUWRHPMLOKNGV-UHFFFAOYSA-N,1,1,{15561},[],1,{1},[7409],"{4450, 14517}",[7339],Amidation,False,[2916],
+14504,COCC(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,CQPQOENVXXFLSV-UHFFFAOYSA-N,1,1,{15550},[],1,{1},[7402],"{4449, 14503}",[7332],Amidation,False,[2916],
+12827,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(F)c(F)cc2C(=O)O)c(Cl)c1,UIDDCTJNKRHACT-UHFFFAOYSA-N,1,1,{14378},[],1,{1},[6508],"{12370, 4579}",[6438],Amidation,False,[2944],
+12658,NC(=O)c1cc(Cl)c(C(=O)Nc2ccc(F)c([N+](=O)[O-])c2)c(Cl)c1,OTKUJOZDYICEQK-UHFFFAOYSA-N,1,1,{14217},[],1,{1},[6350],"{11753, 4579}",[6280],Amidation,False,[2944],
+12313,NC(=O)c1cc(Cl)c(C(=O)Nc2c(F)cc(Cl)cc2F)c(Cl)c1,GJUVLJWJLCGUNX-UHFFFAOYSA-N,1,1,{13959},[],1,{1},[6094],"{4579, 10741}",[6024],Amidation,False,[2944],
+11892,COc1ccc(NC(=O)c2c(Cl)cc(C(N)=O)cc2Cl)cc1F,VAYYGCWMWPELND-UHFFFAOYSA-N,1,1,{13644},[],1,{1},[5785],"{4579, 10862}",[5715],Amidation,False,[2944],
+11885,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(F)c(O)cc2Cl)c(Cl)c1,ZAQGDJFYUNWQJW-UHFFFAOYSA-N,1,1,{13637},[],1,{1},[5778],"{10848, 4579}",[5708],Amidation,False,[2944],
+11849,COc1ccc(NC(=O)c2c(Cl)cc(C(N)=O)cc2Cl)cc1Cl,JNXPVPDOGTWTGV-UHFFFAOYSA-N,1,1,{13615},[],1,{1},[5756],"{10922, 4579}",[5686],Amidation,False,[2944],
+11602,Cc1cc(Cl)c(NC(=O)c2c(Cl)cc(C(N)=O)cc2Cl)cc1N,DJLJMRWSFFVBRQ-UHFFFAOYSA-N,1,1,{13420},[],1,{1},[5563],"{11194, 4579}",[5493],Amidation,False,[2944],
+11421,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(Cl)c(F)cc2N)c(Cl)c1,DXSNNUYZWIBHTR-UHFFFAOYSA-N,1,1,{13241},[],1,{1},[5384],"{4579, 10293}",[5314],Amidation,False,[2944],
+11406,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(F)c(Cl)cc2N)c(Cl)c1,QIUPEYZWRZUALQ-UHFFFAOYSA-N,1,1,{13226},[],1,{1},[5369],"{4579, 10293}",[5299],Amidation,False,[2944],
+11266,NC(=O)c1cc(Cl)c(C(=O)Nc2ccc(Br)c(F)c2N)c(Cl)c1,DXZHSDOXEDZGGI-UHFFFAOYSA-N,1,1,{13085},[],1,{1},[5230],"{10336, 4579}",[5160],Amidation,False,[2944],
+10036,NC(=O)c1cc(Cl)c(C(=O)Nc2cc(O)ccc2Br)c(Cl)c1,XNMWMZVGWGQIEJ-UHFFFAOYSA-N,1,1,{12368},[],1,{1},[4517],"{4579, 4476}",[4447],Amidation,False,[2944],
+9465,NC(=O)c1cc(Cl)c(C(=O)Nc2cccc(F)c2Cl)c(Cl)c1,OYUPIDAWSKPWNF-UHFFFAOYSA-N,1,1,{11911},[],1,{1},[4061],"{4579, 8947}",[3991],Amidation,False,[2944],
+49994,CCOC(CC)C(=O)Nc1ccc(O)c(C#N)c1N1C(=N)NCC1=O,SUOGJPMIZNUKGU-UHFFFAOYSA-N,1,2,"{56293, 56294}",[],1,{2},"[37488, 38809]","{4497, 14610, 48394}",[38286],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+87754,Cc1ccc(N)c(NC(=O)COC(C)(C)C)c1Cl,NDNAMPVCZPDUIL-UHFFFAOYSA-N,1,1,{113233},[],1,{1},[74329],"{86738, 11182}",[73648],Ester_amidation,False,[2924],
+63523,Cc1ccc(F)cc1C(=O)N1CCNC(C)C1C,VFFTVTFJDHBDNP-UHFFFAOYSA-N,1,4,"{78881, 78882, 78883, 78884}",[],1,{1},[50672],"{63062, 63015}",[49997],Amidation,False,[1316],
+32007,CC1(c2nc(Cn3ccc(Br)c(N)c3=O)no2)CCCC1,NJQNUQXOTLEDBF-UHFFFAOYSA-N,1,1,{35751},[],1,{1},[23236],"{31954, 31629}",[22943],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+27081,CC(C)CN(CC(=O)O)C(=O)c1cn(C)c2cc(Cl)ccc12,ZFINTGCGLFIPNR-UHFFFAOYSA-N,1,1,{29567},[],1,{1},[19246],"{14132, 4462}",[19078],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+28801,N#Cc1cncn(CC2CCS(=O)(=O)C2)c1=O,XMELLLKDAXIHIO-UHFFFAOYSA-N,1,2,"{31162, 31163}",[],1,{1},[20793],"{28800, 4466}",[20526],Nucleophilic_substitution_with_amine,False,[95],
+82310,COc1cc(Br)cc(C)c1Nc1cccc(O)c1Cl,IGKIIUIHUOMEMT-UHFFFAOYSA-N,1,1,{106528},[],1,{1},[68767],"{9138, 16731}",[68138],Buchwald-Hartwig_amination,False,[2925],
+88009,C#CCCOCC(=O)Nc1c(N)ccc(Br)c1F,VOGUVQIQLOZHAA-UHFFFAOYSA-N,1,1,{113531},[],1,{1},[74585],"{10336, 86695}",[73902],Ester_amidation,False,[2924],
+32028,Cc1c(Br)ccn(Cc2noc(C3(C)CCCC3)n2)c1=O,MUWFHYOONNLIAK-UHFFFAOYSA-N,1,1,{35773},[],1,{1},[23256],"{31625, 31954}",[22963],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+89133,CC(C)(C)OCC(=O)Nc1cccc(F)c1[N+](=O)[O-],SAJHUPLXPLTGGW-UHFFFAOYSA-N,1,1,{114949},[],1,{1},[75770],"{86738, 11763}",[75163],Ester_amidation,False,[2924],
+82311,COc1cc(Nc2cccc(O)c2Cl)cc(C)c1I,TUYGGRBJJYISSC-UHFFFAOYSA-N,1,1,{106529},[],1,{1},[68768],"{9138, 16731}",[68139],Buchwald-Hartwig_amination,False,[2925],
+63088,Cc1ccc(F)cc1C(=O)N1CCNCC1C,ODEOQBGLGAKHSC-UHFFFAOYSA-N,1,2,"{78120, 78119}",[],1,{1},[50335],"{63015, 4535}",[49660],Amidation,False,[1316],
+87967,C#CCCOCC(=O)Nc1cc(Cl)c(F)cc1N,HFXXYRFVSDUHQI-UHFFFAOYSA-N,1,1,{113483},[],1,{1},[74543],"{10293, 86695}",[73860],Ester_amidation,False,[2924],
+31955,CC1(c2nc(Cn3ccc(Br)cc3=O)no2)CCCC1,WJRSIOYLPCQSRN-UHFFFAOYSA-N,1,1,{35696},[],1,{1},[23185],"{31954, 84}",[22892],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+31633,Nc1c(Br)ccn(Cc2noc(C3CC3)n2)c1=O,SRWLYATXIQCXQW-UHFFFAOYSA-N,1,1,{35367},[],1,{1},[22902],"{31629, 31631}",[22609],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+48637,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1C(=N)NCC1=O,UEOVRICYOUGFIA-UHFFFAOYSA-N,1,1,{54180},[],1,{2},"[37286, 37506]","{4497, 48394, 15671}",[37014],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+17510,COc1cc(Nc2cc(I)c(O)c(I)c2)cc(C)c1I,FLCJJYVOSYGQLU-UHFFFAOYSA-N,1,1,{18661},[],1,{1},[10465],"{16731, 10228}",[9636],Buchwald-Hartwig_amination,False,[3625],"c0692a, c1116a"
+31766,CCCCc1nc(Cn2ccc(Br)c(N)c2=O)no1,IGRSVZMCLIBAIM-UHFFFAOYSA-N,1,1,{35493},[],1,{1},[23015],"{31629, 31653}",[22722],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+31630,CCc1nc(Cn2ccc(Br)c(N)c2=O)no1,FEWSYXLGXPZOAJ-UHFFFAOYSA-N,1,1,{35365},[],1,{1},[22900],"{4472, 31629}",[22607],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+31712,CC(C)Cc1nc(Cn2ccc(Br)c(N)c2=O)no1,VCMAUEGDAYMDPQ-UHFFFAOYSA-N,1,1,{35441},[],1,{1},[22969],"{31657, 31629}",[22676],Nucleophilic_substitution_with_amine,False,[1917],"c0316a, c1091a"
+72796,COc1ccc(N)cc1C(=O)Nc1ccc(O)cc1,OCVOCNVCDVNCJL-UHFFFAOYSA-N,1,1,{93813},[],1,{1},[59214],"{72795, 4452}",[58533],Ester_amidation,False,[3627],
+49998,CCOC(CC)C(=O)Nc1ccc(O)c(C#N)c1N1CC(=O)NC1=N,JWGSUNWTIUDXAS-UHFFFAOYSA-N,1,2,"{56299, 56300}",[],1,{2},"[37488, 38813]","{4497, 14610, 48394}",[38290],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+88011,C#CCCOCC(=O)Nc1ccc(Br)c(F)c1N,GHGVTQDOIIWDBY-UHFFFAOYSA-N,1,1,{113534},[],1,{1},[74587],"{10336, 86695}",[73904],Ester_amidation,False,[2924],
+63502,Cc1ccc(F)cc1C(=O)N1CCNC(=O)C1C,GRCVRRIZQHLAMC-UHFFFAOYSA-N,1,2,"{78846, 78847}",[],1,{1},[50656],"{14043, 63015}",[49981],Amidation,False,[1316],
+27283,CC(C)CN(CC(=O)O)C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12,HEPICOMVMFXWEE-UHFFFAOYSA-N,1,1,{29838},[],1,{1},[19448],"{25833, 14132}",[19280],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+14611,CCOC(CC)C(=O)Nc1cccc(C(=O)NCc2cccs2)c1,ICBADWZPPAWLRX-UHFFFAOYSA-N,1,1,{15640},[],1,{1},[7459],"{4450, 14610}",[7389],Amidation,False,[2916],
+48638,C=C(OCC)C(=O)Nc1ccc(O)c(C#N)c1N1CC(=O)NC1=N,PDKZOKQKVPLEFI-UHFFFAOYSA-N,1,1,{54181},[],1,{2},"[37286, 37507]","{4497, 48394, 15671}",[37015],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+87722,Cc1ccc(N)c(NC(=O)COCCCBr)c1Cl,HPUSYFHMBZXPLC-UHFFFAOYSA-N,1,1,{113201},[],1,{1},[74297],"{86686, 11182}",[73616],Ester_amidation,False,[2924],
+89143,C#CCCOCC(=O)Nc1cccc(F)c1[N+](=O)[O-],UHMSCEHNRIERSB-UHFFFAOYSA-N,1,1,{114959},[],1,{1},[75780],"{11763, 86695}",[75173],Ester_amidation,False,[2924],
+86700,CCOC(=O)C(=O)Nc1c(N)ccc(C)c1Cl,UXGUTQNHSIUKHO-UHFFFAOYSA-N,1,1,{111991},[],1,{1},[73642],"{86549, 11182}",[72532],Ester_amidation,False,[2924],
+15051,CCOC(CC)C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,FSUYETMOLRPUPX-UHFFFAOYSA-N,1,1,{16026},[],1,{1},[7709],"{14610, 14503}",[7639],Amidation,False,[2916],
+86701,CCOC(=O)C(=O)Nc1ccc(C)c(Cl)c1N,SWGGQHAPDXQPTB-UHFFFAOYSA-N,1,1,{111992},[],1,{1},[73641],"{86549, 11182}",[72534],Ester_amidation,False,[2924],
+88378,Cc1ccc(N)c(NC(=O)C(=O)OC(C)(C)C)c1Cl,UICIKDYQWZSIEL-UHFFFAOYSA-N,1,1,{113977},[],1,{1},[75882],"{86549, 11182}",[74336],Ester_amidation,False,[2924],
+87966,C#CCCOCC(=O)Nc1cc(F)c(Cl)cc1N,UEQXNHLPXRFMBW-UHFFFAOYSA-N,1,1,{113482},[],1,{1},[74542],"{10293, 86695}",[73859],Ester_amidation,False,[2924],
+88003,C#CCCOCC(=O)Nc1c(N)ccc(C)c1Cl,NUCHCYLAYVKXHM-UHFFFAOYSA-N,1,1,{113525},[],1,{1},[74579],"{11182, 86695}",[73896],Ester_amidation,False,[2924],
+87604,CC(C)(C)OCC(=O)Nc1cc(Cl)c(F)cc1N,CTWNEBJEMUGKMW-UHFFFAOYSA-N,1,1,{113083},[],1,{1},[74179],"{86738, 10293}",[73498],Ester_amidation,False,[2924],
+87615,CC(C)(C)OCC(=O)Nc1ccc(Br)c(F)c1N,UPVAXRPWNHYQBB-UHFFFAOYSA-N,1,1,{113094},[],1,{1},[74190],"{10336, 86738}",[73509],Ester_amidation,False,[2924],
+86929,C#CCOCC(=O)Nc1c(N)ccc(C)c1Cl,GYQCZNDOPFWBQK-UHFFFAOYSA-N,1,1,{112239},[],1,{1},[73462],"{86614, 11182}",[72820],Ester_amidation,False,[2924],
+87616,CC(C)(C)OCC(=O)Nc1c(N)ccc(Br)c1F,QSOUUPMSYHPPNU-UHFFFAOYSA-N,1,1,{113095},[],1,{1},[74191],"{10336, 86738}",[73510],Ester_amidation,False,[2924],
+88002,C#CCCOCC(=O)Nc1ccc(C)c(Cl)c1N,UYKHAIRISJEXAU-UHFFFAOYSA-N,1,1,{113524},[],1,{1},[74578],"{11182, 86695}",[73895],Ester_amidation,False,[2924],
+87602,CC(C)(C)OCC(=O)Nc1cc(F)c(Cl)cc1N,YCFGCZQMNMGSSP-UHFFFAOYSA-N,1,1,{113081},[],1,{1},[74177],"{86738, 10293}",[73496],Ester_amidation,False,[2924],
+89921,CCCN(C(=O)c1cn[nH]c1)C(=O)c1cccc(=O)n1O,KHEHEMIZYLXTKT-UHFFFAOYSA-N,1,1,{115770},[],1,{1},[76581],"{89920, 4573}",[75904],Ester_amidation,False,[555],
+48766,C=C(OC)C(=O)Nc1ccc(O)c(C#N)c1NC(=O)C(C)(C)NC,QAELTRLPDAWWFI-UHFFFAOYSA-N,1,1,{54340},[],1,{2},"[37122, 37623]","{4497, 48275, 14501}",[37116],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+89116,CC1(C(=O)Nc2cccc3c2N=S=N3)CNCCO1,DJPPGOLWZFKAKU-UHFFFAOYSA-N,1,2,"{114918, 114919}",[],1,{1},[75753],"{10682, 87461}",[75146],Ester_amidation,False,[2924],
+64731,Cc1ccc(C(=O)N2CC(=O)NC(=O)C2C)cc1F,YCQMJAAJPFPKQZ-UHFFFAOYSA-N,1,2,"{81422, 81423}",[],1,{1},[51820],"{63040, 63704}",[51145],Amidation,False,[1316],
+26815,CCCN(CC)C(=O)c1c(Cl)n(C)c2cc(Cl)c(Cl)cc12,WRUDPEWAJIYFOJ-UHFFFAOYSA-N,1,1,{29202},[],1,{1},[18980],"{25833, 13802}",[18812],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+41369,COc1cnc(Cl)cc1N(C)c1ccc(O)cc1,WCKZUCTUACEFNN-UHFFFAOYSA-N,1,1,{47388},[],1,{1},[30664],"{9186, 40927}",[30394],Buchwald-Hartwig_amination,False,[3628],
+87576,CC(C)(C)OCC(=O)Nc1cc(F)c(F)cc1N,AEVVOFWFEFEAHM-UHFFFAOYSA-N,1,1,{113044},[],1,{1},[74151],"{86738, 10557}",[73470],Ester_amidation,False,[2924],
+74603,COc1cc(C)c(C(=O)O)cc1C(=O)N(C)c1ccc(O)cc1,ZNXMDNIDLCJILC-UHFFFAOYSA-N,1,1,{95565},[],1,{1},[61039],"{9186, 74586}",[60384],Ester_amidation,False,[3627],
+63041,Cc1ccc(C(=O)N2CCNCC2C)cc1F,IUKJAQYQDJSHND-UHFFFAOYSA-N,1,2,"{78068, 78069}",[],1,{1},[50315],"{63040, 4535}",[49640],Amidation,False,[1316],
+63632,Cc1ccc(C(=O)N2CCNC(C)C2C)cc1F,GCEYCIPYNZHZKA-UHFFFAOYSA-N,1,4,"{79064, 79065, 79066, 79067}",[],1,{1},[50752],"{63040, 63062}",[50077],Amidation,False,[1316],
+48525,C=C(OC)C(=O)Nc1ccc(O)c(C#N)c1N1CCNC(C)C1=O,XGSUFIKJTHWXHD-UHFFFAOYSA-N,1,2,"{54038, 54039}",[],1,{2},"[37122, 37396]","{4497, 14043, 14501}",[36923],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+14557,C=C(OC)C(=O)Nc1ccc(Cl)c(C(=O)NCc2cccs2)c1,ZYJRWEACKGDWIL-UHFFFAOYSA-N,1,1,{15588},[],1,{1},[7430],"{14501, 14503}",[7360],Amidation,False,[2916],
+63959,CC1C(=O)NC(=O)CN1C(=O)c1cc(F)cc(Cl)c1,DNLBZACSBADEPQ-UHFFFAOYSA-N,1,2,"{79724, 79725}",[],1,{1},[51048],"{63704, 62995}",[50373],Amidation,False,[1316],
+48685,C=C(OC)C(=O)Nc1ccc(O)c(C#N)c1N(C)C(=O)C1CCN1,UAZKTNKESANRQZ-UHFFFAOYSA-N,1,1,{54235},[],1,{2},"[37122, 37554]","{4497, 14501, 48406}",[37048],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+87765,Nc1cc(F)c(F)cc1NC(=O)COCCCBr,APKQWRJXKXVOND-UHFFFAOYSA-N,1,1,{113244},[],1,{1},[74340],"{10557, 86686}",[73659],Ester_amidation,False,[2924],
+72860,COc1ccc(N)cc1C(=O)N(C)c1ccc(O)cc1,YAPQPMAZFUMYMD-UHFFFAOYSA-N,1,1,{93875},[],1,{1},[59276],"{9186, 72795}",[58595],Ester_amidation,False,[3627],
+48686,C=C(OC)C(=O)Nc1ccc(O)c(C#N)c1N1CCC1C(=O)NC,NTTCSCYPYUHYOE-UHFFFAOYSA-N,1,1,{54236},[],1,{2},"[37122, 37555]","{4497, 14501, 48406}",[37049],"Amidation, N-nucleophilic_aromatic_substitution",False,[3611],
+42665,COc1cnc(Cl)cc1Nc1cc(F)c(O)cc1Cl,QELXFMRNSMWPKT-UHFFFAOYSA-N,1,1,{48656},[],1,{1},[32002],"{10848, 40927}",[31766],Buchwald-Hartwig_amination,False,[3628],
+86764,CCOC(=O)C(=O)Nc1cc(F)c(F)cc1N,VKICGRKEGWGYRG-UHFFFAOYSA-N,1,1,{112052},[],1,{1},[73570],"{86549, 10557}",[72610],Ester_amidation,False,[2924],
+89100,Cc1ccc(N)c(NC(=O)C2(C)CNCCO2)c1Cl,OWZVNZTZCUCISJ-UHFFFAOYSA-N,1,2,"{114890, 114891}",[],1,{1},[75737],"{87461, 11182}",[75130],Ester_amidation,False,[2924],
+89077,CC1(C(=O)Nc2c(N)ccc(Br)c2F)CNCCO1,AMXQXUGTHDYRKC-UHFFFAOYSA-N,1,2,"{114846, 114847}",[],1,{1},[75714],"{10336, 87461}",[75107],Ester_amidation,False,[2924],
+63637,Cc1ccc(C(=O)N2CCNC(=O)C2C)cc1F,BLXZQAGAEDUMNW-UHFFFAOYSA-N,1,2,"{79075, 79076}",[],1,{1},[50757],"{63040, 14043}",[50082],Amidation,False,[1316],
+26179,CCCN(CC)C(=O)c1cn(C)c2cc(Cl)ccc12,WIDDNWOFRJNXLE-UHFFFAOYSA-N,1,1,{28372},[],1,{1},[18344],"{13802, 4462}",[18176],Amidation,False,[2188],"c0270a, c0894a, c0894d"
+89119,CC1(C(=O)Nc2cc(Cl)c(F)cc2N)CNCCO1,XKJDWDJTRVQKRA-UHFFFAOYSA-N,1,2,"{114924, 114925}",[],1,{1},[75756],"{10293, 87461}",[75149],Ester_amidation,False,[2924],
+86765,CCOC(=O)C(=O)Nc1cccc2c1N=S=N2,ZFNBKTLANMTMGL-UHFFFAOYSA-N,1,1,{112053},[],1,{1},[73571],"{10682, 86549}",[72612],Ester_amidation,False,[2924],
+63705,CC1C(=O)NC(=O)CN1C(=O)c1cccc(F)c1,YPBMGWXKIQRLCT-UHFFFAOYSA-N,1,2,"{79169, 79170}",[],1,{1},[50802],"{63704, 4534}",[50127],Amidation,False,[1316],
+87781,O=C(COCCCBr)Nc1cccc2c1N=S=N2,YLMDEDREDNFDEZ-UHFFFAOYSA-N,1,1,{113260},[],1,{1},[74356],"{10682, 86686}",[73675],Ester_amidation,False,[2924],
+14502,C=C(OC)C(=O)Nc1cccc(C(=O)NCc2cccs2)c1,JNAFQHXNLQQKAQ-UHFFFAOYSA-N,1,1,{15549},[],1,{1},[7401],"{4450, 14501}",[7331],Amidation,False,[2916],
+87266,C#CCOCC(=O)Nc1cc(F)c(F)cc1N,NHDNDFIJOFMVFJ-UHFFFAOYSA-N,1,1,{112646},[],1,{1},[73837],"{10557, 86614}",[73154],Ester_amidation,False,[2924],
+87987,C#CCCOCC(=O)Nc1cccc2c1N=S=N2,UQUTXGMZCKTIAU-UHFFFAOYSA-N,1,1,{113509},[],1,{1},[74563],"{10682, 86695}",[73880],Ester_amidation,False,[2924],
+88434,CC(C)(C)OC(=O)C(=O)Nc1cccc2c1N=S=N2,RUFYPAXOLWWLPN-UHFFFAOYSA-N,1,1,{114033},[],1,{1},[75868],"{10682, 86549}",[74446],Ester_amidation,False,[2924],
+87988,C#CCCOCC(=O)Nc1cc(F)c(F)cc1N,YZTMDIDXCSTDKV-UHFFFAOYSA-N,1,1,{113510},[],1,{1},[74564],"{10557, 86695}",[73881],Ester_amidation,False,[2924],
+87574,CC(C)(C)OCC(=O)Nc1cccc2c1N=S=N2,MYTMMWXECXOGMT-UHFFFAOYSA-N,1,1,{113041},[],1,{1},[74149],"{86738, 10682}",[73468],Ester_amidation,False,[2924],
+88504,CC(C)(C)OC(=O)C(=O)Nc1cc(F)c(F)cc1N,MVQQQLKSXDHZNX-UHFFFAOYSA-N,1,1,{114102},[],1,{1},[75867],"{86549, 10557}",[74537],Ester_amidation,False,[2924],
+89078,CC1(C(=O)Nc2ccc(Br)c(F)c2N)CNCCO1,GYDJDDQZRHQQMF-UHFFFAOYSA-N,1,2,"{114848, 114849}",[],1,{1},[75715],"{10336, 87461}",[75108],Ester_amidation,False,[2924],
+89118,CC1(C(=O)Nc2cc(F)c(Cl)cc2N)CNCCO1,PJQWIOOSWXJUPE-UHFFFAOYSA-N,1,2,"{114922, 114923}",[],1,{1},[75755],"{10293, 87461}",[75148],Ester_amidation,False,[2924],
+87265,C#CCOCC(=O)Nc1cccc2c1N=S=N2,UFEHJSCNFWABPM-UHFFFAOYSA-N,1,1,{112645},[],1,{1},[73836],"{10682, 86614}",[73153],Ester_amidation,False,[2924],
+89115,CC1(C(=O)Nc2cc(F)c(F)cc2N)CNCCO1,MGXPSKNOKKWTQG-UHFFFAOYSA-N,1,2,"{114916, 114917}",[],1,{1},[75752],"{10557, 87461}",[75145],Ester_amidation,False,[2924],
+88452,CC(C)(C)OC(=O)C(=O)Nc1cc(Cl)cc(Br)c1N,MSFIXWFXWOQYNP-UHFFFAOYSA-N,1,1,{114051},[],1,{1},[75635],"{87314, 10253}",[74469],Ester_amidation,False,[2924],
