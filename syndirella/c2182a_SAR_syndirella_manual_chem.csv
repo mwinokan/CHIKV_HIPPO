@@ -1,5 +1,0 @@
-smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
-O=C(NCc1ccccc1)c1ncnc2[nH]ccc12,Amidation-chikv-1,NCc1ccccc1,OC(=O)c1ncnc2[nH]ccc12,O=C(NCc1ccccc1)c1ncnc2[nH]ccc12,,,,c2182a,,,,
-O=C(NCc1ccccc1)c1ccnc2[nH]ccc12,Amidation-chikv-2,NCc1ccccc1,OC(=O)c1ccnc2[nH]ccc12,O=C(NCc1ccccc1)c1ccnc2[nH]ccc12,,,,c2182a,,,,
-Nc1nccc(n1)C(=O)NCc1ccccc1,Amidation-chikv-3,NCc1ccccc1,CC(C)(C)OC(=O)Nc1nccc(n1)C(O)=O,CC(C)(C)OC(=O)Nc1nccc(n1)C(=O)NCc1ccccc1,N-Boc_deprotection,,Nc1nccc(n1)C(=O)NCc1ccccc1,c2182a,,,,
-Nc1cc(ccn1)C(=O)NCc1ccccc1,Amidation-chikv-4,NCc1ccccc1,CC(C)(C)OC(=O)Nc1cc(ccn1)C(O)=O,CC(C)(C)OC(=O)Nc1cc(ccn1)C(=O)NCc1ccccc1,N-Boc_deprotection,,Nc1cc(ccn1)C(=O)NCc1ccccc1,c2182a,,,,

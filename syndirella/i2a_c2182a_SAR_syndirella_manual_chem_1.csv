@@ -1,0 +1,2 @@
+smiles,reaction_name_step1,reactant_step1,reactant2_step1,product_step1,reaction_name_step2,reactant_step2,product_step2,hit1,hit2,hit3,template,compound_set
+O=C(NCc1ccccc1)c1ncnc2[nH]ccc12,Amidation-chikv-1,NCc1ccccc1,OC(=O)c1ncnc2[nH]ccc12,O=C(NCc1ccccc1)c1ncnc2[nH]ccc12,,,,c2182a,,,c2182a,i2a_c2182a_SAR
